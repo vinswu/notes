@@ -33,8 +33,11 @@
     
 输入法
 
-    QQ拼音输入法
+    QQ输入法
     http://qq.pinyin.cn/
+    
+    搜狗输入法
+    https://pinyin.sogou.com/
     
     极点五笔输入法
     http://www.freewb.org/
@@ -57,11 +60,15 @@
 
      Firefox
      https://www.mozilla.org/zh-CN/firefox/all/
+     
      Firefox ESR
      https://www.mozilla.org/zh-CN/firefox/organizations/all/
      
      Chrome
      https://www.google.com/chrome/
+     
+     Adblock Plus for <Chrome / Firefox / IE / Safari / 傲游>
+     https://adblockplus.org/zh_CN/download
      
 办公协作
 
@@ -101,5 +108,10 @@
     
 下载
 
-    迅雷极速版 / 迅雷精简版 / 迅雷迷你版（都已成为传说）
+    迅雷 <迅雷极速版 / 迅雷精简版 / 迅雷迷你版>
+    https://www.xunlei.com/
+    
+    Internet Download Manager
+    http://www.internetdownloadmanager.com/
+    
     
