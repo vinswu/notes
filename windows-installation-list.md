@@ -1,4 +1,4 @@
-# windows 装机必备
+# windows-installation-list WINDOWS装机清单
 
 
 系统
