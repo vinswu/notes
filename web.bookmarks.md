@@ -1,29 +1,51 @@
 # 网络书签
 
+数码科技系
 
-My Digital Life
-* https://forums.mydigitallife.net/
+    Chiphell
+    https://www.chiphell.com/
     
-远景论坛
-* http://bbs.pcbeta.com/
+    KoolShare
+    http://koolshare.cn
     
-IT天空
-* https://www.itsk.com/
+    cnBeta.COM
+    https://www.cnbeta.com/
     
-吾爱破解
-* https://www.52pojie.cn/
+    IT之家
+    https://www.ithome.com/
     
-卡饭论坛
-* https://bbs.kafan.cn/
+    瘾科技
+    https://cn.engadget.com/
+    
+    CNET
+    https://www.cnet.com/
 
-善用佳软
-* https://xbeta.info/
+应用软件系
+
+    远景论坛
+    http://bbs.pcbeta.com/
     
-小众软件
-* https://www.appinn.com/
+    My Digital Life
+    https://forums.mydigitallife.net/
     
-异次元软件世界
-* https://www.iplaysoft.com/
+    IT天空
+    https://www.itsk.com/
     
-重灌狂人
-* https://briian.com/
+    吾爱破解
+    https://www.52pojie.cn/
+    
+    卡饭论坛
+    https://bbs.kafan.cn/
+    
+    善用佳软
+    https://xbeta.info/
+    
+    小众软件
+    https://www.appinn.com/
+    
+    异次元软件世界
+    https://www.iplaysoft.com/
+    
+    重灌狂人
+    https://briian.com/
+    
