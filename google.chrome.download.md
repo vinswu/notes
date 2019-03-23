@@ -1,4 +1,4 @@
-# chrome 浏览器下载
+# GOOGLE CHROME 浏览器下载
 
 
 最新稳定版 Stable 安装包下载：
