@@ -58,42 +58,66 @@
      
 浏览器
 
+     Chrome
+     https://www.google.com/chrome/
+     
      Firefox
      https://www.mozilla.org/zh-CN/firefox/all/
      
      Firefox ESR
      https://www.mozilla.org/zh-CN/firefox/organizations/all/
      
-     Chrome
-     https://www.google.com/chrome/
+     傲游浏览器Maxthon
+     https://www.maxthon.cn/
      
-     Adblock Plus for <Chrome / Firefox / IE / Safari / 傲游>
+     Adblock Plus for <Chrome /Firefox /IE /Safari /傲游>
      https://adblockplus.org/zh_CN/download
      
 办公协作
-
-    QQ / TIM
-    https://im.qq.com/download/
     
     Telegram
     https://telegram.org/
     
+    QQ / TIM
+    https://im.qq.com/download/
+    
+    微信WeChat
+    https://weixin.qq.com/
+    
+    企业微信
+    https://work.weixin.qq.com/
+    
+    Foxmail
+    https://www.foxmail.com/
+    
+    钉钉
+    https://www.dingtalk.com/
+    
     WPS
     http://www.wps.cn/
     
-    Microsoft Office
+    Microsoft Office<word /excel /powerpoint /outlook /access /project /visio>
     https://msdn.itellyou.cn/
-    
-    Notepad++
-    https://notepad-plus-plus.org/
     
     Adobe Acrobat Reader
     https://www.adobe.com/cn/downloads.html
     
+    Notepad++
+    https://notepad-plus-plus.org/
+    
 图形图像
 
+    Snipaste
+    https://www.snipaste.com/
+    
     FastStone Image Viewer / FastStone Capture
     http://www.faststone.org/download.htm
+    
+    XnView / XnView Shell Extension
+    https://www.xnview.com
+    
+    Honeyview
+    https://www.bandisoft.com/honeyview/
     
     Adobe Photoshop / Adobe Illustrator
     https://www.adobe.com/cn/downloads.html
@@ -103,12 +127,18 @@
     AIMP
     http://www.aimp.ru/
     
+    foobar2000
+    https://www.foobar2000.org/
+    
     Potplayer
     http://potplayer.daum.net/
     
+    QQ影音
+    https://player.qq.com/
+    
 下载
 
-    迅雷 <迅雷极速版 / 迅雷精简版 / 迅雷迷你版>
+    迅雷 <迅雷极速版 /迅雷精简版 /迅雷迷你版>
     https://www.xunlei.com/
     
     Internet Download Manager
