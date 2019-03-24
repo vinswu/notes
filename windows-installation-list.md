@@ -70,7 +70,7 @@
      傲游浏览器Maxthon
      https://www.maxthon.cn/
      
-     Adblock Plus for <Chrome /Firefox /IE /Safari /傲游>
+     Adblock Plus for <Chrome / Firefox / IE / Safari / 傲游>
      https://adblockplus.org/zh_CN/download
      
 办公协作
@@ -93,10 +93,10 @@
     钉钉
     https://www.dingtalk.com/
     
-    WPS
+    WPS / 金山PDF
     http://www.wps.cn/
     
-    Microsoft Office <word /excel /powerpoint /outlook /access /project /visio>
+    Microsoft Office / Project / Visio
     https://msdn.itellyou.cn/
     
     Adobe Acrobat Reader
@@ -138,7 +138,7 @@
     
 下载
 
-    迅雷 <迅雷极速版 /迅雷精简版 /迅雷迷你版>
+    迅雷 <迅雷极速版 / 迅雷精简版 / 迅雷迷你版>
     https://www.xunlei.com/
     
     Internet Download Manager
