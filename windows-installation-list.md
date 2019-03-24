@@ -6,19 +6,33 @@
     原版系统
     https://msdn.itellyou.cn/
     
-驱动
-
-    驱动精灵
-    http://www.drivergenius.com/
-    
-    万能驱动
-    https://www.itsk.com/
-    
-安全维护
-
     微PE工具箱
     http://www.wepe.com.cn/
     
+    优启通
+    https://www.itsk.com/
+    
+驱动 / 运行库
+
+    万能驱动 / 一键运行库
+    https://www.itsk.com/
+    
+    驱动精灵
+    http://www.drivergenius.com/
+    
+    All in One Runtimes
+    https://sereby.org/
+    
+    微软常用运行库合集
+    https://www.repaik.com/
+    
+KMS
+
+    Windows Loader / Microsoft Toolkit / KMS-VL-ALL
+    https://forums.mydigitallife.net
+    
+安全维护
+
     CCleaner / Recuva / Defraggler / Speccy
     https://www.ccleaner.com/download
     
@@ -159,4 +173,25 @@
     Internet Download Manager
     http://www.internetdownloadmanager.com/
     
+效率工具
+
+    KeePass <本地密码安全管理>
+    https://keepass.info/
     
+    Bitwarden <在线密码安全管理>
+    https://bitwarden.com/
+    
+    桌面日历
+    http://chs.desktopcal.com/chs/
+    
+    滴答清单
+    https://www.dida365.com/
+    
+    Total Commander
+    https://www.ghisler.com/download.htm
+    
+    Everything
+    https://www.voidtools.com/zh-cn/
+    
+    WGestures全局鼠标手势
+    http://www.yingdev.com/projects/wgestures
