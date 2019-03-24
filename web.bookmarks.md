@@ -49,3 +49,37 @@
     重灌狂人
     https://briian.com/
     
+消费导购系
+
+    买购网
+    https://www.maigoo.com/
+    
+    十大品牌网
+    https://www.china-10.com/
+    
+    十佳评测
+    https://www.10besty.com/
+    
+    什么值得买
+    https://www.smzdm.com/
+    
+    识货
+    http://www.shihuo.cn/
+    
+影视资源系
+
+    全网影视资源
+    http://v.daicuo.cc/
+    
+    影视大全电影资源站全网影视资源
+    http://www.hyw.me/
+    
+    爱高清
+    http://ihd.me/
+    
+    YouTube
+    https://www.youtube.com/
+    
+    The Porn Dude
+    https://theporndude.com/zh
+    
