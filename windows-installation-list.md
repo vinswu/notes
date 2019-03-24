@@ -1,7 +1,7 @@
 # WINDOWS装机清单
 
 
-系统
+系统 / PE
 
     原版系统
     https://msdn.itellyou.cn/
