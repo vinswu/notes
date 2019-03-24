@@ -25,12 +25,15 @@
     Dism++
     http://www.chuyu.me/zh-Hans/
     
-    电脑管家
-    https://guanjia.qq.com/
-    
     火绒
     https://www.huorong.cn/
     
+    电脑管家
+    https://guanjia.qq.com/
+       
+    360
+    https://www.360.cn/
+       
 输入法
 
     QQ输入法
