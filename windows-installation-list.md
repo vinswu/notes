@@ -28,7 +28,7 @@
     
 激活
 
-    Windows Loader / KMS Tools <Microsoft Toolkit / KMS-VL-ALL / ……>
+    Windows Loader / KMS Tools <Microsoft Toolkit / ……>
     https://forums.mydigitallife.net
     
 安全维护
