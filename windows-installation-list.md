@@ -96,7 +96,7 @@
     WPS
     http://www.wps.cn/
     
-    Microsoft Office<word /excel /powerpoint /outlook /access /project /visio>
+    Microsoft Office <word /excel /powerpoint /outlook /access /project /visio>
     https://msdn.itellyou.cn/
     
     Adobe Acrobat Reader
