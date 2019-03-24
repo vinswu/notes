@@ -26,7 +26,7 @@
     微软常用运行库合集
     https://www.repaik.com/
     
-KMS
+激活
 
     Windows Loader / Microsoft Toolkit / KMS-VL-ALL
     https://forums.mydigitallife.net
