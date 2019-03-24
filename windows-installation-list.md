@@ -74,12 +74,12 @@
      https://adblockplus.org/zh_CN/download
      
 办公协作
+
+    QQ
+    https://im.qq.com/
     
-    Telegram
-    https://telegram.org/
-    
-    QQ / TIM
-    https://im.qq.com/download/
+    TIM
+    https://office.qq.com/
     
     微信WeChat
     https://weixin.qq.com/
@@ -105,6 +105,12 @@
     Notepad++
     https://notepad-plus-plus.org/
     
+    Telegram
+    https://telegram.org/
+    
+    TeamViewer
+    https://www.teamviewer.com/
+    
 图形图像
 
     Snipaste
@@ -121,6 +127,9 @@
     
     Adobe Photoshop / Adobe Illustrator
     https://www.adobe.com/cn/downloads.html
+    
+    CorelDRAW
+    https://www.coreldraw.com/cn/free-trials/
     
 影音播放
 
