@@ -153,6 +153,9 @@
     迅雷 <迅雷极速版 / 迅雷精简版 / 迅雷迷你版>
     https://www.xunlei.com/
     
+    百度网盘
+    http://pan.baidu.com/download
+    
     Internet Download Manager
     http://www.internetdownloadmanager.com/
     
