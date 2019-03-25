@@ -53,6 +53,9 @@
        
     360
     https://www.360.cn/
+    
+    Avira Free Antivirus 
+    https://www.avira.com/zh-cn/free-antivirus-windows
        
 输入法
 
