@@ -37,7 +37,7 @@
     https://www.gwdang.com/app/extension/
     
     ImTranslator
-    http://about.imtranslator.net/add-ons/
+    http://imtranslator.net
     
     FireShot
     https://getfireshot.com/
