@@ -95,7 +95,7 @@ USB启动盘制作
     提示：项目已删除。
     ShadowSocksR （原项目备份最后版本ShadowsocksR-4.7.0-win.7z）
     https://github.com/shadowsocksr-backup/shadowsocksr-csharp
-    ShadowSocksR-RM （仅修复PAC更新链接，ShadowsocksR-4.7.0.1-win.7z）
+    ShadowSocksR-RM （仅修复PAC更新链接，更新为ShadowsocksR-4.7.0.1-win.7z）
     https://github.com/shadowsocksr-rm/shadowsocksr-csharp
     
     ShadowSocksRR （ShadowSocksR项目停止后，一个较受欢迎的分支）
