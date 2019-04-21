@@ -12,8 +12,9 @@
     微PE工具箱
     http://www.wepe.com.cn/
     
-    金狐系统维护盘（周年版）/优启时代系统维护盘
+    金狐系统维护盘（周年版）
     http://www.jinhu.me/
+    优启时代系统维护盘 （金狐出品）
     http://www.uqi.me
     
 USB启动盘制作
