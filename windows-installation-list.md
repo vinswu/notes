@@ -219,10 +219,10 @@ USB启动盘制作
     
 图形图像
 
-    Snipaste（截图、贴图）
+    Snipaste - 截图、贴图
     https://www.snipaste.com/
     
-    LICEcap （gif动图录屏）
+    LICEcap  - gif动图录屏
     https://www.cockos.com/licecap/
     
     FastStone Image Viewer
@@ -273,10 +273,10 @@ USB启动盘制作
         
 效率工具
 
-    KeePass <本地密码安全管理>
+    KeePass - 本地密码管理
     https://keepass.info/
     
-    Bitwarden <在线密码安全管理>
+    Bitwarden - 在线密码管理
     https://bitwarden.com/
     
     桌面日历
