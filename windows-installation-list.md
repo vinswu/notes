@@ -116,7 +116,7 @@ USB启动盘制作
     http://www.internetdownloadmanager.com/
     
     Persepolis Download Manager
-    http://persepolisdm.github.io/
+    https://github.com/persepolisdm/persepolis
     
 文件校验
 
