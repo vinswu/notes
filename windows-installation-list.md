@@ -156,9 +156,9 @@ USB启动盘制作
          
  输入法
 
-    QQ输入法（拼音 / 五笔）
+    QQ输入法
     http://shurufa.qq.com/
-    提示：用搜狗输入法的建议改用此输入法。
+    提示：用搜狗输入法的建议改用QQ输入法。
     
     Rime 输入法
     https://github.com/rime/weasel
