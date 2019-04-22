@@ -1,4 +1,4 @@
-# GOOGLE CHROME 浏览器下载
+# google chrome 浏览器下载
 
 
 最新稳定版 Stable 安装包下载：
@@ -25,7 +25,7 @@
 
     www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN&standalone=1&extra=devchannel#eula
 
-历史版安装包下载 ：
+历史版安装包下载：
 
     dl.google.com/chrome/install/对应版本号第二个小数点后的数字/chrome_installer.exe
 
@@ -35,3 +35,7 @@
 最新金丝雀版 Canary 安装包下载：
 
     www.google.com/intl/zh-CN/chrome/browser/canary.html?hl=zh-CN#eula
+
+最新版 Chromium 下载体验：
+
+    https://download-chromium.appspot.com/
