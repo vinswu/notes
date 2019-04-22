@@ -1,4 +1,4 @@
-# CHROME / FIREFOX 浏览器扩展插件
+# Chrome&Firefox 浏览器扩展插件
 
     Tampermonkey
     https://tampermonkey.net/
