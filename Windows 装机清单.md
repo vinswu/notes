@@ -1,4 +1,4 @@
-# WINDOWS装机清单
+# Windows 装机清单
 
 
 系统 / PE
