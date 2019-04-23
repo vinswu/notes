@@ -18,7 +18,7 @@
     127.0.0.1 origin-mc.corel.com
     127.0.0.1 iws.corel.com
   
-  另起一行，添加上面内容,重启电脑或采取下面方法生效
+  另起一行，添加上面内容，重启电脑或采取下面方法生效
   
     Win+R运行cmd
     输入  ipconfig /displaydns      #显示所有DNS
