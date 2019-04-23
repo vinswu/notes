@@ -55,10 +55,14 @@ SSR服务器订阅
 	
 免费公益机场
 
-	酸奶 https://www.suannai.ml
-	注册邀请链接 http://www.ssru.ml/register/57299/ZYASBQOG
+	酸奶 https://www.suannai.ml （免费，30天未签删除账号）
+	注册邀请链接 http://www.ssru.ml/register/57299/ZYASBQOG (推荐，共赢互利）
 	注册、登陆后，到“仪表盘” - “节点中心” - 复制订阅更新链接
 	参考“SSR服务器订阅”操作
+	
+	球加速 http://qiujiasu.net
+	注册邀请链接 https://qiujiasu.net/?iv=3691 （推荐，共赢互利）
+	微信公众号 搜“球加速” （可在公众号内管理“个人中心”）
 	
 	
 	
