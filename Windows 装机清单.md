@@ -79,12 +79,15 @@ USB启动盘制作
     
     360安全卫士
     https://www.360.cn/
+    注：老用户可以尝试用它的国际版
     
     电脑管家
     https://guanjia.qq.com/
+    注：国内这类软件，硬要推荐我还是推荐用这个，毕竟腾讯有钱
     
     火绒
     https://www.huorong.cn/
+    注：没有软件管理工具
     
     ★Adblock Plus（用于IE / Chrome / Firefox 等浏览器广告拦截和隐私保护插件）
     https://adblockplus.org/zh_CN/download
