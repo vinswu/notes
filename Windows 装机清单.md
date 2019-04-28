@@ -42,14 +42,16 @@ USB启动盘制作
     ★微软常用运行库合集
     https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=168
 
-    万能驱动助理 / 一键运行库（it天空论坛官方出品）
+    万能驱动助理 / 一键运行库
     https://www.itsk.com/
+    注：发懒惰病时，可以和优启通（见“系统 / PE”）一起下载使用
     
     驱动精灵
     http://www.drivergenius.com/
     
     ★360驱动大师
     http://www.360.cn/qudongdashi/
+    注：360少有的几款良心产品之一
     
     驱动人生
     http://www.160.com
@@ -82,6 +84,7 @@ USB启动盘制作
     
     Avira Free Antivirus （小红伞免费版）
     https://www.avira.com/zh-cn/free-antivirus-windows
+    注：简单做个代表性的推荐，另系统自带、avast等也都挺好的
     
     360安全卫士
     https://www.360.cn/
@@ -97,6 +100,7 @@ USB启动盘制作
     
     ★Adblock Plus（用于IE / Chrome / Firefox 等浏览器广告拦截和隐私保护插件）
     https://adblockplus.org/zh_CN/download
+    注：装完浏览器第一个装的插件就是它
     
 网络加速
     
@@ -150,16 +154,17 @@ USB启动盘制作
      ★Bandizip
      https://www.bandisoft.com/bandizip/
      
-     WinRAR
+     WinRAR（有广告）
      https://www.rarlab.com/download.htm
+     注：修复RAR文件只能用它
      
      DAEMON Tools Lite 
      https://www.daemon-tools.cc/chn/products/dtLite
-     提示：windows 10 以后系统自带虚拟光驱加载。
+     注：windows 10 以后系统自带虚拟光驱加载
      
      ★UltraISO 软碟通（收费）
      http://cn.ezbsystems.com/ultraiso/index.html
-     提示：“USB启动盘制作”已推荐
+     注：“USB启动盘制作”已推荐
      
 浏览器
 
@@ -193,8 +198,9 @@ USB启动盘制作
     ★微信WeChat
     https://weixin.qq.com/
     
-    Foxmail
+    ★Foxmail
     https://www.foxmail.com/
+    注：张小龙可以了解一下
     
     阿里旺旺 / 千牛
     https://wangwang.taobao.com/    
