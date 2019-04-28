@@ -288,6 +288,7 @@
     
     CorelDRAW （收费）
     https://www.coreldraw.com/cn/free-trials/
+    注：搜X-FORCE
     
 ### 音频视频
 
