@@ -240,9 +240,11 @@
 
     ★Microsoft Office / Project / Visio （收费）
     https://msdn.itellyou.cn/
+    注：推荐个网站 https://www.landiannews.com/
     
     ★Adobe Acrobat DC（收费）
     https://acrobat.adobe.com/cn/zh-Hans/acrobat.html
+    注：推荐个微博 https://weibo.com/vposy
     
     ABBYY FineReader （收费）
     https://www.abbyy.com/en-us/finereader/
@@ -278,7 +280,7 @@
     https://www.bandisoft.com/honeyview/
     提示：配合Bandizip，压缩包内看图。
     
-    Adobe Photoshop (收费）
+    ★Adobe Photoshop (收费）
     https://www.adobe.com/cn/products/photoshop.html
     
     Adobe Illustrator （收费）
