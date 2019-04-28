@@ -5,25 +5,31 @@
 
     ★原版系统
     https://msdn.itellyou.cn/
+    注：下载链接为电驴链接，建议捐助站长
       
     优启通（原：U盘装机助理）
     http://www.usbzl.com/
+    注：基本每月一更，内置小工具更新及时
     
     ★微PE工具箱
     http://www.wepe.com.cn/
+    注：装系统可以，维护不推荐
     
     ★金狐系统维护盘（周年版）
     http://www.jinhu.me/
-    优启时代系统维护盘 （金狐出品）
+    优启时代系统维护盘 （金狐出品，感觉是金狐PE的马甲版本）
     http://www.uqi.me
+    推荐：用于U盘量产，维护用挺好
     
 USB启动盘制作
 
     ★UltraISO 软碟通（收费）
     http://cn.ezbsystems.com/ultraiso/index.html
+    注：这软件不贵，常用可以考虑买一个
 
     Rufus
     http://rufus.ie/
+    注：站长不接受捐助，挺牛的
 
     fbinstTool
     http://bbs.wuyou.net/forum.php?mod=viewthread&tid=189221
@@ -34,7 +40,7 @@ USB启动盘制作
     https://sereby.org/
     
     ★微软常用运行库合集
-    https://www.repaik.com/
+    https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=168
 
     万能驱动助理 / 一键运行库（it天空论坛官方出品）
     https://www.itsk.com/
@@ -96,7 +102,7 @@ USB启动盘制作
     
     ShadowSocksR
     https://github.com/shadowsocksr/shadowsocksr-csharp
-    提示：项目已删除。
+    注：项目已删除。
     ShadowSocksR （原项目备份最后版本ShadowsocksR-4.7.0-win.7z）
     https://github.com/shadowsocksr-backup/shadowsocksr-csharp
     ★ShadowSocksR-RM （仅修复PAC更新链接，更新为ShadowsocksR-4.7.0.1-win.7z）
@@ -104,6 +110,7 @@ USB启动盘制作
     
     ★ShadowSocksRR （ShadowSocksR项目停止后，一个较受欢迎的分支）
     https://github.com/shadowsocksrr/shadowsocksr-csharp
+    注：添加服务器订阅地址 https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com 先出去你才有机会发现更大的世界
     
     XX-Net （GoAgent延续，仅当缅怀）
     https://github.com/XX-net/XX-Net
@@ -114,10 +121,11 @@ USB启动盘制作
     
     迅雷 / ★迅雷U享版 （收费）
     https://www.xunlei.com/
-    提示：迅雷迷你版 / 迅雷精简版 / ★迅雷极速版 全部停更
+    注：迅雷迷你版 / 迅雷精简版 / ★迅雷极速版 全部停更
     
-    百度网盘（可以妥协一下，装个客户端）
+    百度网盘
     http://pan.baidu.com/download
+    注：不推荐用第三方加速工具，面对流氓有时候还是得保护费的
     
     Internet Download Manager （收费）
     http://www.internetdownloadmanager.com/
