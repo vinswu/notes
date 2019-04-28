@@ -2,7 +2,7 @@
 注：有些网址可能需要通过科学上网才能访问
 
 
-系统 / PE
+##### 系统 / PE
 
     ★原版系统
     https://msdn.itellyou.cn/
@@ -22,7 +22,7 @@
     http://www.uqi.me
     推荐：用于U盘量产，维护用挺好
     
-USB启动盘制作
+##### USB启动盘制作
 
     ★UltraISO 软碟通（收费）
     http://cn.ezbsystems.com/ultraiso/index.html
@@ -35,7 +35,7 @@ USB启动盘制作
     fbinstTool
     http://bbs.wuyou.net/forum.php?mod=viewthread&tid=189221
     
-运行库 / 驱动（建议使用官方驱动）
+##### 运行库 / 驱动（建议使用官方驱动）
 
     All in One Runtimes
     https://sereby.org/
@@ -57,7 +57,7 @@ USB启动盘制作
     驱动人生
     http://www.160.com
     
-激活（不用过于纠结是否永久激活）
+##### 激活（不用过于纠结是否永久激活）
 
     Windows Loader （支持 windows vista 和 windows 7 等永久激活）
     https://forums.mydigitallife.net/threads/windows-loader-download.58464/
@@ -69,7 +69,7 @@ USB启动盘制作
     https://forums.mydigitallife.net/forums/kms-tools.51/
     推荐：Microsoft Toolkit / KMSpico / KMS-VL-ALL 等
     
-系统维护
+##### 系统维护
    
     AOMEI傲梅分区助手（无损分区） / AOMEI傲梅轻松备份（数据备份）
     https://www.disktool.cn/
@@ -103,7 +103,7 @@ USB启动盘制作
     https://adblockplus.org/zh_CN/download
     注：装完浏览器第一个装的插件就是它
     
-网络加速
+##### 网络加速
     
     ShadowSocksR
     https://github.com/shadowsocksr/shadowsocksr-csharp
@@ -138,7 +138,7 @@ USB启动盘制作
     Persepolis Download Manager
     https://github.com/persepolisdm/persepolis
     
-文件校验
+##### 文件校验
 
      ★HashCheck Shell Extension
      http://code.kliu.org/hashcheck/
@@ -147,7 +147,7 @@ USB启动盘制作
      HashTab
      http://implbits.com/products/hashtab/
      
-解压刻录
+##### 解压刻录
 
      7-Zip
      https://www.7-zip.org/
@@ -167,7 +167,7 @@ USB启动盘制作
      http://cn.ezbsystems.com/ultraiso/index.html
      注：“USB启动盘制作”已推荐
      
-浏览器
+##### 浏览器
 
      ★Google Chrome
      https://www.google.com/chrome/
@@ -182,7 +182,7 @@ USB启动盘制作
      Tor Browser （暗网了解一下）
      https://www.torproject.org/
          
- 输入法
+ ##### 输入法
 
     ★QQ输入法
     http://shurufa.qq.com/
@@ -191,7 +191,7 @@ USB启动盘制作
     Rime 输入法
     https://github.com/rime/weasel
     
-沟通协作
+##### 沟通协作
 
     ★TIM
     https://office.qq.com/
@@ -216,7 +216,7 @@ USB启动盘制作
     https://telegram.org/
     
     
-学习阅读
+##### 学习阅读
 
     calibre
     https://calibre-ebook.com/download
@@ -236,7 +236,7 @@ USB启动盘制作
     QTranslate
     https://quest-app.appspot.com/
     
-文字文档
+##### 文字文档
 
     ★Microsoft Office / Project / Visio （收费）
     https://msdn.itellyou.cn/
@@ -253,7 +253,7 @@ USB启动盘制作
     ★Notepad++
     https://notepad-plus-plus.org/
     
-图形图像
+##### 图形图像
 
     ★Snipaste - 截图、贴图
     https://www.snipaste.com/
@@ -287,7 +287,7 @@ USB启动盘制作
     CorelDRAW （收费）
     https://www.coreldraw.com/cn/free-trials/
     
-音频视频
+##### 音频视频
 
     ★AIMP
     http://www.aimp.ru/
@@ -308,7 +308,7 @@ USB启动盘制作
     Adobe Premiere （收费）
     https://www.adobe.com/cn/products/premiere.html
         
-效率工具
+##### 效率工具
 
     KeePass - 本地密码管理
     https://keepass.info/
