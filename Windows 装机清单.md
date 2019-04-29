@@ -67,7 +67,7 @@
     
     ★KMS tools （180天循环试用，支持 windows 和 office）
     https://forums.mydigitallife.net/forums/kms-tools.51/
-    推荐：Microsoft Toolkit / KMSpico / KMS-VL-ALL 等
+    推荐：Microsoft Toolkit / KMS-VL-ALL 等
     
 ### 系统维护
    
