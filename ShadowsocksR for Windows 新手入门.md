@@ -64,10 +64,10 @@ SSR服务器订阅
 	注册邀请链接 https://qiujiasu.net/?iv=3691 （推荐，共赢互利）
 	微信公众号 搜“球加速” （可在公众号内管理“个人中心”）
 	
-[逗比根据地](https://doubibackup.com/)
+[逗比根据地](https://doubibackup.com/)	#右键新标签页打开
 	
-[SSR中文网](https://ssr.tools/)
+[SSR中文网](https://ssr.tools/)	#右键新标签页打开
 
-[爱翻墙](https://www.ifanqiang.com/)
+[爱翻墙](https://www.ifanqiang.com/)	#右键新标签页打开
 	
 
