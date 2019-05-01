@@ -22,7 +22,7 @@
 SSR服务器订阅
 
 	右键任务栏通知区域的纸飞机 - 服务器订阅 - SSR服务器订阅设置 - Add - 在“网址”框中粘贴下面地址
-	https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com （ 来自 https://www.ssrtool.com ,网站被墙）
+	https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com （ 来自 [SSR小工具](https://www.ssrtool.com) ,网站被墙）
 	把“自动更新”勾上 - 确认
 	右键任务栏通知区域的纸飞机 - 服务器订阅 - 更新SSR服务器订阅（不通过代理）
 	………………等SSR服务器订阅更新完成（后，可以把ShadowSocksR自带的那个没有用的服务器删掉 ）
@@ -64,6 +64,10 @@ SSR服务器订阅
 	注册邀请链接 https://qiujiasu.net/?iv=3691 （推荐，共赢互利）
 	微信公众号 搜“球加速” （可在公众号内管理“个人中心”）
 	
+[逗比根据地](https://doubibackup.com/)
 	
+[SSR中文网](https://ssr.tools/)
+
+[爱翻墙](https://www.ifanqiang.com/)
 	
 
