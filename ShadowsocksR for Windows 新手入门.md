@@ -63,7 +63,12 @@ SSR服务器订阅
 	球加速 http://qiujiasu.net
 	注册邀请链接 https://qiujiasu.net/?iv=3691 （推荐，共赢互利）
 	微信公众号 搜“球加速” （可在公众号内管理“个人中心”）
-	
+
+
+
+
+### 以下超链接，建议右键新标签页打开
+
 [SSR中文网](https://ssr.tools/)
 
 [逗比根据地](https://doubibackup.com/)
@@ -74,6 +79,6 @@ SSR服务器订阅
 
 [Google](https://www.google.com/search?hl=zh-CN&as_q=ShadowsocksR&as_epq=SSR&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=lang_zh-CN&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&as_rights=)
 
-#以上超链接，建议右键新标签页打开
+
 	
 
