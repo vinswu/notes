@@ -71,19 +71,19 @@ SSR服务器订阅
 
 [维基百科](https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR)
 
-[Google](https://www.google.com/search?hl=zh-CN&as_q=ShadowsocksR&as_epq=SSR&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=lang_zh-CN&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&as_rights=)
+[《这本书能让你连接互联网》](https://loremwalker.github.io/fq-book/#/)
+
+[《科学上网翻墙教程》](https://sphard3.github.io/)
+
+[Google搜索](https://www.google.com/search?hl=zh-CN&as_q=ShadowsocksR&as_epq=SSR&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=lang_zh-CN&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&as_rights=)
 
 [SSR中文网](https://ssr.tools/)
 
 [逗比根据地](https://doubibackup.com/)
 
-[《这本书能让你连接互联网》](https://loremwalker.github.io/fq-book/#/)
+[翻墙党论坛](https://fanqiangdang.com/)
 
-[《科学上网翻墙教程》](https://sphard3.github.io/)
-
-[翻墙党](https://fanqiangdang.com/)
-
-[爱翻墙](https://www.ifanqiang.com/)
+[爱翻墙国外导航](https://www.ifanqiang.com/)
 
 
 
