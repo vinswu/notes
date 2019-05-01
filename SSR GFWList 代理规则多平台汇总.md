@@ -9,9 +9,9 @@
 
 ### Windows SSR 代理规则
 
-地址：https://github.com/petronny/gfwlist2pac
+地址：https://github.com/petronny/gfwlist2pac  
 
-适用：ShadowsocksR for Windows
+适用：ShadowsocksR for Windows #下载gfwlist.pac文件重命名为pac.txt,保存到ShadowsocksR根目录
 
 ### Android SSR 代理规则
 
