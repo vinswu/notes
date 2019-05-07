@@ -63,6 +63,10 @@ SSR服务器订阅
 
 > 免费用户每天可以在签到处签到获得1GB流量，连续15天未在网站签到的免费账号可能将被删除！每月一号流量会复位成1GB。
 
+[SuJ-Tech](https://suj-tech.com/)	[点击注册](https://suj-tech.com/auth/register?code=tssN0Dza6qVE6iOMt9mF7gLgxaxJZPzD)
+
+> 新用户赠送 10G 流量使用,每日签到送1G流量。
+
 [StarsCloud](https://console.starscloud.org/)	[点击注册](https://console.starscloud.org/#/auth/register)
 
 > 注册送2G流量，每日签到随机1-2G流量。免费用户超过60天未使用账号会被系统自动清理。
