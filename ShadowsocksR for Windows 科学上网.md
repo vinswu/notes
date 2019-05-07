@@ -79,9 +79,9 @@ SSR服务器订阅
 
 [ShadowsocksR @ 维基百科](https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR)
 
-[《这本书能让你连接互联网》](https://loremwalker.github.io/fq-book/#/)
+[这本书能让你连接互联网](https://loremwalker.github.io/fq-book/#/)
 
-[《科学上网翻墙教程》](https://sphard3.github.io/)
+[科学上网翻墙教程](https://sphard3.github.io/)
 
 [SSR中文网](https://ssr.tools/)
 
