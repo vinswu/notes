@@ -77,13 +77,11 @@ SSR服务器订阅
 
 ### 深入学习
 
-[维基百科](https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR)
+[ShadowsocksR @ 维基百科](https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR)
 
 [《这本书能让你连接互联网》](https://loremwalker.github.io/fq-book/#/)
 
 [《科学上网翻墙教程》](https://sphard3.github.io/)
-
-[Google搜索](https://www.google.com/search?hl=zh-CN&as_q=ShadowsocksR&as_epq=SSR&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=lang_zh-CN&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&as_rights=)
 
 [SSR中文网](https://ssr.tools/)
 
