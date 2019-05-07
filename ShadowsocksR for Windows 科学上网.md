@@ -1,5 +1,4 @@
-# ShadowsocksR for Windows 新手入门
-
+# ShadowsocksR for Windows 科学上网
 下载ShadowSocksR
 
 	ShadowsocksR（简称SSR）
@@ -76,7 +75,7 @@ SSR服务器订阅
 > 永久免费。7天不签到将会被删除账号。每天签到1-5GB！
 
 
-### 以下超链接，建议右键新标签页打开
+### 深入学习
 
 [维基百科](https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR)
 
