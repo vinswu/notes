@@ -43,17 +43,22 @@ SSR服务器订阅
 
 	鼠标滚轮单击任务栏通知区域的纸飞机，可以直接打开“服务器 - 服务器连接统计”
 
-### 免费节点
+### 免费节点（应急）
 
-	https://lncn.org/ （一键复制所有节点 - 批量导入SSR://链接）
-	https://free-ss.site/ （优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点）
-	http://www.ssrandvmess.club/ （通过Base64解码链接）
-	https://freess.me/
-	https://sphard3.github.io/free/ssr.html
-	https://www.wuwweb.com/
+https://lncn.org/	每周一晚和周五凌晨更新。一键复制所有节点 - 批量导入SSR://链接
+
+https://free-ss.site/	优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
+
+http://www.ssrandvmess.club/	通过Base64解码链接
+
+https://freess.me/
+
+https://sphard3.github.io/free/ssr.html
+
+https://www.wuwweb.com/
 	
 	
-### 免费公益机场（长测推荐）
+### 免费公益机场（备用推荐）
 
 [球加速](http://qiujiasu.net)	[点击注册](https://qiujiasu.net/?iv=3691)
 
@@ -75,6 +80,13 @@ SSR服务器订阅
 
 > 永久免费。7天不签到将会被删除账号。每天签到1-5GB！
 
+### VPS 服务商（支持支付宝）
+
+[VULTR](https://www.vultr.com/)
+
+[BandwagonHost](https://bandwagonhost.com/)
+
+[Host1Plus](https://www.heficed.com/)
 
 ### 深入学习
 
