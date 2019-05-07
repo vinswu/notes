@@ -53,18 +53,23 @@ SSR服务器订阅
 
 	鼠标滚轮单击任务栏通知区域的纸飞机，可以直接打开“服务器 - 服务器连接统计”
 	
-免费公益机场
+### 免费公益机场（长测推荐）
 
-	酸奶 https://www.suannai.ml （免费，30天未签删除账号）
-	注册邀请链接 http://www.ssru.ml/register/57299/ZYASBQOG (推荐，共赢互利）
-	注册、登陆后，到“仪表盘” - “节点中心” - 复制订阅更新链接
-	参考“SSR服务器订阅”操作
-	
-	球加速 http://qiujiasu.net
-	注册邀请链接 https://qiujiasu.net/?iv=3691 （推荐，共赢互利）
-	微信公众号 搜“球加速” （可在公众号内管理“个人中心”）
+[球加速](http://qiujiasu.net)	[点击注册](https://qiujiasu.net/?iv=3691)
 
+> 有微信公众号“球加速”，免代理，方便在手机上操作。
 
+[酸奶](https://www.suannai.ml)	[点击注册](http://www.ssru.ml/register/57299/ZYASBQOG) 
+
+> 免费用户每天可以在签到处签到获得1GB流量，连续15天未在网站签到的免费账号可能将被删除！每月一号流量会复位成1GB。
+
+[StarsCloud](https://console.starscloud.org/)	[点击注册](https://console.starscloud.org/#/auth/register)
+
+> 注册送2G流量，每日签到随机1-2G流量。免费用户超过60天未使用账号会被系统自动清理。
+
+[樱云](https://yingyun.me/)	[点击注册](https://yingyun.me/auth/register)
+
+> 永久免费。7天不签到将会被删除账号。每天签到1-5GB！
 
 
 ### 以下超链接，建议右键新标签页打开
