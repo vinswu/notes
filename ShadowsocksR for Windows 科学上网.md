@@ -27,16 +27,7 @@ SSR服务器订阅
 	………………等SSR服务器订阅更新完成（后，可以把ShadowSocksR自带的那个没有用的服务器删掉 ）
 	右键任务栏通知区域的纸飞机 - 服务器 - WWW.SSRTOOL.COM - 选择一个国外的服务器
 	www.google.com 测试
-	
-免费节点
 
-	https://lncn.org/ （一键复制所有节点 - 批量导入SSR://链接）
-	https://free-ss.site/ （优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点）
-	https://ai.freess.today/
-	https://my.ishadowx.net
-	https://sphard3.github.io/free/ssr.html
-	https://www.wuwweb.com/
-	
 软件设置
 
 	系统代理模式 - PAC模式
@@ -51,6 +42,16 @@ SSR服务器订阅
 小技巧
 
 	鼠标滚轮单击任务栏通知区域的纸飞机，可以直接打开“服务器 - 服务器连接统计”
+
+### 免费节点
+
+	https://lncn.org/ （一键复制所有节点 - 批量导入SSR://链接）
+	https://free-ss.site/ （优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点）
+	http://www.ssrandvmess.club/ （通过Base64解码链接）
+	https://freess.me/
+	https://sphard3.github.io/free/ssr.html
+	https://www.wuwweb.com/
+	
 	
 ### 免费公益机场（长测推荐）
 
