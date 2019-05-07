@@ -60,7 +60,7 @@ SSR服务器订阅
 
 [酸奶](https://www.suannai.ml)	[点击注册](http://www.ssru.ml/register/57299/ZYASBQOG) 
 
-> 免费用户每天可以在签到处签到获得1GB流量，连续15天未在网站签到的免费账号可能将被删除！每月一号流量会复位成1GB。
+> 免费用户，每天签到得1GB流量，连续15天未在网站签到的免费账号可能将被删除！每月一号流量会复位成1GB。
 
 [SuJ-Tech](https://suj-tech.com/)	[点击注册](https://suj-tech.com/auth/register?code=tssN0Dza6qVE6iOMt9mF7gLgxaxJZPzD)
 
