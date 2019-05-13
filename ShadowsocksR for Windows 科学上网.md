@@ -81,6 +81,8 @@ https://www.wuwweb.com/
 
 [磊哥魔力加速器](https://new.wallssr.xyz/)
 
+> 支持 Netflix
+
 ### VPS 服务商（支持支付宝）
 
 [VULTR](https://www.vultr.com/)
