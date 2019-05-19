@@ -60,8 +60,6 @@ http://www.ssrandvmess.club/	通过Base64解码链接
 
 https://freess.me/
 
-https://sphard3.github.io/free/ssr.html
-
 https://www.wuwweb.com/
 	
 	
@@ -91,19 +89,27 @@ https://www.wuwweb.com/
 
 [Host1Plus](https://www.heficed.com/)
 
+
+
 ### 深入学习
 
 [ShadowsocksR @ 维基百科](https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR)
 
 [这本书能让你连接互联网](https://loremwalker.github.io/fq-book/#/)
 
-[科学上网翻墙教程](https://sphard3.github.io/)
+[大概是萌新也看得懂的SSR功能详细介绍&使用教程](https://moe.best/tutorial/shadowsocksr.html)
 
 [SSR中文网](https://ssr.tools/)
 
 [逗比根据地](https://doubibackup.com/)
 
+[VPS GO](https://www.vpsgo.com/)
+
 [翻墙党论坛](https://fanqiangdang.com/)
+
+[浅谈部分机场（SS/SSR提供商）的使用感受--毒药笔记持续更新中](https://github.com/387099/SSR/issues/1)
+
+[Just My Socks](https://justmysockscn.com)
 
 [爱翻墙国外导航](https://www.ifanqiang.com/)
 
