@@ -12,6 +12,9 @@
 	ShadowSocksR项目停止后，一个较受欢迎的分支ShadowSocksRR（简称SSRR）
 	https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 	
+	ShadowsocksR for Windows （HMBSbige）
+	https://github.com/HMBSbige/ShadowsocksR-Windows/releases
+	
 运行ShadowSocksR
 
 	解压后，直接运行ShadowsocksR-dotnet2.0或exeShadowsocksR-dotnet4.0.exe
