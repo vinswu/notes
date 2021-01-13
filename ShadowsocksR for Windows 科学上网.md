@@ -84,11 +84,17 @@ https://www.wuwweb.com/
 
 > 支持 Netflix
 
+[GetfreeCloud](https://portal.getfree.cloud//auth/register?code=fxaq)
+
+> 支持 需在TG群组每48小时保持连续签到
+
 ### VPS 服务商（支持支付宝）
 
 [VULTR](https://www.vultr.com/)
 
 [BandwagonHost](https://bandwagonhost.com/)
+
+[CloudCone](https://cloudcone.com/)
 
 [Host1Plus](https://www.heficed.com/)
 
@@ -98,13 +104,12 @@ https://www.wuwweb.com/
 
 [ShadowsocksR @ 维基百科](https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR)
 
-[这本书能让你连接互联网](https://loremwalker.github.io/fq-book/#/)
-
 [大概是萌新也看得懂的SSR功能详细介绍&使用教程](https://moe.best/tutorial/shadowsocksr.html)
 
 [SSR中文网](https://ssr.tools/)
 
 [逗比根据地](https://doubibackup.com/)
+[ShadowsocksR 客户端 小白使用教程](https://doubibackup.com/jeptq9ir-2.html)
 
 [VPS GO](https://www.vpsgo.com/)
 
