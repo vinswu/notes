@@ -292,7 +292,7 @@
     https://acrobat.adobe.com/cn/zh-Hans/acrobat.html
     注：推荐个微博 https://weibo.com/vposy
     
-    ABBYY FineReader （收费）
+    ABBYY FineReader（收费）
     https://www.abbyy.com/en-us/finereader/
     
     WPS Office / 金山PDF
@@ -303,16 +303,19 @@
     
 ### 图形图像
 
-    ★Snipaste - 截图、贴图
+    ★Snipaste（截图、贴图）
     https://www.snipaste.com/
     
-    LICEcap  - gif动图录屏
+    ScreenToGif（录制gif）
+    https://github.com/NickeManarin/ScreenToGif
+    
+    LICEcap（gif动图录屏）
     https://www.cockos.com/licecap/
     
     ★FastStone Image Viewer
     https://www.faststone.org/FSViewerDetail.htm
     
-    FastStone Capture （收费）
+    FastStone Capture（收费）（滚动长截图、录屏）
     https://www.faststone.org/FSCaptureDetail.htm
     
     XnView
@@ -325,10 +328,7 @@
     Honeyview
     https://www.bandisoft.com/honeyview/
     提示：配合Bandizip，压缩包内看图。
-    
-    ScreenToGif（录制gif）
-    https://github.com/NickeManarin/ScreenToGif
-    
+       
     ★Adobe Photoshop (收费）
     https://www.adobe.com/cn/products/photoshop.html
     
