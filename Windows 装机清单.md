@@ -109,17 +109,17 @@
     https://www.avira.com/zh-cn/free-antivirus-windows
     注：简单做个代表性的推荐，另系统自带、avast等也都挺好的
     
-    360安全卫士
+    360安全卫士 / 360 Total Security:
     https://www.360.cn/
-    注：老用户可以尝试用它的国际版
+    注：因为专注所以专业（国内）
     
     电脑管家
     https://guanjia.qq.com/
-    注：国内这类软件，硬要推荐我还是推荐用这个，毕竟腾讯有钱
+    注：国内这类软件，硬要推荐的话，我会推荐用这个。不要问我为什么，因为企鹅脸皮厚还有钱
     
     火绒
     https://www.huorong.cn/
-    注：没有软件管理工具
+    注：安静，无弹窗，没有软件下载、升级提醒等功能
     
     AdGuard（广告拦截）
     https://adguard.com/zh_cn/welcome.html
@@ -129,6 +129,9 @@
     注：曾经装完浏览器第一个装的插件就是它，现在改用★uBlock Origin
     
     ！扩展：★CJXList  https://github.com/cjx82630/cjxlist
+    
+    ★Geek Uninstaller
+    https://geekuninstaller.com/
     
 ### 网络加速
     
