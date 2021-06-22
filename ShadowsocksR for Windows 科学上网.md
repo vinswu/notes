@@ -59,7 +59,7 @@ https://lncn.org/	每周一晚和周五凌晨更新。一键复制所有节点 -
 
 https://free-ss.site/	优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
-https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7	免费SS/SSR账号/节点列表（长期更新）
+https://github.com/Alvin9999/new-pac/wiki/ss免费账号	免费SS/SSR账号/节点列表（长期更新）
 
 ### 免费公益机场（备用推荐）
 
