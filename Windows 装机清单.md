@@ -8,15 +8,13 @@
     http://msdn.itellyou.cn/
     注：下载链接为电驴链接，建议捐助站长
     
-    ！扩展：远景论坛
-    http://www.pcbeta.com/
+    ！扩展：★远景论坛 http://www.pcbeta.com/
       
     优启通（原：U盘装机助理）
     http://www.usbzl.com/
     注：基本每月一更，内置小工具更新及时
     
-    ！扩展：IT天空论坛
-    https://www.itsk.com/
+    ！扩展：★IT天空论坛 https://www.itsk.com/
     
     ★微PE工具箱
     http://www.wepe.com.cn/
@@ -33,7 +31,7 @@
     ★UltraISO 软碟通（收费）
     https://cn.ezbsystems.com/ultraiso/index.html
     注：这软件不贵，常用可以考虑买一个
-        注册直通车（适用于简体中文版）
+        ★注册直通车（适用于简体中文版）
         Guanjiu／A06C-83A7-701D-6CFC
         累累／4EE9-A156-B015-A70E
         李明／509F-BA54-BBA6-73C5
@@ -47,8 +45,7 @@
     fbinstTool
     http://bbs.wuyou.net/forum.php?mod=viewthread&tid=189221
     
-    ！扩展：无忧启动论坛
-    http://bbs.wuyou.net/
+    ！扩展：无忧启动论坛 http://bbs.wuyou.net/
     
     Ventoy（新一代多系统启动U盘解决方案）
     https://www.ventoy.net/cn
@@ -102,7 +99,7 @@
     Piriform CCleaner / Defraggler / Recuva / Speccy
     https://www.ccleaner.com/download
     
-    ★Dism++
+    Dism++
     http://www.chuyu.me/zh-Hans/
     
     ★WPD
@@ -129,9 +126,9 @@
     
     ★Adblock Plus（用于IE / Chrome / Firefox 等浏览器广告拦截和隐私保护插件）
     https://adblockplus.org/zh_CN/download
-    注：装完浏览器第一个装的插件就是它
+    注：曾经装完浏览器第一个装的插件就是它，现在改用★uBlock Origin
     
-    ！扩展：CJXList  https://github.com/cjx82630/cjxlist
+    ！扩展：★CJXList  https://github.com/cjx82630/cjxlist
     
 ### 网络加速
     
@@ -146,11 +143,18 @@
     ★ShadowSocksRR （ShadowSocksR项目停止后，一个较受欢迎的分支）
     https://github.com/shadowsocksrr/shadowsocksr-csharp
     注：添加服务器订阅地址 https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com 先出去你才有机会发现更大的世界
+        自由上网方法：https://github.com/Alvin9999/new-pac/wiki  （内含应急通道）
+    
+    ★ShadowsocksR by HMBSbige
+    https://github.com/HMBSbige/ShadowsocksR-Windows/releases
+    
+    ★V2rayN
+    https://github.com/2dust/v2rayN/releases
     
     XX-Net （GoAgent延续，仅当缅怀）
     https://github.com/XX-net/XX-Net
     
-    ★OpenVPN
+    OpenVPN
     https://openvpn.net/community-downloads/
     免费配置文件 https://www.freeopenvpn.org/
     
@@ -168,21 +172,31 @@
     Persepolis Download Manager
     https://github.com/persepolisdm/persepolis
     
+    Motrix
+    https://github.com/agalwood/Motrix
+    
 ### 文件校验
 
-     ★HashCheck Shell Extension
+     Hash（绿色单文件，无中文）
+     http://keir.net/hash.html
+     
+     HashCheck Shell Extension（右键文件属性）
      http://code.kliu.org/hashcheck/
      提示：N年未更新
      
-     HashTab
+     HashTab（右键文件属性）
      http://implbits.com/products/hashtab/
+     
+     ★7-Zip
+     https://www.7-zip.org/
+     ！你没看错，7Z自带CRC SHA
      
 ### 解压刻录
 
-     7-Zip
+     ★7-Zip
      https://www.7-zip.org/
      
-     ★Bandizip
+     Bandizip
      https://www.bandisoft.com/bandizip/
      
      WinRAR（有广告）
@@ -204,7 +218,10 @@
      Chromium （Chrome 是怎么来的？）
      https://www.chromium.org/getting-involved/download-chromium
      
-     ★Firefox
+     ★Microsoft Edge（新版Edge基于Chromium内核是Chrome表弟）
+     https://www.microsoft.com/zh-cn/edge
+     
+     Firefox
      https://www.mozilla.org/zh-CN/firefox/all/
      Firefox ESR （Firefox 延长支持版）
      https://www.mozilla.org/zh-CN/firefox/organizations/all/
@@ -214,12 +231,14 @@
          
  ### 输入法
 
-    ★QQ输入法
-    http://shurufa.qq.com/
-    提示：用搜狗输入法的建议改用QQ输入法。
+    ★紫光华宇拼音输入法
+    http://unispim.com/
+    https://pinyin.thunisoft.com/index.html#/sy
     
     Rime 输入法
     https://github.com/rime/weasel
+    
+    ！扩展：其他第三方无广告输入法：QQ输入法（技术来自搜狗）；百度输入法；讯飞语音输入法……
     
 ### 沟通协作
 
@@ -229,15 +248,9 @@
     ★微信WeChat
     https://weixin.qq.com/
     
-    ★Foxmail
+    Foxmail
     https://www.foxmail.com/
     注：张小龙可以了解一下
-    
-    阿里旺旺 / 千牛
-    https://wangwang.taobao.com/    
-    
-    钉钉
-    https://www.dingtalk.com/
 
     TeamViewer
     https://www.teamviewer.com/
@@ -260,7 +273,7 @@
     金山词霸
     http://www.iciba.com/
     
-    ★Bing词典
+    Bing词典
     https://bingdict.chinacloudsites.cn/
     
     QTranslate
@@ -302,13 +315,16 @@
     XnView
     https://www.xnview.com
     
-    XnView Shell Extension
+    ★XnView Shell Extension（右键图片预览）
     https://www.xnview.com/en/xnshell/
     提示：★XnView Extended 中包含此插件。
     
     Honeyview
     https://www.bandisoft.com/honeyview/
     提示：配合Bandizip，压缩包内看图。
+    
+    ScreenToGif（录制gif）
+    https://www.screentogif.com
     
     ★Adobe Photoshop (收费）
     https://www.adobe.com/cn/products/photoshop.html
