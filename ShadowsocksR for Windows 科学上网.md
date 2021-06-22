@@ -59,30 +59,13 @@ https://lncn.org/	每周一晚和周五凌晨更新。一键复制所有节点 -
 
 https://free-ss.site/	优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
-http://www.ssrandvmess.club/	通过Base64解码链接
+https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7	免费SS/SSR账号/节点列表（长期更新）
 
-https://freess.me/
-
-https://www.wuwweb.com/
-	
-	
 ### 免费公益机场（备用推荐）
-
-[球加速](http://qiujiasu.net)	[点击注册](https://qiujiasu.net/?iv=3691)
-
-> 有微信公众号“球加速”，免代理，方便在手机上操作。
 
 [酸奶](https://www.suannai.ml)	[点击注册](http://www.ssru.ml/register/57299/ZYASBQOG) 
 
 > 免费用户，每天签到得1GB流量，连续15天未在网站签到的免费账号可能将被删除！每月一号流量会复位成1GB。
-
-[STC](https://stc-server.com/)	[点击注册](https://stcserver-cloud.com/auth/register?code=tssN0Dza6qVE6iOMt9mF7gLgxaxJZPzD)
-
-> 新用户赠送 10G 流量使用,每日签到送1G流量。
-
-[磊哥魔力加速器](https://new.wallssr.xyz/)
-
-> 支持 Netflix
 
 [GetfreeCloud](https://portal.getfree.cloud//auth/register?code=fxaq)
 
