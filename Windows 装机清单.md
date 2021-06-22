@@ -4,13 +4,19 @@
 
 ### 系统 / PE
 
-    ★原版系统
-    https://msdn.itellyou.cn/
+    ★MSDN我告诉你（原版Windows/Office镜像文件）
+    http://msdn.itellyou.cn/
     注：下载链接为电驴链接，建议捐助站长
+    
+    ！扩展：远景论坛
+    http://www.pcbeta.com/
       
     优启通（原：U盘装机助理）
     http://www.usbzl.com/
     注：基本每月一更，内置小工具更新及时
+    
+    ！扩展：IT天空论坛
+    https://www.itsk.com/
     
     ★微PE工具箱
     http://www.wepe.com.cn/
@@ -25,25 +31,41 @@
 ### USB启动盘制作
 
     ★UltraISO 软碟通（收费）
-    http://cn.ezbsystems.com/ultraiso/index.html
+    https://cn.ezbsystems.com/ultraiso/index.html
     注：这软件不贵，常用可以考虑买一个
+        注册直通车（适用于简体中文版）
+        Guanjiu／A06C-83A7-701D-6CFC
+        累累／4EE9-A156-B015-A70E
+        李明／509F-BA54-BBA6-73C5
+        王涛／7C81-1689-4046-626F
+    
 
     Rufus
-    http://rufus.ie/
+    https://rufus.ie/zh/
     注：站长不接受捐助，挺牛的
 
     fbinstTool
     http://bbs.wuyou.net/forum.php?mod=viewthread&tid=189221
     
+    ！扩展：无忧启动论坛
+    http://bbs.wuyou.net/
+    
+    Ventoy（新一代多系统启动U盘解决方案）
+    https://www.ventoy.net/cn
+    
+    
 ### 运行库 / 驱动（建议使用官方驱动）
 
-    All in One Runtimes
+    ★All in One Runtimes
     https://sereby.org/
     
-    ★微软常用运行库合集
+    微软常用运行库合集（睿派克站长roustar31作品）
     https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=168
-
-    万能驱动助理 / 一键运行库
+    ！睿派克论坛已于4月18时0点关站；
+    ！Dreamcast基于roustar31（睿派克站长）的原始脚本接盘更新：
+    http://dreamcast2.ys168.com/
+    
+    ★万能驱动助理 / 一键运行库
     https://www.itsk.com/
     注：发懒惰病时，可以和优启通（见“系统 / PE”）一起下载使用
     
@@ -67,7 +89,7 @@
     
     ★KMS tools （180天循环试用，支持 windows 和 office）
     https://forums.mydigitallife.net/forums/kms-tools.51/
-    推荐：Microsoft Toolkit / KMS-VL-ALL 等
+    推荐：Microsoft Toolkit / KMSpico / KMS-VL-ALL 等等
     
 ### 系统维护
    
@@ -77,11 +99,14 @@
     ★DiskGenius（数据恢复及分区分区管理软件） 
     http://www.diskgenius.cn/
     
-    ★Piriform CCleaner / Defraggler / Recuva / Speccy
+    Piriform CCleaner / Defraggler / Recuva / Speccy
     https://www.ccleaner.com/download
     
     ★Dism++
     http://www.chuyu.me/zh-Hans/
+    
+    ★WPD
+    https://wpd.app/
     
     Avira Free Antivirus （小红伞免费版）
     https://www.avira.com/zh-cn/free-antivirus-windows
@@ -99,9 +124,14 @@
     https://www.huorong.cn/
     注：没有软件管理工具
     
+    AdGuard（广告拦截）
+    https://adguard.com/zh_cn/welcome.html
+    
     ★Adblock Plus（用于IE / Chrome / Firefox 等浏览器广告拦截和隐私保护插件）
     https://adblockplus.org/zh_CN/download
     注：装完浏览器第一个装的插件就是它
+    
+    ！扩展：CJXList  https://github.com/cjx82630/cjxlist
     
 ### 网络加速
     
