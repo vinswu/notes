@@ -59,7 +59,7 @@
     https://www.ventoy.net/cn
     
     
-### 运行库 / 驱动（建议使用官方驱动）
+### 运行库 / 驱动 （建议使用官方驱动）
 
     All in One Runtimes
     https://sereby.org/
@@ -98,7 +98,7 @@
     http://www.160.com
     
     
-### 激活（不用过于纠结是否永久激活）
+### 激活 （不用过于纠结是否永久激活）
 
     Windows Loader （支持 windows vista 和 windows 7 等永久激活）
     https://forums.mydigitallife.net/threads/windows-loader-download.58464/
@@ -299,6 +299,10 @@
     http://unispim.com/  老版
     https://pinyin.thunisoft.com/index.html#/sy
     
+    Bing输入法（原：微软英库拼音输入法）
+    http://bing.msn.cn/pinyin/
+    注：已停更，最后一个版本BingPinyinSetup_1.6.98.04.exe
+    
     
     Rime 输入法
     https://github.com/rime/weasel
@@ -353,7 +357,7 @@
     
     Bing词典
     https://bingdict.chinacloudsites.cn/
-    
+    注：已停更，最后一个版本BingDict_Setup_3.5.4.1.exe
     
     QTranslate（可以下载一个绿色便携版本，备用）
     https://quest-app.appspot.com/download
@@ -372,7 +376,7 @@
     
     ★Adobe Acrobat DC（收费）
     https://acrobat.adobe.com/cn/zh-Hans/acrobat.html
-    注：推荐个微博 https://weibo.com/vposy
+    提示：关注微博@vposy https://weibo.com/vposy
     
     
     ABBYY FineReader（收费）
@@ -424,10 +428,12 @@
     
     ★Adobe Photoshop (收费）
     https://www.adobe.com/cn/products/photoshop.html
+    提示：关注微博@vposy https://weibo.com/vposy
     
     
     Adobe Illustrator （收费）
     https://www.adobe.com/cn/products/illustrator.html
+    提示：关注微博@vposy https://weibo.com/vposy
     
     
     CorelDRAW （收费）
@@ -447,6 +453,7 @@
     
     Adobe Audition （收费）
     https://www.adobe.com/cn/products/audition.html
+    提示：关注微博@vposy https://weibo.com/vposy
     
     
     ★Potplayer
@@ -458,16 +465,18 @@
     http://www.pcfreetime.com/formatfactory/CN/index.html
     
     
+    OBS（直播视频录制）
+    https://obsproject.com/zh-cn
+    
+    
     Adobe Premiere （收费）
     https://www.adobe.com/cn/products/premiere.html
+    提示：关注微博@vposy https://weibo.com/vposy
     
     
     Adobe After Effects（收费）
     https://www.adobe.com/cn/products/aftereffects.html
-    
-    
-    Adobe Audition（收费）
-    https://www.adobe.com/cn/products/audition.html
+    提示：关注微博@vposy https://weibo.com/vposy
     
     
 ### 效率工具
@@ -519,3 +528,27 @@
     
     Quicker
     https://getquicker.net/
+    
+    
+### 个性化 （仁者见仁，智者见智）
+
+    f.lux（根据日出日落，自动调整屏幕亮度）
+    https://justgetflux.com/
+    
+    
+    Fliqlo（时钟屏保）
+    https://fliqlo.com/
+    
+    
+    DesktopSlides（定时更换桌面壁纸）
+    http://wallpaperswide.com/desktopslidesv.html
+    
+    
+    BingWallpaper（每天一张桌面壁纸）
+    https://www.microsoft.com/zh-cn/bing/bing-wallpaper
+    
+    
+    Rainmeter（个性化桌面布局）
+    https://www.rainmeter.net/
+    
+    
