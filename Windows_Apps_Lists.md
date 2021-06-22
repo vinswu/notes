@@ -423,11 +423,12 @@
     
     Imagine
     https://www.nyam.pe.kr/dev/imagine/
-    注：记得把插件装上
+    提示：记得把插件装上
+    
     
     Honeyview
     https://www.bandisoft.com/honeyview/
-    提示：配合Bandizip，压缩包内看图。
+    提示：配合Bandizip（全家桶一个都不能少）
     
     
     ★Adobe Photoshop (收费）
