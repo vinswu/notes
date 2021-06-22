@@ -421,6 +421,10 @@
     提示：XnView Extended 中包含此插件。
     
     
+    Imagine
+    https://www.nyam.pe.kr/dev/imagine/
+    注：记得把插件装上
+    
     Honeyview
     https://www.bandisoft.com/honeyview/
     提示：配合Bandizip，压缩包内看图。
