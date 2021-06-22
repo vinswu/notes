@@ -485,11 +485,11 @@
     https://keepass.info/
     
     
-    Bitwarden - 在线密码管理
+    ★Bitwarden - 在线密码管理
     https://bitwarden.com/
     
     
-    桌面日历
+    ★桌面日历
     http://chs.desktopcal.com/chs/
     
     
@@ -532,11 +532,11 @@
     
 ### 个性化 （仁者见仁，智者见智）
 
-    f.lux（根据日出日落，自动调整屏幕亮度）
+    ★f.lux（根据日出日落，自动调整屏幕亮度）
     https://justgetflux.com/
     
     
-    Fliqlo（时钟屏保）
+    ★Fliqlo（时钟屏保）
     https://fliqlo.com/
     
     
