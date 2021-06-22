@@ -285,6 +285,9 @@
     https://msdn.itellyou.cn/
     注：推荐个网站 https://www.landiannews.com/
     
+    ★XMind
+    https://www.xmind.cn/
+    
     ★Adobe Acrobat DC（收费）
     https://acrobat.adobe.com/cn/zh-Hans/acrobat.html
     注：推荐个微博 https://weibo.com/vposy
@@ -317,14 +320,14 @@
     
     ★XnView Shell Extension（右键图片预览）
     https://www.xnview.com/en/xnshell/
-    提示：★XnView Extended 中包含此插件。
+    提示：XnView Extended 中包含此插件。
     
     Honeyview
     https://www.bandisoft.com/honeyview/
     提示：配合Bandizip，压缩包内看图。
     
     ScreenToGif（录制gif）
-    https://www.screentogif.com
+    https://github.com/NickeManarin/ScreenToGif
     
     ★Adobe Photoshop (收费）
     https://www.adobe.com/cn/products/photoshop.html
@@ -338,7 +341,7 @@
     
 ### 音频视频
 
-    ★AIMP
+    ★AIMP（为什么选这个，不用fb2k；因为原生自带中文）
     http://www.aimp.ru/
     
     foobar2000
@@ -374,11 +377,15 @@
     滴答清单
     https://www.dida365.com/
     
-    Total Commander （收费）
+    Total Commander （收费）（超强大的资源管理软件）
     https://www.ghisler.com/download.htm
+    ！推荐：善用佳软：TC学堂——最易读的Total Commander教程 https://xbeta.info/studytc/
     
-    Everything
+    Everything（全盘快速搜索）
     https://www.voidtools.com/zh-cn/
+    
+    QuickLook（快速预览）
+    https://github.com/QL-Win/QuickLook
     
     WGestures全局鼠标手势
     http://www.yingdev.com/projects/wgestures
@@ -388,3 +395,6 @@
     
     Capslock+
     https://cjkis.me/capslock+/
+    
+    Quicker
+    https://getquicker.net/
