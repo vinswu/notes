@@ -37,7 +37,6 @@
         李明／509F-BA54-BBA6-73C5
         王涛／7C81-1689-4046-626F
     
-
     Rufus
     https://rufus.ie/zh/
     注：站长不接受捐助，挺牛的
@@ -264,13 +263,16 @@
     
 ### 学习阅读
 
-    calibre
+    ★Sumatra PDF（看小说很舒服，下载一个绿色便携版Portable version，放在U盘备用）
+    https://www.sumatrapdfreader.org/download-free-pdf-viewer
+    
+    ★calibre（电子书管理）
     https://calibre-ebook.com/download
     
-    Inoreader
+    Inoreader（RSS订阅）
     https://www.inoreader.com/
     
-    Feedly
+    Feedly（RSS订阅）
     https://feedly.com/i/welcome
     
     金山词霸
@@ -279,8 +281,8 @@
     Bing词典
     https://bingdict.chinacloudsites.cn/
     
-    QTranslate
-    https://quest-app.appspot.com/
+    QTranslate（可以下载一个绿色便携版本，备用）
+    https://quest-app.appspot.com/download
     
 ### 文字文档
 
