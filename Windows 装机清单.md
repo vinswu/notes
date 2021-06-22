@@ -231,8 +231,8 @@
          
  ### 输入法
 
-    ★紫光华宇拼音输入法
-    http://unispim.com/
+    ★华宇拼音输入法（原：紫光拼音输入法、紫光华宇拼音输入法
+    http://unispim.com/  老版
     https://pinyin.thunisoft.com/index.html#/sy
     
     Rime 输入法
