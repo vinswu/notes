@@ -36,6 +36,7 @@
     ★UltraISO 软碟通（收费）
     https://cn.ezbsystems.com/ultraiso/index.html
     注：这软件不贵，常用可以考虑买一个
+    
         ★注册直通车（适用于简体中文版）
         Guanjiu／A06C-83A7-701D-6CFC
         累累／4EE9-A156-B015-A70E
@@ -214,6 +215,7 @@
     
     Internet Download Manager （收费）
     http://www.internetdownloadmanager.com/
+    注：这软件不贵，常用可以考虑买一个
     
     
     Persepolis Download Manager
