@@ -8,6 +8,9 @@
     http://msdn.itellyou.cn/
     注：下载链接为电驴链接，建议捐助站长
     
+    Windows ISO Downloader（Windows及Office下载工具）
+    https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool
+    
     ！扩展：★远景论坛 http://www.pcbeta.com/
     
     
