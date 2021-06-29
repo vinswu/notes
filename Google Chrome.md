@@ -7,11 +7,15 @@ https://www.google.com/chrome/
 https://www.google.cn/chrome/
 可直连访问
 
-## 1.2 各版本下载
+## 1.2 下载选择
 
 ### Stable 稳定版
-[在线安装](www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN#eula)
-[离线安装](www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN&standalone=1#eula)
+
+在线安装
+www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN#eula
+
+离线安装
+www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN&standalone=1#eula
  
 ### Beta 测试版
 [在线安装](www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN&extra=betachannel#eula)
