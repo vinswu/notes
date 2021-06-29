@@ -1,15 +1,28 @@
-# Google Chrome 浏览器下载
+# 浏览器の下载
 
-
-最新稳定版 Stable 安装包下载：
-
-    www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN#eula
-
-最新稳定版 Stable 离线安装包下载：
-
-    www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN&standalone=1#eula
+## 访问主页（自备梯子）
  
-最新测试版 Beta 安装包下载：
+https://www.chrome.com
+
+https://www.google.com/chrome/
+
+https://www.google.cn/chrome/
+
+## 各版本下载
+
+#### Stable 稳定版
+
+在线安装
+
+www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN#eula
+
+离线安装
+
+www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN&standalone=1#eula
+ 
+#### Beta 测试版
+
+
 
     www.google.com/intl/zh-CN/chrome/browser/index.html?hl=zh-CN&extra=betachannel#eula
 
