@@ -48,3 +48,11 @@ https://github.com/gorhill/uBlock
 ### Bitwarden 密码管理
 
 https://bitwarden.com/
+
+### 购物党自动比价工具
+
+https://www.gwdang.com/app/extension/
+
+### FireShot
+
+https://getfireshot.com/
