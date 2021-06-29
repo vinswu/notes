@@ -1,4 +1,4 @@
-# 1 浏览器の下载
+# 1 浏览器
 
 ## 1.1 访问主页
 
@@ -35,11 +35,13 @@ www.google.com/intl/zh-CN/chrome/browser/canary.html?hl=zh-CN#eula
 
 https://download-chromium.appspot.com/
 
-# 2 必装の扩展程序
+# 2 扩展程序
 
 ### Tampermonkey 脚本管理工具
 
 https://tampermonkey.net/
+
+##### >懒人脚本 https://greasyfork.org/zh-CN/scripts/370634
 
 ### uBlock Origin 广告拦截工具
 
