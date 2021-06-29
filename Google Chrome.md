@@ -56,3 +56,7 @@ https://www.gwdang.com/app/extension/
 ### FireShot 网页截图工具
 
 https://getfireshot.com/
+
+### ImTranslator 多引擎网络翻译工具
+
+https://imtranslator.net/
