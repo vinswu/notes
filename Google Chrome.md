@@ -37,15 +37,15 @@ https://download-chromium.appspot.com/
 
 # 2 必装の扩展程序
 
-### Tampermonkey 脚本管理
+### Tampermonkey 脚本管理工具
 
 https://tampermonkey.net/
 
-### uBlock Origin 广告拦截
+### uBlock Origin 广告拦截工具
 
 https://github.com/gorhill/uBlock
 
-### Bitwarden 密码管理
+### Bitwarden 密码管理工具
 
 https://bitwarden.com/
 
@@ -53,6 +53,6 @@ https://bitwarden.com/
 
 https://www.gwdang.com/app/extension/
 
-### FireShot
+### FireShot 网页截图工具
 
 https://getfireshot.com/
