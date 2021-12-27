@@ -197,6 +197,11 @@
     https://github.com/2dust/v2rayN/releases
     
     
+    ★Clash
+    https://github.com/Fndroid/clash_for_windows_pkg/releases
+    注：汉化补丁： https://github.com/BoyceLig/Clash_Chinese_Patch/releases
+    
+    
     XX-Net （GoAgent延续，仅当缅怀）
     https://github.com/XX-net/XX-Net
     
@@ -214,6 +219,10 @@
     百度网盘
     http://pan.baidu.com/download
     注：不推荐用第三方加速工具，面对流氓有时候还是得保护费的
+    
+    
+    阿里云盘
+    https://www.aliyundrive.com/
     
     
     Internet Download Manager （收费）
