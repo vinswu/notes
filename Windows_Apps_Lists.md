@@ -301,7 +301,7 @@
      https://www.mozilla.org/zh-CN/firefox/organizations/all/
      
      
-     Tor Browser （暗网了解一下）
+     Tor Browser （通往暗网）
      https://www.torproject.org/
       
       
@@ -471,6 +471,10 @@
     Adobe Audition （收费）
     https://www.adobe.com/cn/products/audition.html
     提示：关注微博@vposy https://weibo.com/vposy
+    
+    
+    ★VLC
+    https://www.videolan.org/index.zh_CN.html
     
     
     ★Potplayer
