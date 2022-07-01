@@ -55,11 +55,11 @@
 
 #### 免费节点（临时应急）
 
-https://github.com/Alvin9999/new-pac/wiki/ss免费账号  免费SS/SSR账号/节点列表（长期更新）
+https://github.com/Alvin9999/new-pac/wiki/ss免费账号  `免费SS/SSR账号/节点列表（长期更新）`
 
-https://lncn.org/  每周一晚和周五凌晨更新。一键复制所有节点 - 批量导入SSR://链接
+https://lncn.org/  `每周一晚和周五凌晨更新。一键复制所有节点 - 批量导入SSR://链接`
 
-https://free-ss.site/  优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
+https://free-ss.site/  `优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点`
 
 #### 免费机场推荐
 
