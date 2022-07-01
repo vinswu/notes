@@ -61,9 +61,14 @@ https://lncn.org/  每周一晚和周五凌晨更新。一键复制所有节点 
 
 https://free-ss.site/  优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
-#### 免费公益机场（备用推荐）
+#### 免费机场推荐
 
 [GetfreeCloud](https://portal.getfree.cloud/auth/register?code=fxaq  "需每天签到领流量") 
+
+#### 付费机场推荐
+
+[ADSL.Cloud](https://portal.adsl.cloud/auth/register?code=kxL1  "低至2元每月")
+
 
 #### VPS 服务商（支持支付宝）
 
@@ -79,28 +84,12 @@ https://free-ss.site/  优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
 [ShadowsocksR @ 维基百科](https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR)
 
-[大概是萌新也看得懂的SSR功能详细介绍&使用教程](https://moe.best/tutorial/shadowsocksr.html)
-
-[SSR中文网](https://ssr.tools/)
+[ShadowsocksR 客户端 小白使用教程](https://doubibackup.com/jeptq9ir-2.html)
 
 [逗比根据地](https://doubibackup.com/)
-[ShadowsocksR 客户端 小白使用教程](https://doubibackup.com/jeptq9ir-2.html)
+
+[SSR中文网](https://ssr.tools/)
 
 [VPS GO](https://www.vpsgo.com/)
 
 [翻墙党论坛](https://fanqiangdang.com/)
-
-[浅谈部分机场（SS/SSR提供商）的使用感受--毒药笔记持续更新中](https://github.com/387099/SSR/issues/1)
-
-[Just My Socks](https://justmysockscn.com)
-
-[爱翻墙国外导航](https://www.ifanqiang.com/)
-
-
-
-
-
-
-
-	
-
