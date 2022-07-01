@@ -67,7 +67,7 @@ https://free-ss.site/  优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
 #### 付费机场推荐
 
-[ADSL.Cloud](https://portal.adsl.cloud/auth/register?code=kxL1  "低至2元每月")  邀请码`kxL1`
+[ADSL.Cloud](https://portal.adsl.cloud/auth/register?code=90CM  "低至2元每月")  邀请码`90CM`
 
 
 #### VPS 服务商（支持支付宝）
