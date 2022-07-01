@@ -63,7 +63,7 @@ https://free-ss.site/  优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
 #### 免费机场推荐
 
-[GetfreeCloud](https://portal.getfree.cloud/auth/register?code=fxaq  "需每天签到领流量")  邀请码`fxaq`
+[GetfreeCloud](https://portal.getfree.cloud/auth/register?code=VXGO  "需每天签到领流量")  邀请码`VXGO`
 
 #### 付费机场推荐
 
