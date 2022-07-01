@@ -11,10 +11,10 @@
 >ShadowSocksR-RM （仅修复PAC更新链接，更新为ShadowsocksR-4.7.0.1-win.7z）  
 >https://github.com/shadowsocksr-rm/shadowsocksr-csharp/releases
 >
->ShadowSocksR项目停止后，一个较受欢迎的分支ShadowSocksRR（简称SSRR）  
+>ShadowSocksR项目停止后，一个较受欢迎的分支ShadowSocksRR（简称SSRR）**推荐使用**  
 >https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 >
->ShadowsocksR for Windows （HMBSbige）  
+>ShadowsocksR for Windows （HMBSbige）**推荐使用**  
 >https://github.com/HMBSbige/ShadowsocksR-Windows/releases
 	
 #### 运行ShadowSocksR
