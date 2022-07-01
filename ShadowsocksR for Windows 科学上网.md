@@ -90,6 +90,4 @@ https://free-ss.site/  优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
 [SSR中文网](https://ssr.tools/)
 
-[VPS GO](https://www.vpsgo.com/)
-
 [翻墙党论坛](https://fanqiangdang.com/)
