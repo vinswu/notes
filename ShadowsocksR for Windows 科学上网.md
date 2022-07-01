@@ -63,11 +63,11 @@ https://free-ss.site/  优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
 #### 免费机场推荐
 
-[GetfreeCloud](https://portal.getfree.cloud/auth/register?code=fxaq  "需每天签到领流量") 
+[GetfreeCloud](https://portal.getfree.cloud/auth/register?code=fxaq  "需每天签到领流量")  邀请码`fxaq`
 
 #### 付费机场推荐
 
-[ADSL.Cloud](https://portal.adsl.cloud/auth/register?code=kxL1  "低至2元每月")
+[ADSL.Cloud](https://portal.adsl.cloud/auth/register?code=kxL1  "低至2元每月")  邀请码`kxL1`
 
 
 #### VPS 服务商（支持支付宝）
