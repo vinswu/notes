@@ -55,21 +55,15 @@
 
 #### 免费节点（临时应急）
 
-https://lncn.org/	每周一晚和周五凌晨更新。一键复制所有节点 - 批量导入SSR://链接
+https://github.com/Alvin9999/new-pac/wiki/ss免费账号  免费SS/SSR账号/节点列表（长期更新）
 
-https://free-ss.site/	优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
+https://lncn.org/  每周一晚和周五凌晨更新。一键复制所有节点 - 批量导入SSR://链接
 
-https://github.com/Alvin9999/new-pac/wiki/ss免费账号	免费SS/SSR账号/节点列表（长期更新）
+https://free-ss.site/  优先选择V/T/U/M为10↑/10↑/10↑/10↑的节点
 
 #### 免费公益机场（备用推荐）
 
-[酸奶](https://www.suannai.ml)	[点击注册](http://www.ssru.ml/register/57299/ZYASBQOG) 
-
-> 免费用户，每天签到得1GB流量，连续15天未在网站签到的免费账号可能将被删除！每月一号流量会复位成1GB。
-
-[GetfreeCloud](https://portal.getfree.cloud//auth/register?code=fxaq)
-
-> 支持 需在TG群组每48小时保持连续签到
+[GetfreeCloud](https://portal.getfree.cloud/auth/register?code=fxaq  "需每天签到领流量") 
 
 #### VPS 服务商（支持支付宝）
 
@@ -80,8 +74,6 @@ https://github.com/Alvin9999/new-pac/wiki/ss免费账号	免费SS/SSR账号/节�
 [CloudCone](https://cloudcone.com/)
 
 [Host1Plus](https://www.heficed.com/)
-
-
 
 #### 深入学习
 
