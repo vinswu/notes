@@ -67,16 +67,7 @@
     http://www.shihuo.cn/
     
 ## 影视资源系
-
-### 全网影视资源
-    http://v.daicuo.cc/
-    
-### 影视大全电影资源站全网影视资源
-    http://www.hyw.me/
-    
-### 爱高清
-    http://ihd.me/
-    
+   
 ### YouTube
     https://www.youtube.com/
     
