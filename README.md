@@ -95,7 +95,7 @@
 ## 进Windows系统完成安装
 
 #### 开启Administrator账户
-> 拓展：《Win10如何启用Administrator账户》(https://blog.csdn.net/r875330957/article/details/79775494)  
+> 拓展：[《Win10如何启用Administrator账户》](https://blog.csdn.net/r875330957/article/details/79775494)  
 > 拓展：[《Win10开启Administrator账户》](https://zhuanlan.zhihu.com/p/362058979)
 
 #### 激活系统（提前准备的激活工具）
