@@ -31,9 +31,9 @@
 - 7-zip https://www.7-zip.org/
 
 ##### 运行库 下载
-- 微软常用运行库合集_果壳剥壳 https://www.ghxi.com/yxkhj.html
-- 微软.NET运行库合集_果壳剥壳 https://www.ghxi.com/nethj.html
-- 微软常用运行库合集_Dreamcast http://dreamcast2.ysepan.com/
+- 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
+- 微软.NET运行库合集-果壳剥壳 https://www.ghxi.com/nethj.html
+- 微软常用运行库合集-Dreamcast http://dreamcast2.ysepan.com/
 - VisualCppRedist AIO https://github.com/abbodi1406/vcredist
 - DirectX修复工具增强版 https://blog.csdn.net/vbcom/article/details/7245186
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
@@ -99,8 +99,8 @@
 > 拓展：[《Win10开启Administrator账户》](https://zhuanlan.zhihu.com/p/362058979)
 
 #### 激活系统（提前准备的激活工具）
-- 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
-- ZD423Down_Microsoft_Activation_Tools https://pan.lanzou.com/b0f1t9l0b
+- 知彼而知己-HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
+- ZD423Down-Microsoft_Activation_Tools https://pan.lanzou.com/b0f1t9l0b
 
 #### 安装运行库（提前准备的微软常用运行库合集）
 - 微软常用运行库合集_果壳剥壳 https://www.ghxi.com/yxkhj.html
