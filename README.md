@@ -143,7 +143,6 @@
 - 企业微信 https://work.weixin.qq.com/
 - 钉钉 https://www.dingtalk.com/
 - 飞书 https://www.feishu.cn/
-- 桌面日历 https://chs.desktopcal.com/chs/
 
 #### 文案处理
 - Microsoft Office https://www.office.com/
@@ -169,6 +168,7 @@
 - Potplayer https://potplayer.daum.net/
 
 #### 个性化
-- Bing Wallpaper https://www.microsoft.com/zh-cn/bing/bing-wallpaper
+- 桌面日历 https://chs.desktopcal.com/chs/
+- 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - f.lux https://justgetflux.com/
 - FlipIt https://github.com/phaselden/FlipIt/releases
