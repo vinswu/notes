@@ -1,4 +1,4 @@
-## ShadowsocksR for Windows 科学上网
+## 科学上网 ShadowsocksR
 
 #### 下载ShadowSocksR
 
