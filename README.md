@@ -130,6 +130,7 @@
 - 讯飞输入法 https://srf.xunfei.cn/
 
 #### 系统优化维护
+- 360安全卫士 https://weishi.360.cn/
 - 腾讯电脑管家 https://guanjia.qq.com/
 - WPD https://wpd.app/
 - Geek Uninstaller https://geekuninstaller.com/
