@@ -12,9 +12,9 @@
 ##### PE 下载
 - IT天空-优启通 http://www.usbzl.com/
 - 微PE https://www.wepe.com.cn/
-- 金狐系统维护盘 http://www.jinhu.me/
-- 杏雨梨云启动维护系统 https://www.xyboot.com/  
-> 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)
+> 拓展：[金狐系统维护盘](http://www.jinhu.me/)  
+> 拓展：[杏雨梨云启动维护系统](https://www.xyboot.com/)  
+> 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
 
 ##### 镜像刻录工具 下载
 - UltraISO软碟通 https://cn.ezbsystems.com/ultraiso/download.htm  
@@ -29,7 +29,6 @@
 
 ##### 解压缩工具 下载
 - 7-zip https://www.7-zip.org/
-- WinRAR https://www.rarlab.com/
 
 ##### 运行库 下载
 - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
@@ -57,7 +56,7 @@
 
 #### PE 制作（提前准备的U盘、PE、镜像刻录工具UltraISO）
 > 拓展：[《微pe工具箱+软碟通 制作 U盘启动盘》](https://blog.csdn.net/yong53jun/article/details/118408973)  
-> 拓展：[《ultraiso制作u盘启动盘教程图文详解纯净-U盘启动教程》](https://blog.csdn.net/qufuxiaozi/article/details/80124887)
+> 拓展：[《ultraiso制作u盘启动盘教程图文详解纯净-U盘启动教程》](https://blog.csdn.net/qufuxiaozi/article/details/80124887)  
 > 拓展：[《Windows 重装系统-U盘启动盘制作及启动》](https://blog.csdn.net/m0_55483902/article/details/123496575)
 
 #### U盘启动进PE
