@@ -3,7 +3,7 @@
 ## 安装前的准备
 
 #### 硬件：U盘、网络、备用电脑  
-#### 软件：系统、PE、镜像刻录工具UltraISO、解压缩工具7-zip、激活工具、运行库、驱动
+#### 软件：系统、PE、镜像刻录工具、解压缩工具、激活工具、运行库、驱动
 
 ##### 系统 下载
 - MSDN,我告诉你 https://msdn.itellyou.cn/ 
@@ -29,6 +29,7 @@
 
 ##### 解压缩工具 下载
 - 7-zip https://www.7-zip.org/
+- WinRAR https://www.rarlab.com/
 
 ##### 运行库 下载
 - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
