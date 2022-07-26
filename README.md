@@ -43,7 +43,7 @@
 - ZD423Down_Microsoft_Activation_Tools https://pan.lanzou.com/b0f1t9l0b
 
 #### 驱动 下载
-- 对应硬件官方服务支持下载中心
+- 对应硬件官网的技术支持服务下载中心
 - IT天空-万能驱动 http://www.wandrv.com/
 - 360驱动大师 http://www.drivergenius.com/
 
@@ -110,7 +110,7 @@
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
 
 #### 安装驱动（提前准备的驱动）
-- 对应硬件官方服务支持下载中心
+- 对应硬件官网的技术支持服务下载中心
 - IT天空-万能驱动 http://www.wandrv.com/
 - 360驱动大师 http://www.drivergenius.com/
 
