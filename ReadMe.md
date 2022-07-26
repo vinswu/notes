@@ -171,7 +171,7 @@
 - Potplayer https://potplayer.daum.net/
 
 #### 个性化
-- 桌面日历 https://chs.desktopcal.com/chs/
+- 日历清单（原：桌面日历） https://www.xdiarys.com/
 - 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - f.lux https://justgetflux.com/
 - FlipIt https://github.com/phaselden/FlipIt/releases
