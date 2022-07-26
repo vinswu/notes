@@ -46,7 +46,6 @@
 - 对应硬件官方服务支持下载中心
 - IT天空-万能驱动 http://www.wandrv.com/
 - 360驱动大师 http://www.drivergenius.com/
-- 驱动精灵 http://www.drivergenius.com/
 
 ## 制作PE启动盘
 
@@ -114,7 +113,6 @@
 - 对应硬件官方服务支持下载中心
 - IT天空-万能驱动 http://www.wandrv.com/
 - 360驱动大师 http://www.drivergenius.com/
-- 驱动精灵 http://www.drivergenius.com/
 
 ## 我的 Windows Apps
 
@@ -135,6 +133,10 @@
 - WPD https://wpd.app/
 - Geek Uninstaller https://geekuninstaller.com/
 
+#### 下载&网盘工具
+- 迅雷 https://dl.xunlei.com/
+- 百度网盘 https://pan.baidu.com/
+
 #### 腾讯聊天套件
 - TIM https://office.qq.com
 - 微信 https://weixin.qq.com/
@@ -151,7 +153,6 @@
 - Adobe Acrobat / Adobe Photoshop .. https://www.adobe.com/cn/
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
 - Xmind https://www.xmind.cn/
-
 
 #### 看图
 - FastStone Image Viewer https://www.faststone.org/FSViewerDetail.htm
