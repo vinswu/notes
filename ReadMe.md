@@ -118,7 +118,8 @@
 ## 我的 Windows Apps
 
 #### 科学上网工具
-- ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows/releases
+- ShadowsocksR-breakwa11(备份) https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
+- ShadowsocksR-HMBSbige https://github.com/HMBSbige/ShadowsocksR-Windows/releases
 - Clash https://github.com/Fndroid/clash_for_windows_pkg/releases
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
