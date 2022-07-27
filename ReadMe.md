@@ -180,9 +180,9 @@
 - FastPreview（右键图片预览） https://github.com/nmaier/fastpreview/releases
 
 #### 截图/gif动图录屏
+- QQ截图
 - Snipaste https://www.snipaste.com/
 - ScreenToGif https://github.com/NickeManarin/ScreenToGif
-> QQ截图
 
 #### 听音乐
 - AIMP https://www.aimp.ru/
@@ -194,8 +194,8 @@
 - VLC https://www.videolan.org/vlc/
 
 #### 录视频
+- QQ截图-屏幕录制
 - OBS https://obsproject.com/zh-cn
-> QQ截图-屏幕录制
 
 #### 个性化
 - 日历清单（原：桌面日历） https://www.xdiarys.com/
