@@ -177,7 +177,7 @@
 - FastStone Image Viewer https://www.faststone.org/FSViewerDetail.htm
 - XnView Shell Extension https://www.xnview.com/en/xnshell/
 
-#### 截图/录屏
+#### 截图/gif动图录屏
 - Snipaste https://www.snipaste.com/
 - ScreenToGif https://github.com/NickeManarin/ScreenToGif
 
@@ -187,6 +187,9 @@
 
 #### 看视频
 - Potplayer https://potplayer.daum.net/
+
+#### 录视频
+- OBS https://obsproject.com/zh-cn
 
 #### 个性化
 - 日历清单（原：桌面日历） https://www.xdiarys.com/
