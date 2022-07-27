@@ -10,8 +10,8 @@
 - 远景Windows论坛 https://bbs.pcbeta.com/
 
 ##### PE 下载
-- IT天空-优启通 http://www.usbzl.com/
 - 微PE https://www.wepe.com.cn/
+- IT天空-优启通 http://www.usbzl.com/
 > 拓展：[金狐系统维护盘](http://www.jinhu.me/)  
 > 拓展：[杏雨梨云启动维护系统](https://www.xyboot.com/)  
 > 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
@@ -19,7 +19,7 @@
 ##### 镜像刻录工具 下载
 - Rufus https://rufus.ie/zh/
 - UltraISO软碟通 https://cn.ezbsystems.com/ultraiso/download.htm  
-> 简体中文版 注册信息  
+> UltraISO软碟通 简体中文版 注册信息  
 
 | 注册名  | 注册码 |
 | :--- | :--- |
@@ -37,7 +37,7 @@
 - 微软.NET运行库合集-果壳剥壳 https://www.ghxi.com/nethj.html
 - 微软常用运行库合集-Dreamcast http://dreamcast2.ysepan.com/
 - VisualCppRedist AIO https://github.com/abbodi1406/vcredist
-- DirectX修复工具增强版 https://blog.csdn.net/vbcom/article/details/7245186
+- DirectX修复工具增强版 https://blog.csdn.net/vbcom/article/details/7245186/releases
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
 
 #### 激活工具 下载
@@ -46,8 +46,8 @@
 
 #### 驱动 下载
 - 对应硬件官网的技术支持服务下载中心
-- IT天空-万能驱动 http://www.wandrv.com/
 - 360驱动大师 http://www.drivergenius.com/
+- IT天空-万能驱动 http://www.wandrv.com/
 
 ## 制作PE启动盘
 
@@ -100,21 +100,21 @@
 > 拓展：[《Win10开启Administrator账户》](https://zhuanlan.zhihu.com/p/362058979)
 
 #### 激活系统（提前准备的激活工具）
-- 知彼而知己-HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
+- 知彼而知己-HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator/releases
 - ZD423Down-Microsoft_Activation_Tools https://pan.lanzou.com/b0f1t9l0b
 
 #### 安装运行库（提前准备的微软常用运行库合集）
 - 微软常用运行库合集_果壳剥壳 https://www.ghxi.com/yxkhj.html
 - 微软.NET运行库合集_果壳剥壳 https://www.ghxi.com/nethj.html
 - 微软常用运行库合集_Dreamcast http://dreamcast2.ysepan.com/
-- VisualCppRedist AIO https://github.com/abbodi1406/vcredist
+- VisualCppRedist AIO https://github.com/abbodi1406/vcredist/releases
 - DirectX修复工具增强版 https://blog.csdn.net/vbcom/article/details/7245186
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
 
 #### 安装驱动（提前准备的驱动）
 - 对应硬件官网的技术支持服务下载中心
-- IT天空-万能驱动 http://www.wandrv.com/
 - 360驱动大师 http://www.drivergenius.com/
+- IT天空-万能驱动 http://www.wandrv.com/
 
 ## 我的 Windows Apps
 
@@ -134,6 +134,7 @@
 - 360安全卫士极速版 https://weishi.360.cn/
 - 腾讯电脑管家 https://guanjia.qq.com/
 - WPD https://wpd.app/
+- Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases
 - Geek Uninstaller https://geekuninstaller.com/
 
 #### 下载&网盘工具
