@@ -125,7 +125,7 @@
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
-- Google Chrome https://www.google.com/chrome/
+- Google Chrome（H） https://www.google.com/chrome/
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
 
 #### 输入法
@@ -153,7 +153,7 @@
 - TIM https://office.qq.com
 - 微信 https://weixin.qq.com/
 - 腾讯会议 https://meeting.tencent.com/
-- Telegram https://telegram.org/
+- Telegram（H） https://telegram.org/
 
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
@@ -174,8 +174,9 @@
 - Xmind https://www.xmind.cn/
 
 #### 看图
-- FastStone Image Viewer https://www.faststone.org/FSViewerDetail.htm
-- XnView Shell Extension https://www.xnview.com/en/xnshell/
+- FastStone Image Viewer（H） https://www.faststone.org/FSViewerDetail.htm
+- IrfanView https://www.irfanview.com/
+- XnView Shell Extension（右键插件） https://www.xnview.com/en/xnshell/
 
 #### 截图/gif动图录屏
 - Snipaste https://www.snipaste.com/
