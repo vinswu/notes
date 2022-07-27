@@ -177,6 +177,7 @@
 - FastStone Image Viewer（H） https://www.faststone.org/FSViewerDetail.htm
 - IrfanView https://www.irfanview.com/
 - XnView Shell Extension（右键插件） https://www.xnview.com/en/xnshell/
+- FastPreview（右键图片预览） https://github.com/nmaier/fastpreview/releases
 
 #### 截图/gif动图录屏
 - Snipaste https://www.snipaste.com/
