@@ -139,10 +139,11 @@
 - 迅雷 https://dl.xunlei.com/
 - 百度网盘 https://pan.baidu.com/
 
-#### 腾讯聊天套件
+#### 聊天工具
 - TIM https://office.qq.com
 - 微信 https://weixin.qq.com/
 - 腾讯会议 https://meeting.tencent.com/
+- Telegram https://telegram.org/
 
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
