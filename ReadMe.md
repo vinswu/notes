@@ -129,17 +129,17 @@
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
 
 #### 输入法
-- 讯飞输入法 https://srf.xunfei.cn/
-- 搜狗输入法 https://shurufa.sogou.com/
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
+- 搜狗输入法 https://shurufa.sogou.com/
+- 讯飞输入法 https://srf.xunfei.cn/
 
 #### 系统维护辅助工具
 - 360安全卫士 https://weishi.360.cn/ 
 > [360安全卫士极速版](https://down.360safe.com/setupbeta_jisu.exe "点击下载")  
 > [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)
 - 腾讯电脑管家 https://guanjia.qq.com/
-- WPD https://wpd.app/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases
+- WPD https://wpd.app/
 - Geek Uninstaller https://geekuninstaller.com/
 
 #### 下载&网盘工具
