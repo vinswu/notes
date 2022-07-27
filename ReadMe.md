@@ -131,7 +131,9 @@
 - 讯飞输入法 https://srf.xunfei.cn/
 
 #### 系统维护辅助工具
-- 360安全卫士极速版 https://weishi.360.cn/
+- 360安全卫士 https://weishi.360.cn/ 
+> [360安全卫士极速版](https://down.360safe.com/setupbeta_jisu.exe "点击下载")  
+> [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)
 - 腾讯电脑管家 https://guanjia.qq.com/
 - WPD https://wpd.app/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases
