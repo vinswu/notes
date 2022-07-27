@@ -46,7 +46,7 @@
 
 #### 驱动 下载
 - 对应硬件官网的技术支持服务下载中心
-- 360驱动大师 http://www.drivergenius.com/
+- 360驱动大师 https://dm.weishi.360.cn/home.html
 - IT天空-万能驱动 http://www.wandrv.com/
 
 ## 制作PE启动盘
@@ -113,7 +113,7 @@
 
 #### 安装驱动（提前准备的驱动）
 - 对应硬件官网的技术支持服务下载中心
-- 360驱动大师 http://www.drivergenius.com/
+- 360驱动大师 https://dm.weishi.360.cn/home.html
 - IT天空-万能驱动 http://www.wandrv.com/
 
 ## 我的 Windows Apps
