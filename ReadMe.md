@@ -10,7 +10,7 @@
 - 远景Windows论坛 https://bbs.pcbeta.com/
 
 ##### PE 下载
-- 微PE https://www.wepe.com.cn/
+- 微PE（原：通用PE） https://www.wepe.com.cn/
 - IT天空-优启通 http://www.usbzl.com/
 > 拓展：[金狐系统维护盘](http://www.jinhu.me/)  
 > 拓展：[杏雨梨云启动维护系统](https://www.xyboot.com/)  
