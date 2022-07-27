@@ -138,7 +138,8 @@
 - Geek Uninstaller https://geekuninstaller.com/
 
 #### 下载&网盘工具
-- 迅雷 https://dl.xunlei.com/
+- 迅雷 https://www.xunlei.com/
+> [迅雷极速版_1.0.35.366](http://down.sandai.net/thunderspeed/ThunderSpeed1.0.35.366.exe "点击下载")
 - 百度网盘 https://pan.baidu.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
