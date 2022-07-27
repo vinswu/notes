@@ -126,9 +126,12 @@
 
 #### 浏览器
 - Google Chrome https://www.google.com/chrome/
+- Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
 
 #### 输入法
 - 讯飞输入法 https://srf.xunfei.cn/
+- 搜狗输入法 https://shurufa.sogou.com/
+- 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 
 #### 系统维护辅助工具
 - 360安全卫士 https://weishi.360.cn/ 
@@ -162,6 +165,7 @@
 > [Office Tool Plus](https://otp.landian.vip/zh-cn/)
 - Adobe Acrobat / Photoshop / Premiere https://www.adobe.com/cn/
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
+- WPS https://www.wps.cn/
 - 万彩办公大师 http://www.wofficebox.com/
 
 #### 笔记/思维导图
