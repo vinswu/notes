@@ -165,6 +165,7 @@
 - 万彩办公大师 http://www.wofficebox.com/
 
 #### 笔记/思维导图
+- Notepad++ https://notepad-plus-plus.org/
 - Effie https://www.effie.co/
 - Xmind https://www.xmind.cn/
 
