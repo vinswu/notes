@@ -17,6 +17,7 @@
 > 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
 
 ##### 镜像刻录工具 下载
+- Rufus https://rufus.ie/zh/
 - UltraISO软碟通 https://cn.ezbsystems.com/ultraiso/download.htm  
 > 简体中文版 注册信息  
 
