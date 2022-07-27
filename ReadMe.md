@@ -29,6 +29,7 @@
 
 ##### 解压缩工具 下载
 - 7-zip https://www.7-zip.org/
+- WinRAR https://www.rarlab.com/
 
 ##### 运行库 下载
 - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
