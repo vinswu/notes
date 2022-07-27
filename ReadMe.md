@@ -143,16 +143,19 @@
 - 微信 https://weixin.qq.com/
 - 腾讯会议 https://meeting.tencent.com/
 
-#### 常用办公软件
+#### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
 - 钉钉 https://www.dingtalk.com/
 - 飞书 https://www.feishu.cn/
 
-#### 文案处理
-- Microsoft Office https://www.office.com/
+#### 办公套件
+- Microsoft Office / Project / Visio https://www.office.com/
 > [Office Tool Plus](https://otp.landian.vip/zh-cn/)
-- Adobe Acrobat / Adobe Photoshop .. https://www.adobe.com/cn/
+- Adobe Acrobat / Photoshop / Premiere https://www.adobe.com/cn/
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
+
+#### 笔记/思维导图
+- Effie https://www.effie.co/
 - Xmind https://www.xmind.cn/
 
 #### 看图
