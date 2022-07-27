@@ -138,6 +138,8 @@
 #### 下载&网盘工具
 - 迅雷 https://dl.xunlei.com/
 - 百度网盘 https://pan.baidu.com/
+- Internet Download Manager https://www.internetdownloadmanager.com/
+> [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
 
 #### 聊天工具
 - TIM https://office.qq.com
@@ -155,6 +157,7 @@
 > [Office Tool Plus](https://otp.landian.vip/zh-cn/)
 - Adobe Acrobat / Photoshop / Premiere https://www.adobe.com/cn/
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
+- 万彩办公大师 http://www.wofficebox.com/
 
 #### 笔记/思维导图
 - Effie https://www.effie.co/
