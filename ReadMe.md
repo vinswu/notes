@@ -138,6 +138,7 @@
 > [360安全卫士极速版](https://down.360safe.com/setupbeta_jisu.exe "点击下载")  
 > [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)
 - 腾讯电脑管家 https://guanjia.qq.com/
+- 火绒安全 https://www.huorong.cn/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases
 - WPD https://wpd.app/
 - Geek Uninstaller https://geekuninstaller.com/
