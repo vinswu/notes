@@ -203,3 +203,4 @@
 - 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - f.lux https://justgetflux.com/
 - FlipIt https://github.com/phaselden/FlipIt/releases
+- 字由 https://www.hellofont.cn/
