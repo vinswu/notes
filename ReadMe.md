@@ -139,6 +139,8 @@
 > [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)
 - 腾讯电脑管家 https://guanjia.qq.com/
 - 火绒安全 https://www.huorong.cn/
+- 联想电脑管家 https://guanjia.lenovo.com.cn/
+- 联想应用商店 https://lestore.lenovo.com/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases
 - WPD https://wpd.app/
 - Geek Uninstaller https://geekuninstaller.com/
