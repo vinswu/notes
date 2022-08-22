@@ -46,14 +46,17 @@
 
 #### 驱动 下载
 - 对应硬件官网的技术支持服务下载中心
+- 驱动精灵 https://www.drivergenius.com/
 - 360驱动大师 https://dm.weishi.360.cn/home.html
 - IT天空-万能驱动 http://www.wandrv.com/
+- 驱动总裁 https://www.sysceo.com/dc
 
 ## 制作PE启动盘
 
 #### PE 下载
 - IT天空-优启通 http://www.usbzl.com/
 - 微PE https://www.wepe.com.cn/
+- FirPE https://firpe.cn/
 > 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
 
 #### PE 制作（提前准备的U盘、PE、镜像刻录工具UltraISO）
@@ -126,8 +129,9 @@
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
-- Google Chrome（H） https://www.google.com/chrome/
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
+- Google Chrome（H） https://www.google.com/chrome/
+- Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
