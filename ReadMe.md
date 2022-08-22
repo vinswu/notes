@@ -183,8 +183,8 @@
 - Xmind https://www.xmind.cn/
 
 #### 看图
-- FastStone Image Viewer（H） https://www.faststone.org/FSViewerDetail.htm
 - IrfanView https://www.irfanview.com/
+- FastStone Image Viewer（H） https://www.faststone.org/FSViewerDetail.htm
 - XnView Shell Extension https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview（右键图片预览） https://github.com/nmaier/fastpreview/releases
 
@@ -199,8 +199,8 @@
 - Listen 1 音乐播放器 https://listen1.github.io/listen1/
 
 #### 看视频
-- Potplayer https://potplayer.daum.net/
 - VLC https://www.videolan.org/vlc/
+- Potplayer https://potplayer.daum.net/
 
 #### 录视频
 - QQ截图-屏幕录制
