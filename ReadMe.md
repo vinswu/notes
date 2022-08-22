@@ -10,8 +10,9 @@
 - 远景Windows论坛 https://bbs.pcbeta.com/
 
 ##### PE 下载
-- 微PE（原：通用PE） https://www.wepe.com.cn/
 - IT天空-优启通 http://www.usbzl.com/
+- 微PE（原：通用PE） https://www.wepe.com.cn/
+- FirPE https://firpe.cn/
 > 拓展：[金狐系统维护盘](http://www.jinhu.me/)  
 > 拓展：[杏雨梨云启动维护系统](https://www.xyboot.com/)  
 > 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
@@ -211,3 +212,4 @@
 - f.lux https://justgetflux.com/
 - FlipIt https://github.com/phaselden/FlipIt/releases
 - 字由 https://www.hellofont.cn/
+- noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases
