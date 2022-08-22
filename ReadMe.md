@@ -159,7 +159,7 @@
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
 
 #### 聊天工具
-- TIM https://office.qq.com
+- QQ/TIM https://im.qq.com
 - 微信 https://weixin.qq.com/
 - 腾讯会议 https://meeting.tencent.com/
 - Telegram（H） https://telegram.org/
@@ -170,11 +170,11 @@
 - 飞书 https://www.feishu.cn/
 
 #### 办公套件
+- WPS https://www.wps.cn/
 - Microsoft Office / Project / Visio https://www.office.com/
 > [Office Tool Plus](https://otp.landian.vip/zh-cn/)
 - Adobe Acrobat / Photoshop / Premiere https://www.adobe.com/cn/
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
-- WPS https://www.wps.cn/
 - 万彩办公大师 http://www.wofficebox.com/
 
 #### 笔记/思维导图
