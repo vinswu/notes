@@ -38,7 +38,7 @@
 - 微软.NET运行库合集-果壳剥壳 https://www.ghxi.com/nethj.html
 - 微软常用运行库合集-Dreamcast http://dreamcast2.ysepan.com/
 - VisualCppRedist AIO https://github.com/abbodi1406/vcredist
-- DirectX修复工具增强版 https://blog.csdn.net/vbcom/article/details/7245186/releases
+- DirectX修复工具 https://blog.csdn.net/VBcom/article/details/6962388
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
 
 #### 激活工具 下载
