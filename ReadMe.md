@@ -219,6 +219,6 @@
 - 日历清单*（原：桌面日历） https://www.xdiarys.com/
 - 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - f.lux https://justgetflux.com/
-- FlipIt https://github.com/phaselden/FlipIt/releases
+- FlipIt* https://github.com/phaselden/FlipIt/releases
 - 字由 https://www.hellofont.cn/
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases
