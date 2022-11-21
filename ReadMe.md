@@ -123,7 +123,7 @@
 ## 我的 Windows Apps
 
 #### 解压缩
-- 7-zip https://www.7-zip.org/
+- 7-zip* https://www.7-zip.org/
 - WinRAR https://www.rarlab.com/
 - Bandizip https://www.bandisoft.com/bandizip/
 - 360压缩 https://yasuo.360.cn/
@@ -132,18 +132,18 @@
 - ShadowsocksR-breakwa11(备份) https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
 - ShadowsocksR-HMBSbige https://github.com/HMBSbige/ShadowsocksR-Windows/releases
 - v2rayN https://github.com/2dust/v2rayN/releases
-- Clash https://github.com/Fndroid/clash_for_windows_pkg/releases
+- Clash* https://github.com/Fndroid/clash_for_windows_pkg/releases
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
-- Google Chrome（H） https://www.google.com/chrome/
+- Google Chrome（H）* https://www.google.com/chrome/
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
-- 讯飞输入法 https://srf.xunfei.cn/
+- 讯飞输入法* https://srf.xunfei.cn/
 - QQ输入法 http://qq.pinyin.cn/
 
 #### 系统维护辅助工具
@@ -151,12 +151,12 @@
 > [360安全卫士极速版](https://down.360safe.com/setupbeta_jisu.exe "点击下载")  
 > [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)
 - 腾讯电脑管家 https://guanjia.qq.com/
-- 火绒安全 https://www.huorong.cn/
+- 火绒安全* https://www.huorong.cn/
 - 联想电脑管家 https://guanjia.lenovo.com.cn/
-- 联想应用商店 https://lestore.lenovo.com/
+- 联想应用商店* https://lestore.lenovo.com/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases
-- WPD https://wpd.app/
-- Geek Uninstaller https://geekuninstaller.com/
+- WPD* https://wpd.app/
+- Geek Uninstaller* https://geekuninstaller.com/
 
 #### 下载&网盘工具
 - 迅雷 https://www.xunlei.com/
@@ -166,8 +166,8 @@
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
 
 #### 聊天工具
-- QQ/TIM https://im.qq.com
-- 微信 https://weixin.qq.com/
+- QQ/TIM* https://im.qq.com
+- 微信* https://weixin.qq.com/
 - 腾讯会议 https://meeting.tencent.com/
 - Telegram（H） https://telegram.org/
 
@@ -178,37 +178,37 @@
 
 #### 办公套件
 - WPS https://www.wps.cn/
-- Microsoft Office / Project / Visio https://www.office.com/
+- Microsoft Office* / Project / Visio https://www.office.com/
 > [Office Tool Plus](https://otp.landian.vip/zh-cn/)
-- Adobe Acrobat / Photoshop / Premiere https://www.adobe.com/cn/
+- Adobe Acrobat* / Photoshop / Premiere https://www.adobe.com/cn/
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
 - 万彩办公大师 http://www.wofficebox.com/
 
 #### 笔记/思维导图
 - Notepad++ https://notepad-plus-plus.org/
-- Effie https://www.effie.co/
+- Effie* https://www.effie.co/
 - Xmind https://www.xmind.cn/
 
 #### 看图
-- IrfanView https://www.irfanview.com/
+- IrfanView* https://www.irfanview.com/
 - FastStone Image Viewer（H） https://www.faststone.org/FSViewerDetail.htm
 - Honeyview https://www.bandisoft.com/honeyview/
 - XnView Shell Extension https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
-- FastPreview（右键图片预览） https://github.com/nmaier/fastpreview/releases
+- FastPreview* https://github.com/nmaier/fastpreview/releases *右键图片预览*
 
 #### 截图/gif动图录屏
-- QQ截图
-- Snipaste https://www.snipaste.com/
+- QQ截图*
+- Snipaste* https://www.snipaste.com/
 - ScreenToGif https://github.com/NickeManarin/ScreenToGif
 
 #### 听音乐
-- AIMP https://www.aimp.ru/
+- AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
 - Listen 1 音乐播放器 https://listen1.github.io/listen1/
 
 #### 看视频
 - VLC https://www.videolan.org/vlc/
-- Potplayer https://potplayer.daum.net/
+- Potplayer* https://potplayer.daum.net/
 - QQ影音 https://player.qq.com/
 
 #### 录视频
@@ -216,7 +216,7 @@
 - OBS https://obsproject.com/zh-cn
 
 #### 个性化
-- 日历清单（原：桌面日历） https://www.xdiarys.com/
+- 日历清单*（原：桌面日历） https://www.xdiarys.com/
 - 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - f.lux https://justgetflux.com/
 - FlipIt https://github.com/phaselden/FlipIt/releases
