@@ -122,6 +122,12 @@
 
 ## 我的 Windows Apps
 
+#### 解压缩
+- 7-zip https://www.7-zip.org/
+- WinRAR https://www.rarlab.com/
+- Bandizip https://www.bandisoft.com/bandizip/
+- 360压缩 https://yasuo.360.cn/
+
 #### 科学上网工具
 - ShadowsocksR-breakwa11(备份) https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
 - ShadowsocksR-HMBSbige https://github.com/HMBSbige/ShadowsocksR-Windows/releases
@@ -138,6 +144,7 @@
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
 - 讯飞输入法 https://srf.xunfei.cn/
+- QQ输入法 http://qq.pinyin.cn/
 
 #### 系统维护辅助工具
 - 360安全卫士 https://weishi.360.cn/ 
@@ -185,6 +192,7 @@
 #### 看图
 - IrfanView https://www.irfanview.com/
 - FastStone Image Viewer（H） https://www.faststone.org/FSViewerDetail.htm
+- Honeyview https://www.bandisoft.com/honeyview/
 - XnView Shell Extension https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview（右键图片预览） https://github.com/nmaier/fastpreview/releases
 
@@ -201,6 +209,7 @@
 #### 看视频
 - VLC https://www.videolan.org/vlc/
 - Potplayer https://potplayer.daum.net/
+- QQ影音 https://player.qq.com/
 
 #### 录视频
 - QQ截图-屏幕录制
