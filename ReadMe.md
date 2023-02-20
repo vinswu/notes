@@ -180,8 +180,10 @@
 - WPS https://www.wps.cn/
 - Microsoft Office* / Project / Visio https://www.office.com/
 > [Office Tool Plus](https://otp.landian.vip/zh-cn/)
+- OfficePLUS 插件 https://www.officeplus.cn/addin/OPCN/
 - Adobe Acrobat* / Photoshop / Premiere https://www.adobe.com/cn/
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
+- WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html
 - 万彩办公大师 http://www.wofficebox.com/
 
 #### 笔记/思维导图
@@ -193,8 +195,8 @@
 - IrfanView* https://www.irfanview.com/
 - FastStone Image Viewer（H） https://www.faststone.org/FSViewerDetail.htm
 - Honeyview https://www.bandisoft.com/honeyview/
-- XnView Shell Extension https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
-- FastPreview* https://github.com/nmaier/fastpreview/releases *右键图片预览*
+- XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
+- FastPreview 插件* https://github.com/nmaier/fastpreview/releases *右键图片预览*
 
 #### 截图/gif动图录屏
 - QQ截图*
