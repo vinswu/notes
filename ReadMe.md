@@ -166,7 +166,7 @@
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
 
 #### 聊天工具
-- QQ/TIM* https://im.qq.com
+- QQ/TIM* https://im.qq.com/
 - 微信* https://weixin.qq.com/
 - 腾讯会议 https://meeting.tencent.com/
 - Telegram（H） https://telegram.org/
