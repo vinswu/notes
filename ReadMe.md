@@ -152,11 +152,12 @@
 > [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)
 - 腾讯电脑管家 https://guanjia.qq.com/
 - 火绒安全* https://www.huorong.cn/
+- 微软电脑管家 https://pcmanager.microsoft.com/
 - 联想电脑管家 https://guanjia.lenovo.com.cn/
 - 联想应用商店* https://lestore.lenovo.com/
-- Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases
-- WPD* https://wpd.app/
-- Geek Uninstaller* https://geekuninstaller.com/
+- Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
+- WPD* https://wpd.app/ *系统优化*
+- Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
 
 #### 下载&网盘工具
 - 迅雷 https://www.xunlei.com/
@@ -183,7 +184,7 @@
 - OfficePLUS 插件 https://www.officeplus.cn/addin/OPCN/
 - Adobe Acrobat* / Photoshop / Premiere https://www.adobe.com/cn/
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
-- WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html
+- WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html *在Photoshop中使用WebP文件*
 - 万彩办公大师 http://www.wofficebox.com/
 
 #### 笔记/思维导图
