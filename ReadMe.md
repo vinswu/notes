@@ -222,7 +222,7 @@
 - 日历清单*（原：桌面日历） https://www.xdiarys.com/
 - 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - 微软桌面壁纸 https://lockscreen.microsoft.com/
-- f.lux https://justgetflux.com/
-- FlipIt* https://github.com/phaselden/FlipIt/releases
+- f.lux https://justgetflux.com/ *护眼*
+- FlipIt* https://github.com/phaselden/FlipIt/releases *时钟屏保*
 - 字由 https://www.hellofont.cn/
-- noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases
+- noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
