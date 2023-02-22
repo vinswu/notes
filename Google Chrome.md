@@ -49,12 +49,19 @@ https://tampermonkey.net/
 >
 >百度文库文档免费下载、内容自由复制、广告过滤等 https://greasyfork.org/zh-CN/scripts/398195
 
+### DuckDuckGo Privacy Essentials
+
+https://duckduckgo.com/app
 
 ### uBlock Origin 广告拦截工具
 
 https://github.com/gorhill/uBlock
 
 > CJXList 规则 https://github.com/cjx82630/cjxlist
+
+### AdGuard 广告拦截程序
+
+https://adguard.com/zh_cn/welcome.html
 
 ### Bitwarden 密码管理工具
 
