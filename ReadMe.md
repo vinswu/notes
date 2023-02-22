@@ -47,6 +47,12 @@
 
 #### 驱动 下载
 - 对应硬件官网的技术支持服务下载中心
+- 华硕 https://www.asus.com.cn/support/Download-Center/
+- 微星 https://www.msicn.com.cn/support/download
+- 技嘉 https://www.gigabyte.cn/Support
+- 联想 https://newsupport.lenovo.com.cn/driveDownloads_index.html
+- 惠普 https://support.hp.com/cn-zh/drivers
+- 戴尔 https://www.dell.com/support/home/zh-cn
 - 驱动精灵 https://www.drivergenius.com/
 - 360驱动大师 https://dm.weishi.360.cn/home.html
 - IT天空-万能驱动 http://www.wandrv.com/
