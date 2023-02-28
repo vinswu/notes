@@ -7,11 +7,11 @@
 
 ##### 系统 下载
 - MSDN,我告诉你 https://msdn.itellyou.cn/ 
-- 远景Windows论坛 https://bbs.pcbeta.com/
+- 远景Windows论坛* https://bbs.pcbeta.com/
 
 ##### PE 下载
 - IT天空优启通 http://www.usbzl.com/
-- 微PE（原：通用PE） https://www.wepe.com.cn/
+- 微PE（原：通用PE）* https://www.wepe.com.cn/
 - 金狐系统维护盘 http://www.jinhu.me/
 > 拓展：[FirPE](https://firpe.cn/)  
 > 拓展：[杏雨梨云启动维护系统](https://www.xyboot.com/)  
@@ -19,7 +19,7 @@
 
 ##### 镜像刻录工具 下载
 - Rufus https://rufus.ie/zh/
-- UltraISO软碟通 https://cn.ezbsystems.com/ultraiso/download.htm  
+- UltraISO软碟通* https://cn.ezbsystems.com/ultraiso/download.htm  
 > UltraISO软碟通 简体中文版 注册信息  
 
 | 注册名  | 注册码 |
@@ -30,20 +30,20 @@
 | 王涛 | 7C81-1689-4046-626F |
 
 ##### 解压缩工具 下载
-- 7-zip https://www.7-zip.org/
+- 7-zip* https://www.7-zip.org/
 - WinRAR https://www.rarlab.com/
 
 ##### 运行库 下载
 - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
 - 微软.NET运行库合集-果壳剥壳 https://www.ghxi.com/nethj.html
 - 微软常用运行库合集-Dreamcast http://dreamcast2.ysepan.com/
-- VisualCppRedist AIO https://github.com/abbodi1406/vcredist
+- VisualCppRedist AIO* https://github.com/abbodi1406/vcredist
 - Microsoft .NET Framework 修复工具 https://support.microsoft.com/zh-cn/topic/microsoft-net-framework-修复工具可用-942a01e3-5b8b-7abb-c166-c34a2f4b612a
 - DirectX修复工具 https://blog.csdn.net/VBcom/article/details/6962388
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
 
 #### 激活工具 下载
-- 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
+- 知彼而知己HEU_KMS_Activator* https://github.com/zbezj/HEU_KMS_Activator
 - ZD423Down_Microsoft_Activation_Tools https://pan.lanzou.com/b0f1t9l0b
 
 #### 驱动 下载
@@ -51,7 +51,7 @@
 - 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
 - 360驱动大师 https://dm.weishi.360.cn/home.html
 - IT天空万能驱动 http://www.wandrv.com/
-- 驱动总裁 https://www.sysceo.com/dc
+- 驱动总裁* https://www.sysceo.com/dc
 
 ## 制作PE启动盘
 
@@ -155,12 +155,12 @@
 - 联想应用商店* https://lestore.lenovo.com/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
 - WPD* https://wpd.app/ *系统优化*
-- Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
+- Geek Uninstaller* https://geekuninstaller.com/ *软件卸载*
 
 #### 下载&网盘工具
 - 迅雷 https://www.xunlei.com/
 > [迅雷极速版_1.0.35.366](http://down.sandai.net/thunderspeed/ThunderSpeed1.0.35.366.exe "点击下载")
-- 百度网盘 https://pan.baidu.com/
+- 百度网盘* https://pan.baidu.com/
 - 阿里云盘
 - Internet Download Manager https://www.internetdownloadmanager.com/
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
