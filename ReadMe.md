@@ -10,7 +10,7 @@
 - 远景Windows论坛 https://bbs.pcbeta.com/
 
 ##### PE 下载
-- IT天空-优启通 http://www.usbzl.com/
+- IT天空优启通 http://www.usbzl.com/
 - 微PE（原：通用PE） https://www.wepe.com.cn/
 - 金狐系统维护盘 http://www.jinhu.me/
 > 拓展：[FirPE](https://firpe.cn/)  
@@ -48,23 +48,15 @@
 
 #### 驱动 下载
 - 对应硬件官网的技术支持服务下载中心
-- 华硕 https://www.asus.com.cn/support/Download-Center/
-- 微星 https://www.msicn.com.cn/support/download
-- 技嘉 https://www.gigabyte.cn/Support
-- 联想 https://newsupport.lenovo.com.cn/driveDownloads_index.html
-- 惠普 https://support.hp.com/cn-zh/drivers
-- 戴尔 https://www.dell.com/support/home/zh-cn
-- 驱动精灵 https://www.drivergenius.com/
+- 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
 - 360驱动大师 https://dm.weishi.360.cn/home.html
-- IT天空-万能驱动 http://www.wandrv.com/
+- IT天空万能驱动 http://www.wandrv.com/
 - 驱动总裁 https://www.sysceo.com/dc
 
 ## 制作PE启动盘
 
 #### PE 下载
-- IT天空-优启通 http://www.usbzl.com/
 - 微PE https://www.wepe.com.cn/
-- FirPE https://firpe.cn/
 > 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
 
 #### PE 制作（提前准备的U盘、PE、镜像刻录工具UltraISO）
@@ -124,15 +116,15 @@
 
 #### 安装驱动（提前准备的驱动）
 - 对应硬件官网的技术支持服务下载中心
+- 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
 - 360驱动大师 https://dm.weishi.360.cn/home.html
-- IT天空-万能驱动 http://www.wandrv.com/
+
 
 ## 我的 Windows Apps
 
 #### 解压缩
 - 7-zip* https://www.7-zip.org/
 - WinRAR https://www.rarlab.com/
-- Bandizip https://www.bandisoft.com/bandizip/
 - 360压缩 https://yasuo.360.cn/
 
 #### 科学上网工具
@@ -144,14 +136,13 @@
 
 #### 浏览器
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
-- Google Chrome（H）* https://www.google.com/chrome/
-- Microsoft Edge https://www.microsoft.com/zh-cn/edge
+- Google Chrome［H］* https://www.google.com/chrome/
+- Microsoft Edge* https://www.microsoft.com/zh-cn/edge
 
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
 - 讯飞输入法* https://srf.xunfei.cn/
-- QQ输入法 http://qq.pinyin.cn/
 
 #### 系统维护辅助工具
 - 360安全卫士 https://weishi.360.cn/ 
@@ -170,14 +161,14 @@
 - 迅雷 https://www.xunlei.com/
 > [迅雷极速版_1.0.35.366](http://down.sandai.net/thunderspeed/ThunderSpeed1.0.35.366.exe "点击下载")
 - 百度网盘 https://pan.baidu.com/
+- 阿里云盘
 - Internet Download Manager https://www.internetdownloadmanager.com/
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
 
 #### 聊天工具
 - QQ/TIM* https://im.qq.com/
 - 微信* https://weixin.qq.com/
-- 腾讯会议 https://meeting.tencent.com/
-- Telegram（H） https://telegram.org/
+- Telegram [H] https://telegram.org/
 
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
@@ -196,14 +187,13 @@
 
 #### 笔记/思维导图
 - OneNote 
-- Notepad++ https://notepad-plus-plus.org/
 - Effie* https://www.effie.co/
 - Xmind https://www.xmind.cn/
 
 #### 看图
 - IrfanView* https://www.irfanview.com/
-- FastStone Image Viewer（H） https://www.faststone.org/FSViewerDetail.htm
-- Honeyview https://www.bandisoft.com/honeyview/
+- FastStone Image Viewer [H] https://www.faststone.org/FSViewerDetail.htm
+- XnView
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview/releases *右键图片预览*
 
@@ -232,5 +222,4 @@
 - 微软桌面壁纸 https://lockscreen.microsoft.com/
 - f.lux https://justgetflux.com/ *护眼*
 - FlipIt* https://github.com/phaselden/FlipIt/releases *时钟屏保*
-- 字由 https://www.hellofont.cn/
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
