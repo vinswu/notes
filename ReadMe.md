@@ -143,6 +143,7 @@
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
 - 讯飞输入法* https://srf.xunfei.cn/
+- 百度输入法 https://shurufa.baidu.com/
 
 #### 系统维护辅助工具
 - 360安全卫士 https://weishi.360.cn/ 
@@ -161,7 +162,7 @@
 - 迅雷 https://www.xunlei.com/
 > [迅雷极速版_1.0.35.366](http://down.sandai.net/thunderspeed/ThunderSpeed1.0.35.366.exe "点击下载")
 - 百度网盘* https://pan.baidu.com/
-- 阿里云盘
+- 阿里云盘 https://www.aliyundrive.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
 
@@ -193,7 +194,7 @@
 #### 看图
 - IrfanView* https://www.irfanview.com/
 - FastStone Image Viewer [H] https://www.faststone.org/FSViewerDetail.htm
-- XnView
+- XnView https://www.xnview.com/en/
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview/releases *右键图片预览*
 
@@ -206,6 +207,11 @@
 - AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
 - Listen 1 音乐播放器 https://listen1.github.io/listen1/
+
+#### 音乐编辑
+- Mp3tag https://www.mp3tag.de/ *音乐标签编辑*
+- Exact Audio Copy https://exactaudiocopy.de/ *音轨抓取*
+- Medieval CUE Splitter http://www.medieval.it/ *音轨切割*
 
 #### 看视频
 - VLC https://www.videolan.org/vlc/
