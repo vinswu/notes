@@ -228,5 +228,6 @@
 - 必应壁纸* https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - 微软桌面壁纸 https://lockscreen.microsoft.com/
 - f.lux https://justgetflux.com/ *护眼*
+- Fliqlo https://fliqlo.com/
 - FlipIt* https://github.com/phaselden/FlipIt/releases *时钟屏保*
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
