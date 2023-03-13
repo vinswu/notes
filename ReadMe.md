@@ -144,6 +144,7 @@
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
+- QQ输入法 http://qq.pinyin.cn/
 - 讯飞输入法* https://srf.xunfei.cn/
 - 百度输入法 https://shurufa.baidu.com/
 
