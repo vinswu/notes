@@ -44,6 +44,7 @@
 
 #### 激活工具 下载
 - 知彼而知己HEU_KMS_Activator* https://github.com/zbezj/HEU_KMS_Activator
+- KMS_VL_ALL_AIO https://github.com/abbodi1406/KMS_VL_ALL_AIO
 - ZD423Down_Microsoft_Activation_Tools https://pan.lanzou.com/b0f1t9l0b
 
 #### 驱动 下载
