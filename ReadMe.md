@@ -140,6 +140,7 @@
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
 - Google Chrome［H］* https://www.google.com/chrome/
 - Microsoft Edge* https://www.microsoft.com/zh-cn/edge
+> MicrosoftEdge侧边栏管理 https://vinswu.lanzoue.com/iKAML0q7mx5e 密码:6d33 
 
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
@@ -188,7 +189,7 @@
 > [vposy_Adobe全家桶](https://weibo.com/vposy)
 - WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html *在Photoshop中使用WebP文件*
 - 万彩办公大师 http://www.wofficebox.com/
-- 办公字体 https://vinswu.lanzoue.com/b0e50lpde 密码:3vrs
+> 办公字体 https://vinswu.lanzoue.com/b0e50lpde 密码:3vrs
 
 #### 笔记/思维导图
 - OneNote 
