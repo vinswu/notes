@@ -146,7 +146,6 @@
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
-- QQ输入法 http://qq.pinyin.cn/
 - 讯飞输入法* https://srf.xunfei.cn/
 - 百度输入法 https://shurufa.baidu.com/
 
@@ -223,7 +222,6 @@
 #### 看视频
 - VLC https://www.videolan.org/vlc/
 - Potplayer* https://potplayer.daum.net/
-- QQ影音 https://player.qq.com/
 
 #### 录视频
 - QQ截图-屏幕录制
