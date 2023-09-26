@@ -115,6 +115,7 @@
 - Microsoft .NET Framework 修复工具 https://support.microsoft.com/zh-cn/topic/microsoft-net-framework-修复工具可用-942a01e3-5b8b-7abb-c166-c34a2f4b612a
 - DirectX修复工具增强版 https://blog.csdn.net/vbcom/article/details/7245186
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
+- Java Development Kit https://www.oracle.com/java/technologies/downloads/
 
 #### 安装驱动（提前准备的驱动）
 - 对应硬件官网的技术支持服务下载中心
@@ -155,9 +156,10 @@
 > [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)
 - 腾讯电脑管家 https://guanjia.qq.com/
 - 火绒安全* https://www.huorong.cn/
-- 微软电脑管家 https://pcmanager.microsoft.com/
+- 火绒应用商店* https://www.huorong.cn/app_store.html
 - 联想电脑管家 https://guanjia.lenovo.com.cn/
 - 联想应用商店* https://lestore.lenovo.com/
+- 微软电脑管家 https://pcmanager.microsoft.com/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
 - WPD* https://wpd.app/ *系统优化*
 - Geek Uninstaller* https://geekuninstaller.com/ *软件卸载*
@@ -186,7 +188,7 @@
 > [Office Tool Plus](https://otp.landian.vip/zh-cn/)
 - OfficePLUS 插件 https://www.officeplus.cn/addin/OPCN/
 - Adobe Acrobat* / Photoshop / Premiere https://www.adobe.com/cn/
-> [vposy_Adobe全家桶](https://weibo.com/vposy)
+> [vposy_Adobe全家桶（暂停更新）](https://weibo.com/vposy)
 - WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html *在Photoshop中使用WebP文件*
 - 万彩办公大师 http://www.wofficebox.com/
 > 办公字体 https://vinswu.lanzoue.com/b0e50lpde 密码:3vrs
