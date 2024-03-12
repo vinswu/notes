@@ -141,7 +141,7 @@
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
 - Google Chrome［H］* https://www.google.com/chrome/
 - Microsoft Edge* https://www.microsoft.com/zh-cn/edge
-> MicrosoftEdge侧边栏管理 https://vinswu.lanzoue.com/iKAML0q7mx5e 密码:6d33 
+> MicrosoftEdge侧边栏管理 https://vinswu.lanzoue.com/iKAML0q7mx5e 密码:1024 
 
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
