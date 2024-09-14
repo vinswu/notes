@@ -72,7 +72,7 @@
 #### U盘启动进PE
 > 拓展：[《如何用U盘启动电脑(系统U盘使用最重要的步骤)》](https://zhuanlan.zhihu.com/p/81344150)
 
-## 三、进PE后开始部署安装系统
+## 三、进WindowsPE，部署安装系统
 
 #### 快速分区：DiskGenius（原PartitionGuru）
 
