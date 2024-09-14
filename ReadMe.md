@@ -145,8 +145,8 @@
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
-- 讯飞输入法* https://srf.xunfei.cn/
 - 百度输入法 https://shurufa.baidu.com/
+- 讯飞输入法* https://srf.xunfei.cn/
 
 #### 系统维护辅助工具
 - 360安全卫士 https://weishi.360.cn/ 
