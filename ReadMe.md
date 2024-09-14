@@ -131,12 +131,9 @@
 - 360压缩 https://yasuo.360.cn/
 
 #### 科学上网工具
-- ShadowsocksR-breakwa11(备份) https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
-- ShadowsocksR-HMBSbige https://github.com/HMBSbige/ShadowsocksR-Windows/releases
-- v2rayN* https://github.com/2dust/v2rayN/releases
-- Clash for Windows https://github.com/Fndroid/clash_for_windows_pkg/releases
-- Clash Verge https://github.com/zzzgydi/clash-verge/releases
-- Clash Verge Rev* https://github.com/clash-verge-rev/clash-verge-rev/releases
+- ShadowsocksR-HMBSbige https://github.com/HMBSbige/ShadowsocksR-Windows
+- v2rayN* https://github.com/2dust/v2rayN
+- Clash Verge Rev* https://github.com/clash-verge-rev/clash-verge-rev
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
@@ -171,6 +168,7 @@
 - 阿里云盘 https://www.aliyundrive.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
+- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 #### 聊天工具
 - QQ/TIM* https://im.qq.com/
@@ -208,7 +206,7 @@
 - FastStone Image Viewer [H] https://www.faststone.org/FSViewerDetail.htm
 - XnView https://www.xnview.com/en/
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
-- FastPreview 插件* https://github.com/nmaier/fastpreview/releases *右键图片预览*
+- FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
 
 #### 截图/gif动图录屏
 - QQ截图*
