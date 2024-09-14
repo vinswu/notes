@@ -101,7 +101,7 @@
 - 引导扇区 [使用bootsect.exe 更新引导代码] [ALL]
 - 关机：[勾选]安装成功后自动重新启动计算机
 
-## 三、进入Windows系统，激活优化系统并安装必要程序
+## 四、进入Windows系统，激活优化系统并安装必要程序
 
 #### 开启Administrator账户
 > 拓展：[《Win10如何启用Administrator账户》](https://blog.csdn.net/r875330957/article/details/79775494)  
