@@ -29,9 +29,11 @@
 | 李明 | 509F-BA54-BBA6-73C5 |
 | 王涛 | 7C81-1689-4046-626F |
 
-##### 解压缩工具 下载
+##### 解压缩&文件校验工具 下载
 - 7-zip* https://www.7-zip.org/
 - WinRAR https://www.rarlab.com/
+- Hash https://keir.net/hash.html
+- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 ##### 运行库 下载
 - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
@@ -126,10 +128,12 @@
 
 ## 我的 Windows Apps
 
-#### 解压缩
+#### 解压缩&文件校验工具
 - 7-zip* https://www.7-zip.org/
 - WinRAR https://www.rarlab.com/
 - 360压缩 https://yasuo.360.cn/
+- Hash https://keir.net/hash.html
+- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 #### 科学上网工具
 - ShadowsocksR-HMBSbige https://github.com/HMBSbige/ShadowsocksR-Windows
@@ -169,7 +173,6 @@
 - 阿里云盘 https://www.aliyundrive.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
-- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 #### 聊天工具
 - QQ/TIM* https://im.qq.com/
