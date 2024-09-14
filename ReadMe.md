@@ -199,7 +199,7 @@
 - 万彩办公大师 http://www.wofficebox.com/
 - NotepadNext https://github.com/dail8859/NotepadNext
 - Qalculate! https://github.com/Qalculate/libqalculate
-> 办公字体 https://vinswu.lanzoue.com/b0e50lpde 密码:1024
+> [办公字体](https://vinswu.lanzoue.com/b0e50lpde 密码:1024)  
 
 #### 笔记/思维导图
 - OneNote 
