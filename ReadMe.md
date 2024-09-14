@@ -1,6 +1,6 @@
 # 【装机笔记】
 
-## 安装前的准备
+## 一、安装前的准备
 
 #### 硬件：U盘、网络、备用电脑  
 #### 软件：系统、PE、镜像刻录工具、解压缩工具、激活工具、运行库、驱动
@@ -58,7 +58,7 @@
 - IT天空万能驱动 http://www.wandrv.com/
 - 驱动总裁* https://www.sysceo.com/dc
 
-## 制作PE启动盘
+## 二、制作PE启动盘
 
 #### PE 下载
 - 微PE https://www.wepe.com.cn/
@@ -72,7 +72,7 @@
 #### U盘启动进PE
 > 拓展：[《如何用U盘启动电脑(系统U盘使用最重要的步骤)》](https://zhuanlan.zhihu.com/p/81344150)
 
-## 进PE后开始安装部署
+## 三、进PE后开始部署安装系统
 
 #### 快速分区：DiskGenius（原PartitionGuru）
 
@@ -101,7 +101,7 @@
 - 引导扇区 [使用bootsect.exe 更新引导代码] [ALL]
 - 关机：[勾选]安装成功后自动重新启动计算机
 
-## 进Windows系统完成安装
+## 三、进入Windows系统，激活优化系统并安装必要程序
 
 #### 开启Administrator账户
 > 拓展：[《Win10如何启用Administrator账户》](https://blog.csdn.net/r875330957/article/details/79775494)  
@@ -113,7 +113,7 @@
 
 #### 安装驱动（工具看“安装前的准备”）
 
-## 我的 Windows Apps
+## 附：我的 Windows Apps
 
 #### 解压缩&文件校验工具
 - 7-zip* https://www.7-zip.org/
