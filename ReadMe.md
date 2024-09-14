@@ -136,9 +136,10 @@
 - HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 #### 科学上网工具
-- ShadowsocksR-HMBSbige https://github.com/HMBSbige/ShadowsocksR-Windows
-- v2rayN* https://github.com/2dust/v2rayN
-- Clash Verge Rev* https://github.com/clash-verge-rev/clash-verge-rev
+- XX-Net https://github.com/XX-net/XX-Net
+- ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
+- v2rayN https://github.com/2dust/v2rayN
+- Clash Verge https://github.com/clash-verge-rev/clash-verge-rev
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
