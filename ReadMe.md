@@ -43,6 +43,7 @@
 - Microsoft .NET Framework 修复工具 https://support.microsoft.com/zh-cn/topic/microsoft-net-framework-修复工具可用-942a01e3-5b8b-7abb-c166-c34a2f4b612a
 - DirectX修复工具 https://blog.csdn.net/VBcom/article/details/6962388
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
+- Java Development Kit https://www.oracle.com/java/technologies/downloads/
 
 #### 激活工具 下载
 - 知彼而知己HEU_KMS_Activator* https://github.com/zbezj/HEU_KMS_Activator
@@ -106,25 +107,11 @@
 > 拓展：[《Win10如何启用Administrator账户》](https://blog.csdn.net/r875330957/article/details/79775494)  
 > 拓展：[《Win10开启Administrator账户》](https://zhuanlan.zhihu.com/p/362058979)
 
-#### 激活系统（提前准备的激活工具）
-- 知彼而知己-HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator/releases
-- ZD423Down-Microsoft_Activation_Tools https://pan.lanzou.com/b0f1t9l0b
+#### 激活系统（工具看“安装前的准备”）
 
-#### 安装运行库（提前准备的微软常用运行库合集）
-- 微软常用运行库合集_果壳剥壳 https://www.ghxi.com/yxkhj.html
-- 微软.NET运行库合集_果壳剥壳 https://www.ghxi.com/nethj.html
-- 微软常用运行库合集_Dreamcast http://dreamcast2.ysepan.com/
-- VisualCppRedist AIO https://github.com/abbodi1406/vcredist/releases
-- Microsoft .NET Framework 修复工具 https://support.microsoft.com/zh-cn/topic/microsoft-net-framework-修复工具可用-942a01e3-5b8b-7abb-c166-c34a2f4b612a
-- DirectX修复工具增强版 https://blog.csdn.net/vbcom/article/details/7245186
-> 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
-- Java Development Kit https://www.oracle.com/java/technologies/downloads/
+#### 安装运行库（工具看“安装前的准备”）
 
-#### 安装驱动（提前准备的驱动）
-- 对应硬件官网的技术支持服务下载中心
-- 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
-- 360驱动大师 https://dm.weishi.360.cn/home.html
-
+#### 安装驱动（工具看“安装前的准备”）
 
 ## 我的 Windows Apps
 
