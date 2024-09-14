@@ -132,16 +132,17 @@
 
 #### 科学上网工具
 - ShadowsocksR-breakwa11(备份) https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
-- ShadowsocksR-HMBSbige* https://github.com/HMBSbige/ShadowsocksR-Windows/releases
-- v2rayN https://github.com/2dust/v2rayN/releases
-- Clash for Windows* https://github.com/Fndroid/clash_for_windows_pkg/releases
+- ShadowsocksR-HMBSbige https://github.com/HMBSbige/ShadowsocksR-Windows/releases
+- v2rayN* https://github.com/2dust/v2rayN/releases
+- Clash for Windows https://github.com/Fndroid/clash_for_windows_pkg/releases
+- Clash Verge https://github.com/zzzgydi/clash-verge/releases
+- Clash Verge Rev* https://github.com/clash-verge-rev/clash-verge-rev/releases
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
 - Google Chrome［H］* https://www.google.com/chrome/
-- Microsoft Edge* https://www.microsoft.com/zh-cn/edge
-> MicrosoftEdge侧边栏管理 https://vinswu.lanzoue.com/iKAML0q7mx5e 密码:1024 
+- Microsoft Edge* https://www.microsoft.com/zh-cn/edge 
 
 #### 输入法
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
@@ -152,12 +153,12 @@
 #### 系统维护辅助工具
 - 360安全卫士 https://weishi.360.cn/ 
 > [360安全卫士极速版](https://down.360safe.com/setupbeta_jisu.exe "点击下载")  
-> [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)
+> [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)  
 - 腾讯电脑管家 https://guanjia.qq.com/
 - 火绒安全* https://www.huorong.cn/
 - 火绒应用商店* https://www.huorong.cn/app_store.html
 - 联想电脑管家 https://guanjia.lenovo.com.cn/
-- 联想应用商店* https://lestore.lenovo.com/
+- 联想应用商店 https://lestore.lenovo.com/
 - 微软电脑管家 https://pcmanager.microsoft.com/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
 - WPD* https://wpd.app/ *系统优化*
@@ -184,13 +185,18 @@
 #### 办公套件
 - WPS https://www.wps.cn/
 - Microsoft Office* / Project / Visio https://www.office.com/
-> [Office Tool Plus](https://otp.landian.vip/zh-cn/)
+> [Office Tool Plus](https://otp.landian.vip/zh-cn/)  
+> [Mocreak](https://github.com/OdysseusYuan/Mocreak)  
+> [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
+- Ohook https://github.com/asdcorp/ohook
 - OfficePLUS 插件 https://www.officeplus.cn/addin/OPCN/
 - Adobe Acrobat* / Photoshop / Premiere https://www.adobe.com/cn/
-> [vposy_Adobe全家桶（暂停更新）](https://weibo.com/vposy)
+> [Adobe全家桶@vposy（暂停更新）](https://weibo.com/vposy)
 - WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html *在Photoshop中使用WebP文件*
 - 万彩办公大师 http://www.wofficebox.com/
-> 办公字体 https://vinswu.lanzoue.com/b0e50lpde 密码:3vrs
+- NotepadNext https://github.com/dail8859/NotepadNext
+- Qalculate! https://github.com/Qalculate/libqalculate
+> 办公字体 https://vinswu.lanzoue.com/b0e50lpde 密码:1024
 
 #### 笔记/思维导图
 - OneNote 
