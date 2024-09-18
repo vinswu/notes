@@ -194,7 +194,8 @@
 - Xmind https://www.xmind.cn/
 
 #### 看图
-- IrfanView* https://www.irfanview.com/
+- ImageGlass* https://github.com/d2phap/ImageGlass
+- IrfanView https://www.irfanview.com/
 - FastStone Image Viewer [H] https://www.faststone.org/FSViewerDetail.htm
 - XnView https://www.xnview.com/en/
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
