@@ -210,7 +210,7 @@
 #### 听音乐
 - AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
-- Listen 1 音乐播放器 https://listen1.github.io/listen1/
+- Listen 1 音乐播放器 https://github.com/listen1/listen1_desktop
 
 #### 音乐编辑
 - Mp3tag https://www.mp3tag.de/ *音乐标签编辑*
