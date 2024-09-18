@@ -118,7 +118,6 @@
 #### 解压缩&文件校验工具
 - 7-zip* https://www.7-zip.org/
 - WinRAR https://www.rarlab.com/
-- 360压缩 https://yasuo.360.cn/
 - Hash https://keir.net/hash.html
 - HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
