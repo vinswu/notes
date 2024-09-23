@@ -125,16 +125,16 @@
 - XX-Net https://github.com/XX-net/XX-Net
 - ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
 - v2rayN https://github.com/2dust/v2rayN
-- Clash Verge https://github.com/clash-verge-rev/clash-verge-rev
+- Clash Verge* https://github.com/clash-verge-rev/clash-verge-rev
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
-- Google Chrome［H］* https://www.google.com/chrome/
+- Google Chrome*[H] https://www.google.com/chrome/
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
 #### 输入法
-- 紫光华宇拼音输入法* https://pinyin.thunisoft.com/
+- 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
 - 百度输入法 https://shurufa.baidu.com/
 - 讯飞输入法* https://srf.xunfei.cn/
@@ -156,7 +156,7 @@
 #### 下载&网盘工具
 - 迅雷 https://www.xunlei.com/
 > [迅雷极速版_1.0.35.366](http://down.sandai.net/thunderspeed/ThunderSpeed1.0.35.366.exe "点击下载")
-- 百度网盘 https://pan.baidu.com/
+- 百度网盘* https://pan.baidu.com/
 - 阿里云盘 https://www.aliyundrive.com/
 - 夸克网盘 https://pan.quark.cn/
 - Internet Download Manager* https://www.internetdownloadmanager.com/
@@ -165,7 +165,7 @@
 #### 聊天工具
 - QQ/TIM* https://im.qq.com/
 - 微信* https://weixin.qq.com/
-- Telegram [H] https://telegram.org/
+- Telegram*[H] https://telegram.org/
 
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
@@ -174,7 +174,7 @@
 
 #### 办公套件
 - WPS* https://www.wps.cn/
-- Microsoft Office* / Project / Visio https://www.office.com/
+- Microsoft Office* / Project* / Visio* https://www.office.com/
 > [Office Tool Plus](https://otp.landian.vip/zh-cn/)  
 > [Mocreak](https://github.com/OdysseusYuan/Mocreak)  
 > [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
@@ -186,6 +186,7 @@
 - 万彩办公大师 http://www.wofficebox.com/
 - NotepadNext* https://github.com/dail8859/NotepadNext
 - Qalculate! https://github.com/Qalculate/libqalculate
+- DeepL https://github.com/DeepLcom/deepl-python
 > [办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 
 #### 笔记/思维导图
@@ -198,7 +199,7 @@
 - IrfanView* https://www.irfanview.com/
 - FastStone Image Viewer [H] https://www.faststone.org/FSViewerDetail.htm
 - XnView https://www.xnview.com/en/
-- XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
+- XnView Shell Extension 插件* https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
 
 #### 截图/gif动图录屏
