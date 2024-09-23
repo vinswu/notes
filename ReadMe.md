@@ -129,9 +129,9 @@
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
-- Mozilla Firefox* https://www.mozilla.org/zh-CN/firefox/browsers/
+- Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
 - Google Chrome［H］* https://www.google.com/chrome/
-- Microsoft Edge* https://www.microsoft.com/zh-cn/edge
+- Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
 #### 输入法
 - 紫光华宇拼音输入法* https://pinyin.thunisoft.com/
