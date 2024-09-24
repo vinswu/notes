@@ -57,8 +57,6 @@ https://duckduckgo.com/app
 
 https://github.com/gorhill/uBlock
 
-> CJXList 规则 https://github.com/cjx82630/cjxlist
-
 ### AdGuard 广告拦截程序
 
 https://adguard.com/zh_cn/welcome.html
