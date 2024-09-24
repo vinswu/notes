@@ -1,4 +1,4 @@
-# 【装机笔记】
+# 【我的装机笔记】
 
 ## 一、安装前的准备
 
@@ -46,8 +46,8 @@
 - Java Development Kit https://www.oracle.com/java/technologies/downloads/
 
 #### 激活工具 下载
-- 知彼而知己HEU_KMS_Activator* https://github.com/zbezj/HEU_KMS_Activator
-- KMS_VL_ALL_AIO https://github.com/abbodi1406/KMS_VL_ALL_AIO
+- 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
+- Microsoft Activation Scripts (MAS)* https://github.com/massgravel/Microsoft-Activation-Scripts
 - [Windows7 永久激活](https://vinswu.lanzouw.com/b0e1vhsuh "密码 1024")
 - [Windows10 永久激活](https://vinswu.lanzouw.com/b0e4zgb0b "密码 1024")
 
@@ -124,8 +124,9 @@
 #### 科学上网工具
 - XX-Net https://github.com/XX-net/XX-Net
 - ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
-- v2rayN https://github.com/2dust/v2rayN
+- v2rayN* https://github.com/2dust/v2rayN
 - Clash Verge* https://github.com/clash-verge-rev/clash-verge-rev
+- FlClash https://github.com/chen08209/FlClash
 > 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 #### 浏览器
@@ -140,14 +141,13 @@
 - 讯飞输入法* https://srf.xunfei.cn/
 
 #### 系统维护辅助工具
+- 360杀毒 https://sd.360.cn/
 - 360安全卫士 https://weishi.360.cn/ 
 > [360安全卫士极速版*](https://down.360safe.com/setupbeta_jisu.exe "点击下载")  
 > [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)  
-- 腾讯电脑管家 https://guanjia.qq.com/
 - 火绒安全* https://www.huorong.cn/
 - 火绒应用商店* https://www.huorong.cn/app_store.html
-- 联想电脑管家 https://guanjia.lenovo.com.cn/
-- 联想应用商店 https://lestore.lenovo.com/
+- 腾讯电脑管家 https://guanjia.qq.com/
 - 微软电脑管家 https://pcmanager.microsoft.com/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
 - WPD* https://wpd.app/ *系统优化*
@@ -163,7 +163,8 @@
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
 
 #### 聊天工具
-- QQ/TIM* https://im.qq.com/
+- QQ https://im.qq.com/
+- TIM* https://office.qq.com/
 - 微信* https://weixin.qq.com/
 - Telegram*[H] https://telegram.org/
 
@@ -181,7 +182,7 @@
 - Ohook https://github.com/asdcorp/ohook
 - OfficePLUS 插件 https://www.officeplus.cn/addin/OPCN/
 - Adobe Acrobat* / Photoshop* / Premiere* https://www.adobe.com/cn/
-> [Adobe全家桶@vposy（暂停更新）](https://weibo.com/vposy)
+> [Adobe全家桶@vposy（2023年8月11日起暂停更新）](https://weibo.com/vposy)
 - WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html *在Photoshop中使用WebP文件*
 - 万彩办公大师 http://www.wofficebox.com/
 - NotepadNext* https://github.com/dail8859/NotepadNext
@@ -189,8 +190,9 @@
 - DeepL https://github.com/DeepLcom/deepl-python
 > [办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 
-#### 笔记/思维导图
-- OneNote 
+#### 笔记清单/思维导图
+- OneNote https://www.onenote.com/
+- 日历清单*（原：桌面日历） https://www.xdiarys.com/
 - Effie* https://www.effie.co/
 - Xmind https://www.xmind.cn/
 
@@ -221,12 +223,11 @@
 - VLC https://github.com/videolan/vlc
 - Potplayer* https://potplayer.daum.net/
 
-#### 录视频
+#### 视频录制
 - QQ截图-屏幕录制
 - OBS https://obsproject.com/zh-cn
 
 #### 个性化
-- 日历清单*（原：桌面日历） https://www.xdiarys.com/
 - 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - 微软桌面壁纸 https://lockscreen.microsoft.com/
 - f.lux https://justgetflux.com/ *护眼*
