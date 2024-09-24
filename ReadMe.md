@@ -185,9 +185,9 @@
 > [Adobe全家桶@vposy（2023年8月11日起暂停更新）](https://weibo.com/vposy)
 - WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html *在Photoshop中使用WebP文件*
 - 万彩办公大师 http://www.wofficebox.com/
-- NotepadNext* https://github.com/dail8859/NotepadNext
-- Qalculate! https://github.com/Qalculate/libqalculate
-- DeepL https://github.com/DeepLcom/deepl-python
+- NotepadNext* https://github.com/dail8859/NotepadNext *记事本*
+- Qalculate! https://github.com/Qalculate/libqalculate *计算器*
+- DeepL https://github.com/DeepLcom/deepl-python *翻译*
 > [办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 
 #### 笔记清单/思维导图
