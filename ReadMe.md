@@ -142,8 +142,7 @@
 
 #### 系统维护辅助工具
 - 360杀毒 https://sd.360.cn/
-- 360安全卫士 https://weishi.360.cn/ 
-> [360安全卫士极速版*](https://down.360safe.com/setupbeta_jisu.exe "点击下载")  
+- 360安全卫士 https://weishi.360.cn/ *建议下载使用极速版*
 > [360安全卫士真的有那么不堪吗？](https://www.zhihu.com/question/333386410)  
 - 火绒安全* https://www.huorong.cn/
 - 火绒应用商店* https://www.huorong.cn/app_store.html
@@ -155,11 +154,11 @@
 
 #### 下载&网盘工具
 - 迅雷 https://www.xunlei.com/
-> [迅雷极速版_1.0.35.366](http://down.sandai.net/thunderspeed/ThunderSpeed1.0.35.366.exe "点击下载")
-- 百度网盘* https://pan.baidu.com/
+- 百度网盘 https://pan.baidu.com/
 - 阿里云盘 https://www.aliyundrive.com/
 - 夸克网盘 https://pan.quark.cn/
-- Internet Download Manager* https://www.internetdownloadmanager.com/
+- 坚果云 https://www.jianguoyun.com/
+- Internet Download Manager https://www.internetdownloadmanager.com/
 > [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
 
 #### 聊天工具
