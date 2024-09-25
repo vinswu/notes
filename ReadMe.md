@@ -127,7 +127,7 @@
 - v2rayN* https://github.com/2dust/v2rayN
 - Clash Verge* https://github.com/clash-verge-rev/clash-verge-rev
 - FlClash https://github.com/chen08209/FlClash
-> 加餐：[《SS/SSR免费账号/节点（长期更新）》](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
+> [《自由上网方法》](https://github.com/Alvin9999/new-pac/wiki)
 
 #### 浏览器
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
