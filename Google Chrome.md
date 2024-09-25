@@ -41,14 +41,6 @@ https://download-chromium.appspot.com/
 
 https://tampermonkey.net/
 
-> 当前页可用脚本检测 https://greasyfork.org/zh-CN/scripts/24508
-> 
-> 懒人专用 https://greasyfork.org/zh-CN/scripts/370634
-> 
-> CSDN 净化脚本 https://greasyfork.org/zh-CN/scripts/378351
->
->百度文库文档免费下载、内容自由复制、广告过滤等 https://greasyfork.org/zh-CN/scripts/398195
-
 ### DuckDuckGo Privacy Essentials
 
 https://duckduckgo.com/app
@@ -64,15 +56,3 @@ https://adguard.com/zh_cn/welcome.html
 ### Bitwarden 密码管理工具
 
 https://bitwarden.com/
-
-### 购物党自动比价工具
-
-https://www.gwdang.com/app/extension/
-
-### FireShot 网页截图工具
-
-https://getfireshot.com/
-
-### ImTranslator 多引擎网络翻译工具
-
-https://imtranslator.net/
