@@ -2,9 +2,11 @@
 
 ## 工具
 
+AdGuard https://adguard.com/zh_cn/welcome.html
+
 uBlock Origin https://github.com/gorhill/uBlock
 
-AdGuard https://adguard.com/zh_cn/welcome.html
+uBlock Origin Lite https://github.com/uBlockOrigin/uBOL-home
   
 Adblock Plus https://adblockplus.org/zh_CN/
   
