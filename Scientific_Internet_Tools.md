@@ -26,6 +26,8 @@ Clash Meta for Android https://github.com/MetaCubeX/ClashMetaForAndroid
 
 FlClash https://github.com/chen08209/FlClash
 
+Karing https://github.com/KaringX/karing
+
 sing-box https://github.com/SagerNet/sing-box
 
 ## IOS 平台
