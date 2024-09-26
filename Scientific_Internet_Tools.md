@@ -24,6 +24,8 @@ Clash Meta for Android https://github.com/MetaCubeX/ClashMetaForAndroid
 
 FlClash https://github.com/chen08209/FlClash
 
+sing-box https://github.com/SagerNet/sing-box
+
 ## IOS 平台
 
 Shadowrocket https://apps.apple.com/us/app/shadowrocket/id932747118
