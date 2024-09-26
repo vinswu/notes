@@ -42,6 +42,8 @@ Shadowrocket https://apps.apple.com/us/app/shadowrocket/id932747118
 
 Quantumult X https://apps.apple.com/us/app/quantumult-x/id1443988620
 
+Stash https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349
+
 Karing https://apps.apple.com/us/app/karing/id6472431552
 
 sing-box https://apps.apple.com/us/app/sing-box-vt/id6673731168
