@@ -34,6 +34,8 @@ sing-box https://apps.apple.com/us/app/sing-box-vt/id6673731168
 
 ## Router 平台
 
+OpenClash https://github.com/vernesong/OpenClash
+
 ShellCrash https://github.com/juewuy/ShellCrash
 
 Merlinclash https://t.me/merlinclashfile
