@@ -30,6 +30,8 @@ Shadowrocket https://apps.apple.com/us/app/shadowrocket/id932747118
 
 Quantumult https://apps.apple.com/us/app/quantumult/id1252015438
 
+sing-box https://apps.apple.com/us/app/sing-box-vt/id6673731168
+
 ## Router 平台
 
 ShellCrash https://github.com/juewuy/ShellCrash
