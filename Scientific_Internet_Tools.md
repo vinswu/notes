@@ -28,9 +28,9 @@ FlClash https://github.com/chen08209/FlClash
 
 Shadowrocket https://apps.apple.com/us/app/shadowrocket/id932747118
 
-Quantumult https://apps.apple.com/us/app/quantumult/id1252015438
-
 sing-box https://apps.apple.com/us/app/sing-box-vt/id6673731168
+
+Karing https://apps.apple.com/us/app/karing/id6472431552
 
 ## Router 平台
 
