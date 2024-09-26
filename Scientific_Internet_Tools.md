@@ -14,6 +14,8 @@ V2rayU https://github.com/yanue/V2rayU
 
 Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
 
+FlClash https://github.com/chen08209/FlClash
+
 ## Android 平台
 
 v2rayNG https://github.com/2dust/v2rayNG
