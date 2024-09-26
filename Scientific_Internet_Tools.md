@@ -22,6 +22,8 @@ sing-box https://github.com/SagerNet/sing-box
 
 ## Android 平台
 
+ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Android
+
 v2rayNG https://github.com/2dust/v2rayNG
 
 Clash Meta for Android https://github.com/MetaCubeX/ClashMetaForAndroid
