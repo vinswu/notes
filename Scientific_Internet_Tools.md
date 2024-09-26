@@ -2,6 +2,8 @@
 
 ## Windows 平台
 
+ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
+
 v2rayN https://github.com/2dust/v2rayN
 
 Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
