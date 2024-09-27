@@ -48,7 +48,7 @@ Karing https://apps.apple.com/us/app/karing/id6472431552
 
 sing-box https://apps.apple.com/us/app/sing-box-vt/id6673731168
 
-## Router 平台
+## 其他
 
 OpenClash https://github.com/vernesong/OpenClash
 
