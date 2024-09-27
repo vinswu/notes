@@ -8,6 +8,8 @@ v2rayN https://github.com/2dust/v2rayN
 
 Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
 
+Mihomo Party https://github.com/mihomo-party-org/mihomo-party
+
 FlClash https://github.com/chen08209/FlClash
 
 ## Mac 平台
@@ -17,6 +19,8 @@ Quantumult X https://apps.apple.com/us/app/quantumult-x/id1443988620
 V2rayU https://github.com/yanue/V2rayU
 
 Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
+
+Mihomo Party https://github.com/mihomo-party-org/mihomo-party
 
 FlClash https://github.com/chen08209/FlClash
 
