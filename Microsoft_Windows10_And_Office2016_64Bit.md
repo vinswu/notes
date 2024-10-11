@@ -1,6 +1,6 @@
 # Microsoft Windows 10
 
-## Windows 10 中国特供版（家庭版）
+## Windows 10 中国特供版 22H2（家庭版）
 #### Win10_22H2_China_GGK_Chinese_Simplified_x64.iso
     ed2k://|file|Win10_22H2_China_GGK_Chinese_Simplified_x64.iso|5687615488|937058F92F1EE4B5B4FCD1450C5AF212|/
 
