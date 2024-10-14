@@ -14,6 +14,8 @@ Mihomo Party https://github.com/mihomo-party-org/mihomo-party
 
 FlClash https://github.com/chen08209/FlClash
 
+NekoBox https://github.com/MatsuriDayo/nekoray
+
 Hiddify https://github.com/hiddify/hiddify-next
 
 ## Mac 平台
