@@ -14,6 +14,10 @@ Mihomo Party https://github.com/mihomo-party-org/mihomo-party
 
 FlClash https://github.com/chen08209/FlClash
 
+GUI.for.SingBox https://github.com/GUI-for-Cores/GUI.for.SingBox
+
+Hiddify https://github.com/hiddify/hiddify-next
+
 ## Mac 平台
 
 Quantumult X https://apps.apple.com/us/app/quantumult-x/id1443988620
@@ -30,6 +34,8 @@ FlClash https://github.com/chen08209/FlClash
 
 sing-box https://github.com/SagerNet/sing-box
 
+Hiddify https://github.com/hiddify/hiddify-next
+
 ## Android 平台
 
 ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Android
@@ -43,6 +49,8 @@ FlClash https://github.com/chen08209/FlClash
 Karing https://github.com/KaringX/karing
 
 sing-box https://github.com/SagerNet/sing-box
+
+Hiddify https://github.com/hiddify/hiddify-next
 
 ## IOS 平台
 
