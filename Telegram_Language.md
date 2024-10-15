@@ -6,6 +6,6 @@
 
 ## Telegram 简体中文
 
-#### 語言包1 https://t.me/setlanguage/zh-hans-raw
+#### 语言包1 https://t.me/setlanguage/zh-hans-raw
 
-#### 語言包2 https://t.me/setlanguage/zh-hans-beta
+#### 语言包2 https://t.me/setlanguage/zh-hans-beta
