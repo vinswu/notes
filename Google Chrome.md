@@ -1,4 +1,4 @@
-# 1 浏览器
+# 1 浏览器下载
 
 ## 1.1 访问主页
 
@@ -35,24 +35,28 @@ www.google.com/intl/zh-CN/chrome/browser/canary.html?hl=zh-CN#eula
 
 https://download-chromium.appspot.com/
 
-# 2 扩展程序
+# 2 扩展程序推荐
 
-### Tampermonkey 脚本管理工具
-
-https://tampermonkey.net/
-
-### DuckDuckGo Privacy Essentials
-
-https://duckduckgo.com/app
-
-### uBlock Origin 广告拦截工具
-
-https://github.com/gorhill/uBlock
-
-### AdGuard 广告拦截程序
+### AdGuard - 广告拦截
 
 https://adguard.com/zh_cn/welcome.html
 
-### Bitwarden 密码管理工具
+### Bitwarden - 密码管理
 
 https://bitwarden.com/
+
+### DuckDuckGo  - 搜索引擎
+
+https://duckduckgo.com/app
+
+### Ruffle - Flash 播放
+
+https://ruffle.rs/
+
+### Tampermonkey - 脚本管理
+
+https://tampermonkey.net/
+
+### uBlock Origin - 广告拦截
+
+https://github.com/gorhill/uBlock
