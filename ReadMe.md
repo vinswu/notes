@@ -162,7 +162,7 @@
 - 夸克网盘 https://pan.quark.cn/
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
-> [重置IDM试用](https://github.com/malaohu/reset-idm-trial)
+- Gopeed https://github.com/GopeedLab/gopeed
 
 #### 聊天工具
 - QQ https://im.qq.com/
