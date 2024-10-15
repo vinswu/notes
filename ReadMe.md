@@ -133,7 +133,7 @@
 
 #### 浏览器
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
-- Tor Browser https://www.torproject.org/zh-CN/download/
+- Tor Browser*[H] https://www.torproject.org/zh-CN/download/
 - Google Chrome*[H] https://www.google.com/chrome/
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
