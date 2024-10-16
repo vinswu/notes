@@ -16,9 +16,9 @@ OrangeFox Recovery https://orangefox.download/zh-CN
 
 ## 刷机ROM
 
-PixelExperience https://get.pixelexperience.org/
-
 LineageOS https://lineageos.org/
+
+PixelExperience https://get.pixelexperience.org/
 
 MIUI欧版第三方 https://xiaomi.eu/community/
 
