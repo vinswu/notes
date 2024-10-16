@@ -46,4 +46,8 @@ Kingroot https://kingrootofficial.com/
 
 ## 其他
 
+XDA https://xdaforums.com/
+
+酷安 https://www.coolapk.com/ 
+
 FiimeROM https://mi.fiime.cn/
