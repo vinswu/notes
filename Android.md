@@ -20,8 +20,6 @@ PixelExperience https://get.pixelexperience.org/
 
 LineageOS https://lineageos.org/
 
-KaleidoscopeOS https://kaleidoscope.ink/index.html
-
 MIUI欧版第三方 https://xiaomi.eu/community/
 
 MIUI原版历史版本 https://miuiver.com/  https://xiaomirom.com/
