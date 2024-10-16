@@ -18,9 +18,9 @@ OrangeFox Recovery https://orangefox.download/zh-CN
 
 PixelExperience https://get.pixelexperience.org/
 
-KaleidoscopeOS https://kaleidoscope.ink/index.html
-
 LineageOS https://lineageos.org/
+
+KaleidoscopeOS https://kaleidoscope.ink/index.html
 
 MIUI欧版第三方 https://xiaomi.eu/community/
 
