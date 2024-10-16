@@ -12,6 +12,8 @@ Android Flash Tool https://flash.android.com/
 
 TWRP https://twrp.me/
 
+OrangeFox Recovery https://orangefox.download/zh-CN
+
 ## 刷机ROM
 
 PixelExperience https://get.pixelexperience.org/
