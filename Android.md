@@ -18,13 +18,13 @@ OrangeFox Recovery https://orangefox.download/zh-CN
 
 PixelExperience https://get.pixelexperience.org/
 
+KaleidoscopeOS https://kaleidoscope.ink/index.html
+
 LineageOS https://lineageos.org/
 
-魔趣MoKee https://www.mokeedev.com/
-
-MIUI历史版本 https://miuiver.com/
-
 MIUI欧版第三方 https://xiaomi.eu/community/
+
+MIUI原版历史版本 https://miuiver.com/  https://xiaomirom.com/
 
 ## 应用市场
 
