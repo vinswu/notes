@@ -42,10 +42,10 @@
 - VisualCppRedist AIO* https://github.com/abbodi1406/vcredist
 - Microsoft .NET Framework 修复工具 https://support.microsoft.com/zh-cn/topic/microsoft-net-framework-修复工具可用-942a01e3-5b8b-7abb-c166-c34a2f4b612a
 - DirectX修复工具 https://blog.csdn.net/VBcom/article/details/6962388
-> 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
 - Adobe Flash Player https://www.flash.cn/
 - Clean Flash Player https://github.com/darktohka/clean-flash-builds
 - Java Development Kit* https://www.oracle.com/java/technologies/downloads/
+> 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
 
 #### 激活工具 下载
 - 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
