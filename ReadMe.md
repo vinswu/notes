@@ -196,6 +196,7 @@
 - Qalculate! https://github.com/Qalculate/libqalculate *替代计算器*
 - DeepL https://github.com/DeepLcom/deepl-python *翻译*
 - Stickies https://www.zhornsoftware.co.uk/stickies/ *桌面便签提醒*
+> [Classic Apps](https://win7games.com/)
 
 #### 笔记清单/思维导图
 - OneNote https://www.onenote.com/
