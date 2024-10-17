@@ -157,19 +157,19 @@
 - Geek Uninstaller* https://geekuninstaller.com/ *软件卸载*
 
 #### 下载&网盘工具
+- Gopeed https://github.com/GopeedLab/gopeed
 - 迅雷 https://www.xunlei.com/
 - 百度网盘 https://pan.baidu.com/
 - 阿里云盘 https://www.aliyundrive.com/
 - 夸克网盘 https://pan.quark.cn/
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
-- Gopeed https://github.com/GopeedLab/gopeed
 
 #### 聊天工具
+- Telegram*[H] https://telegram.org/
 - QQ https://im.qq.com/
 - TIM* https://office.qq.com/
 - 微信* https://weixin.qq.com/
-- Telegram*[H] https://telegram.org/
 
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
@@ -184,7 +184,7 @@
 > [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
 - Ohook https://github.com/asdcorp/ohook
 - OfficePLUS 插件 https://www.officeplus.cn/addin/OPCN/
-- Adobe Acrobat* / Photoshop* / Premiere* https://www.adobe.com/cn/
+- Adobe Acrobat* https://www.adobe.com/
 > [Adobe全家桶@vposy（2023年8月11日起暂停更新）](https://weibo.com/vposy)
 - WebPShop 插件 https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html *在Photoshop中使用WebP文件*
 - 万彩办公大师 http://www.wofficebox.com/
@@ -212,23 +212,30 @@
 - Snipaste* https://github.com/Snipaste/feedback
 - ScreenToGif https://github.com/NickeManarin/ScreenToGif
 
+#### 修图
+- Adobe Photoshop* https://www.adobe.com/
+
 #### 听音乐
+- VLC https://github.com/videolan/vlc
 - AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
-- Listen 1 音乐播放器 https://github.com/listen1/listen1_desktop
 
 #### 音乐编辑
 - Mp3tag https://www.mp3tag.de/ *音乐标签编辑*
 - Exact Audio Copy https://exactaudiocopy.de/ *音轨抓取*
 - Medieval CUE Splitter http://www.medieval.it/ *音轨切割*
+- Sound Organizer https://www.sonystyle.com.cn/minisite/cross/app/sound_organizer.htm
 
 #### 看视频
 - VLC https://github.com/videolan/vlc
 - Potplayer* https://potplayer.daum.net/
+- Emby https://emby.media/
 
-#### 视频录制
+#### 视频制作
 - QQ截图-屏幕录制
 - OBS https://obsproject.com/zh-cn
+- Adobe Premiere* https://www.adobe.com/
+- 格式工厂 http://www.pcgeshi.com/index.html
 
 #### 个性化
 - 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
