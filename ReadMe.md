@@ -180,7 +180,7 @@
 - Microsoft Office* / Project* / Visio* https://www.office.com/
 > 安装 [Office Tool Plus](https://otp.landian.vip/zh-cn/) | [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
 > 激活 [Ohook](https://github.com/asdcorp/ohook)  
-> 插件 [OfficePLUS](https://www.officeplus.cn/addin/OPCN/)
+> 插件 [OfficePLUS](https://www.officeplus.cn/addin/OPCN/)  
 > [常用办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 - Adobe Acrobat* https://www.adobe.com/
 > 破解 [Adobe全家桶@vposy](https://weibo.com/vposy "2023年8月11日起暂停更新")  
