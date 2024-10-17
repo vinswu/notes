@@ -176,7 +176,7 @@
 - 钉钉 https://www.dingtalk.com/
 - 飞书 https://www.feishu.cn/
 
-#### 办公套件（基础版）
+#### 办公基础套件
 - Microsoft Office* / Project* / Visio* https://www.office.com/
 > 安装 [Office Tool Plus](https://otp.landian.vip/zh-cn/) | [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
 > 激活 [Ohook](https://github.com/asdcorp/ohook)  
@@ -189,11 +189,12 @@
 - FreeOffice https://www.freeoffice.com/
 - FreePDF https://www.getfreepdf.com/
 
-#### 办公工具（增强版）
+#### 办公增强工具
 - 万彩办公大师 http://www.wofficebox.com/
 - NotepadNext* https://github.com/dail8859/NotepadNext *替代记事本*
 - Qalculate! https://github.com/Qalculate/libqalculate *替代计算器*
-- DeepL https://github.com/DeepLcom/deepl-python *用于翻译*
+- DeepL https://github.com/DeepLcom/deepl-python *翻译*
+- Stickies https://www.zhornsoftware.co.uk/stickies/ *桌面便签提醒*
 > [常用办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 
 #### 笔记清单/思维导图
