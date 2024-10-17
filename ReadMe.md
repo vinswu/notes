@@ -181,6 +181,7 @@
 > 安装 [Office Tool Plus](https://otp.landian.vip/zh-cn/) | [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
 > 激活 [Ohook](https://github.com/asdcorp/ohook)  
 > 插件 [OfficePLUS](https://www.officeplus.cn/addin/OPCN/)
+> [常用办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 - Adobe Acrobat* https://www.adobe.com/
 > 破解 [Adobe全家桶@vposy](https://weibo.com/vposy "2023年8月11日起暂停更新")  
 > 插件 [WebPShop](https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html "在Photoshop中使用WebP文件")
@@ -195,7 +196,6 @@
 - Qalculate! https://github.com/Qalculate/libqalculate *替代计算器*
 - DeepL https://github.com/DeepLcom/deepl-python *翻译*
 - Stickies https://www.zhornsoftware.co.uk/stickies/ *桌面便签提醒*
-> [常用办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 
 #### 笔记清单/思维导图
 - OneNote https://www.onenote.com/
