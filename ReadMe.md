@@ -207,7 +207,6 @@
 #### 看图
 - ImageGlass https://github.com/d2phap/ImageGlass
 - IrfanView* https://www.irfanview.com/
-- FastStone Image Viewer [H] https://www.faststone.org/FSViewerDetail.htm
 - XnView https://www.xnview.com/en/
 - XnView Shell Extension 插件* https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
