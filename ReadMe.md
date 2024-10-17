@@ -214,6 +214,7 @@
 
 #### 修图
 - Adobe Photoshop* https://www.adobe.com/
+- GIMP https://www.gimp.org/
 
 #### 听音乐
 - VLC https://github.com/videolan/vlc
@@ -231,10 +232,13 @@
 - Potplayer* https://potplayer.daum.net/
 - Emby https://emby.media/
 
-#### 视频制作
+#### 视频录制
 - QQ截图-屏幕录制
 - OBS https://obsproject.com/zh-cn
-- Adobe Premiere* https://www.adobe.com/
+
+#### 视频编辑
+- Adobe Premiere Pro* https://www.adobe.com/
+- Kdenlive https://kdenlive.org/zh/
 - 格式工厂 http://www.pcgeshi.com/index.html
 
 #### 个性化
