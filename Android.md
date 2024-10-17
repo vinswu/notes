@@ -30,10 +30,6 @@ F-Droid https://f-droid.org/zh_Hans/
 
 APKPure https://apkpure.com/cn/
 
-Aptoide https://cn.aptoide.com/
-
-APKCombo https://apkcombo.com/zh/
-
 豌豆荚 https://www.wandoujia.com/
 
 酷安 https://www.coolapk.com/
