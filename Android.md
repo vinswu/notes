@@ -38,13 +38,13 @@ APKPure https://apkpure.com/cn/
 
 ## 后台管理
 
-黑阈 https://brevent.jianyv.com/
-
-App Ops https://appops.rikka.app/zh-hans/
-
 绿色守护 (Greenify) https://github.com/greenify/greenify.github.io
 
 冰箱 Ice Box https://iceboxdoc.catchingnow.com/
+
+黑阈 https://brevent.jianyv.com/
+
+App Ops https://appops.rikka.app/zh-hans/
 
 Island https://github.com/oasisfeng/island
 
