@@ -36,12 +36,6 @@ APKPure https://apkpure.com/cn/
 
 酷安 https://www.coolapk.com/
 
-## Root
-
-Magisk https://github.com/topjohnwu/Magisk
-
-Kingroot https://kingrootofficial.com/
-
 ## 后台管理
 
 黑阈 https://brevent.jianyv.com/
@@ -53,6 +47,12 @@ App Ops https://appops.rikka.app/zh-hans/
 冰箱 Ice Box https://iceboxdoc.catchingnow.com/
 
 Island https://github.com/oasisfeng/island
+
+## Root
+
+Magisk https://github.com/topjohnwu/Magisk
+
+Kingroot https://kingrootofficial.com/
 
 ## 其他
 
