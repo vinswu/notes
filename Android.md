@@ -50,7 +50,7 @@ App Ops https://appops.rikka.app/zh-hans/
 
 绿色守护 (Greenify) https://github.com/greenify/greenify.github.io
 
-冰箱 https://iceboxdoc.catchingnow.com/
+冰箱 Ice Box https://iceboxdoc.catchingnow.com/
 
 ## 其他
 
