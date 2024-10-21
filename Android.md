@@ -50,6 +50,8 @@ Island https://github.com/oasisfeng/island
 
 ## Root
 
+KernelSU https://github.com/tiann/KernelSU
+
 Magisk https://github.com/topjohnwu/Magisk
 
 Kingroot https://kingrootofficial.com/
