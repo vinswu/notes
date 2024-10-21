@@ -48,6 +48,8 @@ Kingroot https://kingrootofficial.com/
 
 App Ops https://appops.rikka.app/zh-hans/
 
+冰箱 https://iceboxdoc.catchingnow.com/
+
 ## 其他
 
 XDA https://xdaforums.com/
