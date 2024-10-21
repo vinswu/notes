@@ -2,11 +2,11 @@
 
 ## 基础
 
-ADB https://adbdownload.com/
-
-GApps https://opengapps.org/
+ADB https://developer.android.google.cn/tools/releases/platform-tools
 
 Android Flash Tool https://flash.android.com/
+
+GApps https://opengapps.org/
 
 ## 刷机Recovery
 
