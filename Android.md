@@ -56,6 +56,16 @@ Magisk https://github.com/topjohnwu/Magisk
 
 Kingroot https://kingrootofficial.com/
 
+## 工具
+
+搞机助手 https://lsdy.top/gjzs
+
+搞机工具箱 https://www.jamcz.com/gjgjx/
+
+秋之盒 https://atmb.top/
+
+
+
 ## 其他
 
 XDA https://xdaforums.com/
