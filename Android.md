@@ -46,6 +46,8 @@ Kingroot https://kingrootofficial.com/
 
 黑阈 https://brevent.jianyv.com/
 
+App Ops https://appops.rikka.app/zh-hans/
+
 ## 其他
 
 XDA https://xdaforums.com/
