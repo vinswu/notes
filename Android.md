@@ -42,6 +42,10 @@ Magisk https://github.com/topjohnwu/Magisk
 
 Kingroot https://kingrootofficial.com/
 
+## 后台管理
+
+黑阈 https://brevent.jianyv.com/
+
 ## 其他
 
 XDA https://xdaforums.com/
