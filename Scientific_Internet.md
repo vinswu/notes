@@ -69,3 +69,15 @@ OpenClash https://github.com/vernesong/OpenClash
 ShellCrash https://github.com/juewuy/ShellCrash
 
 Merlinclash https://t.me/merlinclashfile
+
+# 免费节点/机场
+
+## 节点
+
+自由上网方法 https://github.com/Alvin9999/new-pac/wiki
+
+## 机场
+
+GetfreeCloud https://portal.getfree.cloud/ *每天签到续命，长期可用。 邀请码：VXGO（选填）*
+
+Free Cloud https://bento.me/freecloud *通过每月白嫖优惠码0元购买，长期可用。 邀请码：yh5hSIwm（选填）*
