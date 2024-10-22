@@ -14,6 +14,8 @@ TWRP https://twrp.me/
 
 OrangeFox Recovery https://orangefox.download/zh-CN
 
+PitchBlack Recovery https://pitchblackrecovery.com/
+
 ## 刷机ROM
 
 LineageOS https://lineageos.org/
