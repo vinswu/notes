@@ -80,8 +80,6 @@ Alvin9999-自由上网方法 https://github.com/Alvin9999/new-pac/wiki
 
 Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
 
-chengaopan-AutoMergePublicNodes https://github.com/chengaopan/AutoMergePublicNodes
-
 ## 机场
 
 GetfreeCloud https://portal.getfree.cloud/ *通过每天签到，领取免费流量并延长到期时间。 邀请码：VXGO*
