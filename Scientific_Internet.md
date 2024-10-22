@@ -2,6 +2,8 @@
 
 ## Windows 平台
 
+Shadowsocks https://github.com/shadowsocks/shadowsocks-windows
+
 ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
 
 v2rayN https://github.com/2dust/v2rayN
