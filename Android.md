@@ -6,7 +6,9 @@ ADB https://developer.android.google.cn/tools/releases/platform-tools
 
 Android Flash Tool https://flash.android.com/
 
-GApps https://opengapps.org/
+Open GApps https://opengapps.org/
+
+MindTheGapps https://github.com/MindTheGapps
 
 ## 刷机Recovery
 
