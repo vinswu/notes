@@ -80,10 +80,6 @@ Alvin9999-自由上网方法 https://github.com/Alvin9999/new-pac/wiki
 
 Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
 
-aiboboxx-v2rayfree https://github.com/aiboboxx/v2rayfree
-
-aiboboxx-clashfree https://github.com/aiboboxx/clashfree
-
 chengaopan-AutoMergePublicNodes https://github.com/chengaopan/AutoMergePublicNodes
 
 ## 机场
