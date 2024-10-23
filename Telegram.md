@@ -10,8 +10,8 @@
 
 ## Telegram Channel
 
-#### Telegram 中文社群 https://t.me/tgcnx
+#### Telegram 中文频道 https://t.me/tgcnz
 
 ## Telegram Group
 
-#### Telegram 中文频道 https://t.me/tgcnx
+#### Telegram 中文社群 https://t.me/tgcnx
