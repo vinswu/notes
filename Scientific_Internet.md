@@ -38,6 +38,8 @@ Hiddify https://github.com/hiddify/hiddify-next
 
 ## Android 平台
 
+Shadowsocks https://github.com/shadowsocks/shadowsocks-android
+
 ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Android
 
 v2rayNG https://github.com/2dust/v2rayNG
