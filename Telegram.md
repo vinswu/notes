@@ -4,9 +4,9 @@
 
 ## Telegram Language
 
-#### 繁體中文語言包1 https://t.me/setlanguage/zh-hant-raw
+#### 简体中文语言包 https://t.me/setlanguage/zh-hans-raw
 
-#### 简体中文语言包1 https://t.me/setlanguage/zh-hans-raw
+#### 繁體中文語言包 https://t.me/setlanguage/zh-hant-raw
 
 ## Telegram Channel
 
