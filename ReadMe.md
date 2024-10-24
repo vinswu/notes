@@ -123,6 +123,7 @@
 
 #### 科学上网工具
 - XX-Net https://github.com/XX-net/XX-Net
+- Shadowsocks https://github.com/shadowsocks/shadowsocks-windows
 - ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
 - v2rayN* https://github.com/2dust/v2rayN
 - Clash for Windows https://github.com/Z-Siqi/Clash-for-Windows_Chinese
