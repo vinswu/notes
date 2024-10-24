@@ -157,6 +157,8 @@
 
 #### 下载&网盘工具
 - Gopeed https://github.com/GopeedLab/gopeed
+- eMule(电骡) http://emule-project.net
+- BitComet(比特彗星) https://www.bitcomet.com/cn
 - 迅雷 https://www.xunlei.com/
 - 百度网盘 https://pan.baidu.com/
 - 阿里云盘 https://www.aliyundrive.com/
