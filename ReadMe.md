@@ -152,7 +152,8 @@
 - 微软电脑管家 https://pcmanager.microsoft.com/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
 - WPD* https://wpd.app/ *系统优化*
-- Geek Uninstaller* https://geekuninstaller.com/ *软件卸载*
+- CCleaner https://www.ccleaner.com/zh-cn *垃圾清理*
+- Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
 
 #### 下载&网盘工具
 - Gopeed https://github.com/GopeedLab/gopeed
