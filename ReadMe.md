@@ -121,7 +121,7 @@
 - Hash https://keir.net/hash.html
 - HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
-#### 科学上网工具
+#### [科学上网工具](https://github.com/vinswu/notes/blob/master/Scientific_Internet.md)
 - XX-Net https://github.com/XX-net/XX-Net
 - Shadowsocks https://github.com/shadowsocks/shadowsocks-windows
 - ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
@@ -129,7 +129,6 @@
 - Clash for Windows https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 - Clash Verge* https://github.com/clash-verge-rev/clash-verge-rev
 - FlClash https://github.com/chen08209/FlClash
-> [《自由上网方法》](https://github.com/Alvin9999/new-pac/wiki)
 
 #### 浏览器
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
