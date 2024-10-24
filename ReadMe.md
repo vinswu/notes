@@ -247,7 +247,7 @@
 #### 个性化
 - 必应壁纸 https://www.microsoft.com/zh-cn/bing/bing-wallpaper
 - 微软桌面壁纸 https://lockscreen.microsoft.com/
-- Fliqlo https://fliqlo.com/
+- Fliqlo https://fliqlo.com/ *时钟屏保*
 - FlipIt* https://github.com/phaselden/FlipIt/releases *时钟屏保*
 - f.lux https://justgetflux.com/ *护眼*
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
