@@ -125,6 +125,7 @@
 - XX-Net https://github.com/XX-net/XX-Net
 - ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
 - v2rayN* https://github.com/2dust/v2rayN
+- Clash for Windows https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 - Clash Verge* https://github.com/clash-verge-rev/clash-verge-rev
 - FlClash https://github.com/chen08209/FlClash
 > [《自由上网方法》](https://github.com/Alvin9999/new-pac/wiki)
