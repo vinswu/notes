@@ -56,9 +56,17 @@ Hiddify https://github.com/hiddify/hiddify-next
 
 Shadowrocket https://apps.apple.com/us/app/shadowrocket/id932747118
 
-Quantumult X https://apps.apple.com/us/app/quantumult-x/id1443988620
+Loon https://apps.apple.com/us/app/loon/id1373567447
 
 Stash https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349
+
+Quantumult X https://apps.apple.com/us/app/quantumult-x/id1443988620
+
+Surge https://apps.apple.com/us/app/surge-5/id1442620678
+
+Potatso https://apps.apple.com/us/app/potatso/id1239860606
+
+V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 
 OneClick https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197
 
