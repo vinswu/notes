@@ -2,8 +2,6 @@
 
 ntp.ntsc.ac.cn
 
-asia.pool.ntp.org
-
 ## 中国 NTP 服务器
 
 cn.ntp.org.cn
