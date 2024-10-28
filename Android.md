@@ -94,6 +94,6 @@ FiimeROM https://mi.fiime.cn/
 
 ADB 调试手机的三种方式（USB、WLAN、WIFI） https://blog.csdn.net/jlh21/article/details/115445850
 
-Android 使用ADB命令安装、卸载软件 https://blog.csdn.net/haiger_xxx/article/details/52806348
-
 Android 调试桥 (adb) https://developer.android.com/tools/adb?hl=zh-cn
+
+Android 使用ADB命令安装、卸载软件 https://blog.csdn.net/haiger_xxx/article/details/52806348
