@@ -28,6 +28,14 @@ MIUI欧版第三方 https://xiaomi.eu/community/
 
 MIUI原版历史版本 https://miuiver.com/  https://xiaomirom.com/
 
+## Root
+
+KernelSU https://github.com/tiann/KernelSU
+
+Magisk https://github.com/topjohnwu/Magisk
+
+Kingroot https://kingrootofficial.com/
+
 ## 应用市场
 
 F-Droid https://f-droid.org/zh_Hans/
@@ -40,7 +48,7 @@ APKPure https://apkpure.com/cn/
 
 应用宝 https://sj.qq.com/
 
-## 后台管理
+## 好用的APK
 
 绿色守护 (Greenify) https://github.com/greenify/greenify.github.io
 
@@ -50,15 +58,7 @@ APKPure https://apkpure.com/cn/
 
 App Ops https://appops.rikka.app/zh-hans/
 
-Island https://github.com/oasisfeng/island
-
-## Root
-
-KernelSU https://github.com/tiann/KernelSU
-
-Magisk https://github.com/topjohnwu/Magisk
-
-Kingroot https://kingrootofficial.com/
+炼妖壶（Island） https://github.com/oasisfeng/island
 
 ## 工具
 
