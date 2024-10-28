@@ -22,9 +22,11 @@ LineageOS https://lineageos.org/
 
 PixelExperience https://get.pixelexperience.org/
 
+PixelOS https://pixelos.net/
+
 PixelExtended https://pixelextended.com/
 
-PixelOS https://pixelos.net/
+PixelPlusUI https://ppui.site/home
 
 魔趣 https://www.mokeedev.com/
 
