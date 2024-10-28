@@ -45,7 +45,8 @@
 - Adobe Flash Player https://www.flash.cn/
 - Clean Flash Player https://github.com/darktohka/clean-flash-builds
 - Java Development Kit* https://www.oracle.com/java/technologies/downloads/
-> 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)
+> 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)  
+> 拓展：[《windows 10 配置Java 环境变量》](https://www.jianshu.com/p/9fc41ea941aa)
 
 #### 激活工具 下载
 - 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
