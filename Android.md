@@ -60,6 +60,8 @@ App Ops https://appops.rikka.app/zh-hans/
 
 炼妖壶（Island） https://github.com/oasisfeng/island
 
+Shizuku https://github.com/RikkaApps/Shizuku
+
 ## 工具
 
 搞机助手 https://lsdy.top/gjzs
