@@ -88,4 +88,6 @@ FiimeROM https://mi.fiime.cn/
 
 原生安卓|MIUI欧版-解决WiFi网络受限以及修改NTP服务器 https://doge.uk/coding/android-miui-eu-wifi-captive-portal.html
 
+ADB 调试手机的三种方式（USB、WLAN、WIFI） https://blog.csdn.net/jlh21/article/details/115445850
+
 Android 使用ADB命令安装、卸载软件 https://blog.csdn.net/haiger_xxx/article/details/52806348
