@@ -22,12 +22,6 @@ LineageOS https://lineageos.org/
 
 PixelExperience https://get.pixelexperience.org/
 
-PixelOS https://pixelos.net/
-
-PixelExtended https://pixelextended.com/
-
-PixelPlusUI https://ppui.site/home
-
 魔趣 https://www.mokeedev.com/
 
 MIUI欧版第三方 https://xiaomi.eu/community/
