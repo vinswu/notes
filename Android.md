@@ -50,7 +50,7 @@ APKPure https://apkpure.com/cn/
 
 ## 好用的APK
 
-绿色守护 (Greenify) https://github.com/greenify/greenify.github.io
+绿色守护 (Greenify) https://play.google.com/store/apps/details?id=com.oasisfeng.greenify
 
 冰箱 Ice Box https://iceboxdoc.catchingnow.com/
 
@@ -58,9 +58,13 @@ APKPure https://apkpure.com/cn/
 
 App Ops https://appops.rikka.app/zh-hans/
 
-炼妖壶（Island） https://github.com/oasisfeng/island
+炼妖壶（Island） https://play.google.com/store/apps/details?id=com.oasisfeng.island
 
 Shizuku https://github.com/RikkaApps/Shizuku
+
+清浊 https://www.dircleaner.com/
+
+GKD https://gkd.li/
 
 ## 工具
 
