@@ -75,3 +75,13 @@ XDA https://xdaforums.com/
 酷安 https://www.coolapk.com/ 
 
 FiimeROM https://mi.fiime.cn/
+
+## 参考
+
+【TWRP】使用adb sideload线刷ROM的方法 https://blog.csdn.net/sinat_27672523/article/details/103509916
+
+刷机笔记(一): 小米平板4刷机Pixel Experience(Plus)(目前最完整的教程) https://post.smzdm.com/p/a96dvpo0/
+
+原生安卓|MIUI欧版-解决WiFi网络受限以及修改NTP服务器 https://doge.uk/coding/android-miui-eu-wifi-captive-portal.html
+
+安卓手机刷机（小米系统）保姆级教程 https://blog.csdn.net/HDhaisenbao/article/details/139835403
