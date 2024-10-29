@@ -64,6 +64,8 @@ Shizuku https://github.com/RikkaApps/Shizuku
 
 清浊 https://www.dircleaner.com/
 
+李跳跳 https://github.com/rongzhiy/LiTiaotiao
+
 GKD https://gkd.li/
 
 ## 工具
