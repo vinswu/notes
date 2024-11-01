@@ -78,6 +78,12 @@ GKD https://gkd.li/
 
 秋之盒 https://atmb.top/
 
+Apktool https://github.com/iBotPeaches/Apktool
+
+APK-Info https://github.com/Enyby/APK-Info
+
+APK Messenger https://www.ghxi.com/apkinfo.html
+
 ## 其他
 
 XDA https://xdaforums.com/
