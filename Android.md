@@ -52,6 +52,8 @@ APKPure https://apkpure.com/cn/
 
 v2rayNG https://github.com/2dust/v2rayNG
 
+Clash Meta for Android https://github.com/MetaCubeX/ClashMetaForAndroid
+
 绿色守护 (Greenify) https://play.google.com/store/apps/details?id=com.oasisfeng.greenify
 
 冰箱 Ice Box https://iceboxdoc.catchingnow.com/
