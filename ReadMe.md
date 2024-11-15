@@ -202,8 +202,9 @@
 > [Classic Apps](https://win7games.com/)
 
 #### 笔记清单/思维导图
-- OneNote https://www.onenote.com/
 - 日历清单*（原：桌面日历） https://www.xdiarys.com/
+- OneNote https://www.onenote.com/
+- Notion https://www.notion.so/zh-cn
 - Effie* https://www.effie.co/
 - Xmind https://www.xmind.cn/
 
