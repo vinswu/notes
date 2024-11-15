@@ -4,6 +4,8 @@
 
 ADB https://developer.android.google.cn/tools/releases/platform-tools
 
+OEM USB drivers https://developer.android.google.cn/studio/run/oem-usb
+
 Android Flash Tool https://flash.android.com/
 
 Open GApps https://opengapps.org/
