@@ -1,17 +1,15 @@
 ## 影视
 
-- 猫影视
+- 猫影视  https://github.com/catvod/CatVodOpen
 
-- ZY Player
+- ZY Player  https://github.com/Hunlongyu/ZY-Player
 
 ## 音乐
 
-- 洛雪音乐助手
+- 洛雪音乐助手  https://github.com/lyswhut/lx-music-desktop
 
-- MusicFree
+- MusicFree  https://github.com/maotoumao/MusicFreeDesktop
 
-- SPlayer
+- listen1  https://github.com/listen1/listen1_desktop
 
-- listen1
-
-## 图书
+- SPlayer  https://github.com/imsyy/SPlayer
