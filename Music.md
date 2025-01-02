@@ -2,7 +2,7 @@
 
 - MusicFree  https://github.com/maotoumao/MusicFreeDesktop
 
-  MusicFreePluginsHub  https://github.com/xxnuo/MusicFreePluginsHub
+  - MusicFreePluginsHub  https://github.com/xxnuo/MusicFreePluginsHub
 
 - 洛雪音乐助手  https://github.com/lyswhut/lx-music-desktop
 
