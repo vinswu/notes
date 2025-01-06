@@ -15,3 +15,7 @@
 - 猫影视  https://github.com/catvod/CatVodOpen
 
 - ZY Player  https://github.com/Hunlongyu/ZY-Player
+
+## 图书
+
+- 开源阅读 https://github.com/gedoor/legado
