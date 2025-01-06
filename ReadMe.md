@@ -122,7 +122,7 @@
 - Hash https://keir.net/hash.html
 - HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
-#### [科学上网工具](https://github.com/vinswu/notes/blob/master/Scientific_Internet.md)
+#### [科学上网工具](https://github.com/vinswu/notes/blob/master/Agent.md)
 - XX-Net https://github.com/XX-net/XX-Net
 - Shadowsocks https://github.com/shadowsocks/shadowsocks-windows
 - ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
