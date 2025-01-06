@@ -1,6 +1,6 @@
-## 音乐
+# For Windwos
 
-#### windwos
+## 音乐
 
 - MusicFree  https://github.com/maotoumao/MusicFreeDesktop
 
@@ -12,13 +12,23 @@
 
 - listen1  https://github.com/listen1/listen1_desktop
 
-#### android
-
 ## 影视
 
 - 猫影视  https://github.com/catvod/CatVodOpen
 
 - ZY Player  https://github.com/Hunlongyu/ZY-Player
+
+# For Android
+
+## 音乐
+
+- MusicFree https://github.com/maotoumao/MusicFree
+
+- Listen1 https://github.com/listen1/listen1_mobile
+
+## 影视
+
+- 影视 https://github.com/FongMi/Release
 
 ## 图书
 
