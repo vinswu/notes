@@ -10,7 +10,7 @@
 
 - SPlayer  https://github.com/imsyy/SPlayer
 
-- listen1  https://github.com/listen1/listen1_desktop
+- Listen1  https://github.com/listen1/listen1_desktop
 
 ## 影视
 
