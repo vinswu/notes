@@ -16,6 +16,8 @@
 
 - 猫影视  https://github.com/catvod/CatVodOpen
 
+- 猫爪 https://github.com/CatPawApp/CatPawOpen
+
 - ZY Player  https://github.com/Hunlongyu/ZY-Player
 
 # For Android
