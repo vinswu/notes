@@ -129,7 +129,6 @@
 - v2rayN* https://github.com/2dust/v2rayN
 - Clash for Windows https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 - Clash Verge https://github.com/clash-verge-rev/clash-verge-rev
-- Mihomo Party https://github.com/mihomo-party-org/mihomo-party
 
 #### 浏览器
 - Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
