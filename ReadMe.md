@@ -182,6 +182,7 @@
 > 安装 [Office Tool Plus](https://otp.landian.vip/zh-cn/) | [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
 > 激活 [Ohook](https://github.com/asdcorp/ohook)  
 > 插件 [OfficePLUS](https://www.officeplus.cn/addin/OPCN/)  
+> 插件 [OfficeAI](https://www.office-ai.cn/)  
 > [常用办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 - Adobe Acrobat* https://www.adobe.com/
 > 更新 [Acrobat Enterprise Release Notes](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)  
