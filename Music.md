@@ -8,6 +8,8 @@
 
 - 洛雪音乐助手  https://github.com/lyswhut/lx-music-desktop
 
+  - 洛雪音乐音源 https://github.com/Huibq/keep-alive
+
 - SPlayer  https://github.com/imsyy/SPlayer
 
 - Listen1  https://github.com/listen1/listen1_desktop
