@@ -52,6 +52,8 @@ Karing https://github.com/KaringX/karing
 
 Hiddify https://github.com/hiddify/hiddify-next
 
+sing-box https://github.com/SagerNet/sing-box
+
 ## IOS 平台
 
 Shadowrocket https://apps.apple.com/us/app/shadowrocket/id932747118
