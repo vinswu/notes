@@ -206,7 +206,7 @@
 - OneNote https://www.onenote.com/
 - Notion https://www.notion.so/zh-cn
 - Effie* https://www.effie.co/
-- Xmind https://www.xmind.cn/
+- Xmind* https://www.xmind.cn/
 
 #### 看图
 - ImageGlass https://github.com/d2phap/ImageGlass
