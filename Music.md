@@ -2,7 +2,7 @@
 
 ## 音乐
 
-- 洛雪音乐助手  https://github.com/lyswhut/lx-music-desktop
+- LX Music  https://github.com/lyswhut/lx-music-desktop
 
     - 微信公众号：洛雪音乐
     - 洛雪音乐音源 https://github.com/Huibq/keep-alive
@@ -26,6 +26,8 @@
 # For Android
 
 ## 音乐
+
+- LX Music  https://github.com/lyswhut/lx-music-mobile
 
 - MusicFree https://github.com/maotoumao/MusicFree
 
