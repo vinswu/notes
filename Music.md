@@ -2,13 +2,14 @@
 
 ## 音乐
 
+- 洛雪音乐助手  https://github.com/lyswhut/lx-music-desktop
+
+    - 微信公众号：洛雪音乐
+    - 洛雪音乐音源 https://github.com/Huibq/keep-alive
+
 - MusicFree  https://github.com/maotoumao/MusicFreeDesktop
 
   - MusicFreePluginsHub  https://github.com/xxnuo/MusicFreePluginsHub
-
-- 洛雪音乐助手  https://github.com/lyswhut/lx-music-desktop
-
-  - 洛雪音乐音源 https://github.com/Huibq/keep-alive
 
 - SPlayer  https://github.com/imsyy/SPlayer
 
