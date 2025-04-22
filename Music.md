@@ -4,7 +4,8 @@
 
 - LX Music  https://github.com/lyswhut/lx-music-desktop
 
-    - 微信公众号：洛雪音乐
+    - 洛雪音乐[微信公众号] https://www.lxmusic.cc/ 
+    - 六音 https://www.sixyin.com/original
     - Huibq https://github.com/Huibq/keep-alive
     - guoyue2010 https://github.com/guoyue2010/lxmusic-
 
