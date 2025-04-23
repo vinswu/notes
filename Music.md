@@ -7,6 +7,7 @@
     - pdone https://github.com/pdone/lx-music-source
     - 洛雪音乐[微信公众号] https://www.lxmusic.cc/ 
     - 六音 https://www.sixyin.com/original
+    - ikun https://github.com/ikunshare/ikun-music-source
     - Huibq https://github.com/Huibq/keep-alive
     - guoyue2010 https://github.com/guoyue2010/lxmusic-
 
