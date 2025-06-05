@@ -6,7 +6,8 @@
 #### 软件：系统、PE、镜像刻录工具、解压缩工具、激活工具、运行库、驱动
 
 ##### 系统 下载
-- MSDN,我告诉你 https://msdn.itellyou.cn/ 
+- MSDN,我告诉你 https://msdn.itellyou.cn/
+- HelloWindows https://hellowindows.cn/
 - 远景Windows论坛* https://bbs.pcbeta.com/
 
 ##### PE 下载
@@ -114,7 +115,7 @@
 
 #### 安装驱动（工具看“安装前的准备”）
 
-## 附：Windows装机软件精选
+## 五、Windows装机软件精选
 
 #### 解压缩&文件校验工具
 - 7-zip* https://www.7-zip.org/
@@ -256,3 +257,11 @@
 - FlipIt* https://github.com/phaselden/FlipIt/releases *时钟屏保*
 - f.lux https://justgetflux.com/ *护眼*
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
+
+## 外链
+| [不忘初心系统博客](https://www.pc528.net/)
+| [宋永志博客](http://www.songyongzhi.com/)
+| [小众软件](https://www.appinn.com/)
+| [异次元软件世界](https://www.iplaysoft.com/)
+| [sysin](https://sysin.org/)
+| [zd423](https://www.423down.com/)
