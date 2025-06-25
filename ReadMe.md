@@ -11,7 +11,7 @@
 - 远景Windows论坛* https://bbs.pcbeta.com/
 
 ##### PE 下载
-- IT天空优启通 http://www.usbzl.com/
+- IT天空优启通 https://www.itsk.com/
 - 微PE（原：通用PE）* https://www.wepe.com.cn/
 - 金狐系统维护盘 http://www.jinhu.me/
 > 拓展：[FirPE](https://firpe.cn/)  
@@ -57,7 +57,7 @@
 - 对应硬件官网的技术支持服务下载中心
 - 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
 - 360驱动大师 https://dm.weishi.360.cn/home.html
-- IT天空万能驱动 http://www.wandrv.com/
+- IT天空万能驱动 https://www.itsk.com/
 - 驱动总裁* https://www.sysceo.com/dc
 
 ## 二、制作PE启动盘
