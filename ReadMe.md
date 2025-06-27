@@ -76,7 +76,7 @@
 
 ## 三、进WindowsPE，部署安装系统
 
-#### 快速分区：DiskGenius（原PartitionGuru）
+#### 快速分区：[DiskGenius](https://www.diskgenius.com/)（原PartitionGuru）
 
 ###### 分区表类型选择
 - Windows7 及以下，MBR格式，Legacy启动模式
@@ -88,7 +88,7 @@
 - [勾选] 对齐分区到此扇区数的整数倍：[固态硬盘选4096扇区/机械硬盘2048扇区]
 > 拓展：[《分区4K对齐那些事，你想知道的都在这里》](https://diskgenius.cn/exp/about-4k-alignment.php)
 
-#### 系统安装：WinNTSetup
+#### 系统安装：[WinNTSetup](https://msfn.org/board/topic/149612-winntsetup)
 
 ###### 选择包含Windows安装文件的文件夹
 - 选 X:\sources\install.wim
