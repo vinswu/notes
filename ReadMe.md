@@ -249,6 +249,7 @@
 - Adobe Premiere Pro* https://www.adobe.com/
 - Kdenlive https://kdenlive.org/
 - Shotcut https://www.shotcut.org/
+- 剪映 https://www.capcut.cn/
 - 格式工厂 http://www.pcgeshi.com/index.html
 
 #### 个性化
