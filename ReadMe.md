@@ -248,6 +248,7 @@
 #### 视频编辑
 - Adobe Premiere Pro* https://www.adobe.com/
 - Kdenlive https://kdenlive.org/
+- Shotcut https://www.shotcut.org/
 - 格式工厂 http://www.pcgeshi.com/index.html
 
 #### 个性化
