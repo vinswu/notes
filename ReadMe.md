@@ -217,8 +217,9 @@
 
 #### 截图/gif动图录屏
 - QQ截图*
-- Snipaste* https://github.com/Snipaste/feedback
-- ScreenToGif https://github.com/NickeManarin/ScreenToGif
+- ShareX https://getsharex.com/
+- Snipaste* https://www.snipaste.com/
+- ScreenToGif https://www.screentogif.com/
 
 #### 修图
 - Adobe Photoshop* https://www.adobe.com/
