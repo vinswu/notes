@@ -210,10 +210,9 @@
 - Xmind* https://www.xmind.cn/
 
 #### 看图
-- ImageGlass https://github.com/d2phap/ImageGlass
 - IrfanView* https://www.irfanview.com/
 - XnView https://www.xnview.com/en/
-- XnView Shell Extension 插件* https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
+- XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
 
 #### 截图/gif动图录屏
@@ -226,7 +225,7 @@
 - GIMP https://www.gimp.org/
 
 #### 听音乐
-- VLC https://github.com/videolan/vlc
+- VLC https://www.videolan.org/vlc/
 - AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
 
@@ -237,7 +236,7 @@
 - Sound Organizer https://www.sonystyle.com.cn/minisite/cross/app/sound_organizer.htm
 
 #### 看视频
-- VLC https://github.com/videolan/vlc
+- VLC https://www.videolan.org/vlc/
 - Potplayer* https://potplayer.daum.net/
 - Emby https://emby.media/
 
