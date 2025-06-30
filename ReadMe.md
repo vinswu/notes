@@ -210,8 +210,8 @@
 - Xmind* https://www.xmind.cn/
 
 #### 看图
+- ImageGlass https://imageglass.org/
 - IrfanView* https://www.irfanview.com/
-- XnView https://www.xnview.com/en/
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
 
