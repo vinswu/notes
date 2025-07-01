@@ -169,6 +169,7 @@
 
 #### 聊天工具
 - Telegram*[H] https://telegram.org/
+> 简体中文语言包 https://t.me/setlanguage/zh-hans-raw
 - QQ https://im.qq.com/
 - TIM* https://office.qq.com/
 - 微信* https://weixin.qq.com/
