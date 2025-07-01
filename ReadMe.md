@@ -218,9 +218,11 @@
 
 #### 截图/gif动图录屏
 - QQ截图*
+- ScreenCapture https://github.com/xland/ScreenCapture
 - ShareX https://getsharex.com/
 - Snipaste* https://www.snipaste.com/
 - ScreenToGif https://www.screentogif.com/
+- FastStone Capture https://www.faststone.org/
 
 #### 修图
 - Adobe Photoshop* https://www.adobe.com/
