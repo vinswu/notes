@@ -188,7 +188,7 @@
 > [常用办公字体](https://vinswu.lanzoue.com/b0e50lpde "密码:1024")  
 - Adobe Acrobat* https://www.adobe.com/
 > 更新 [Acrobat Enterprise Release Notes](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)  
-> 破解 [@vposy](https://weibo.com/vposy "2023年8月11日起暂停更新") | [@m0nkrus](https://www.monkrus.ws/)  
+> 破解 [@vposy](https://weibo.com/vposy "2023年8月11日起暂停更新") | [@m0nkrus](http://www.monkrus.ws)  
 > 插件 [WebPShop](https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html "在Photoshop中使用WebP文件")  
 - WPS Office* https://www.wps.cn/
 - WPS PDF https://www.wpspdf.cn/
