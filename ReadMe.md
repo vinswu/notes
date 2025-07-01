@@ -106,10 +106,10 @@
 ## 四、进入Windows系统，激活优化系统并安装必要程序
 
 #### 开启Administrator账户
-> 拓展：[《Win10如何启用Administrator账户》](https://blog.csdn.net/r875330957/article/details/79775494)  
 > 拓展：[《Win10怎么开启Administrator超级管理员账户》](https://answers.microsoft.com/zh-hans/windows/forum/all/win10%E6%80%8E%E4%B9%88%E5%BC%80%E5%90%AFadministr/b7576403-c6dc-4fe1-b55a-3803f8fae320)
 
 #### 激活系统（工具看“安装前的准备”）
+> 拓展：[《如何激活Windows10》](https://answers.microsoft.com/zh-hans/windows/forum/all/%e5%a6%82%e4%bd%95%e6%bf%80%e6%b4%bbwindows10/ccd2dae7-76f6-49ea-89bc-0b02d2244514)
 
 #### 安装运行库（工具看“安装前的准备”）
 
