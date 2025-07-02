@@ -194,6 +194,7 @@
 - WPS PDF https://www.wpspdf.cn/
 - FreeOffice https://www.freeoffice.com/
 - FreePDF https://www.getfreepdf.com/
+- 数科OFD https://www.ofd.cn/
 
 #### 办公增强工具
 - 万彩办公大师 http://www.wofficebox.com/
@@ -262,6 +263,12 @@
 - FlipIt* https://github.com/phaselden/FlipIt/releases *时钟屏保*
 - f.lux https://justgetflux.com/ *护眼*
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
+
+#### 小工具
+- ContextMenuManager 右键菜单管理 https://github.com/BluePointLilac/ContextMenuManager
+- MyComputerManager 此电脑内快捷方式管理 https://github.com/1357310795/MyComputerManager
+- PdfInvoiceMerge PDF发票合并 https://github.com/hetaoos/PdfInvoiceMerge
+- 增值税电子发票阅读器 https://inv-veri.chinatax.gov.cn/xgxz.html
 
 ## 外链
 | [不忘初心系统博客](https://www.pc528.net/)
