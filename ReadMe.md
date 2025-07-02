@@ -249,7 +249,7 @@
 - QQ截图-屏幕录制
 - Captura https://github.com/MathewSachin/Captura
 - OBS https://obsproject.com/zh-cn
-- oCam https://ohsoft.net/
+- oCam* https://ohsoft.net/
 
 #### 视频编辑
 - Adobe Premiere Pro* https://www.adobe.com/
