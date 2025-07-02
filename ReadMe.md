@@ -269,6 +269,7 @@
 - MyComputerManager 此电脑内快捷方式管理 https://github.com/1357310795/MyComputerManager
 - PdfInvoiceMerge PDF发票合并 https://github.com/hetaoos/PdfInvoiceMerge
 - 增值税电子发票阅读器 https://inv-veri.chinatax.gov.cn/xgxz.html
+- 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
 
 ## 外链
 | [不忘初心系统博客](https://www.pc528.net/)
