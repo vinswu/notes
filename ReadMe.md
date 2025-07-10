@@ -151,10 +151,12 @@
 - 火绒应用商店* https://www.huorong.cn/app_store.html
 - 腾讯电脑管家 https://guanjia.qq.com/
 - 微软电脑管家 https://pcmanager.microsoft.com/
+- 图吧工具箱 https://www.tbtool.cn/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
 - WPD* https://wpd.app/ *系统优化*
 - CCleaner https://www.ccleaner.com/zh-cn *垃圾清理*
 - Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
+
 
 #### 下载&网盘工具
 - Gopeed https://github.com/GopeedLab/gopeed
@@ -210,6 +212,11 @@
 - Notion https://www.notion.so/zh-cn
 - Effie* https://www.effie.co/
 - Xmind* https://www.xmind.cn/
+
+#### 电子书阅读器
+- calibre https://calibre-ebook.com
+- Koodo Reader* https://www.koodoreader.com/
+- Sumatra PDF https://www.sumatrapdfreader.org/free-pdf-reader
 
 #### 看图
 - ImageGlass https://imageglass.org/
