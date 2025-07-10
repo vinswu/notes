@@ -138,7 +138,7 @@
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
 #### 输入法
-- 小狼毫输入法 https://github.com/rime/weasel
+- 小狼毫输入法 https://rime.im/
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
 - 搜狗输入法 https://shurufa.sogou.com/
 - 百度输入法 https://shurufa.baidu.com/
