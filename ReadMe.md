@@ -229,6 +229,7 @@
 - ScreenCapture https://github.com/xland/ScreenCapture
 - ShareX https://getsharex.com/
 - Snipaste* https://www.snipaste.com/
+- 小旺AI截图 https://www.xiaowang.com/
 - ScreenToGif https://www.screentogif.com/
 - FastStone Capture https://www.faststone.org/
 
