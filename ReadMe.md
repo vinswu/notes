@@ -278,6 +278,7 @@
 #### 小工具
 - ContextMenuManager https://github.com/BluePointLilac/ContextMenuManager *右键菜单管理*
 - MyComputerManager https://github.com/1357310795/MyComputerManager *此电脑内快捷方式管理*
+- DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
 - PdfInvoiceMerge https://github.com/hetaoos/PdfInvoiceMerge *PDF发票合并*
 - 增值税电子发票阅读器 https://inv-veri.chinatax.gov.cn/xgxz.html
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
