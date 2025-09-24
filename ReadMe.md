@@ -36,6 +36,10 @@
 - Hash https://keir.net/hash.html
 - HashCheck Shell Extension 插件* https://code.kliu.org/hashcheck/
 
+#### 激活工具 下载
+- 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
+- Microsoft Activation Scripts (MAS)* https://github.com/massgravel/Microsoft-Activation-Scripts
+
 ##### 运行库 下载
 - VC++
   - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
@@ -53,10 +57,6 @@
   - Java Development Kit* https://www.oracle.com/java/technologies/downloads/
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)  
 > 拓展：[《windows 10 配置Java 环境变量》](https://www.jianshu.com/p/9fc41ea941aa)
-
-#### 激活工具 下载
-- 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
-- Microsoft Activation Scripts (MAS)* https://github.com/massgravel/Microsoft-Activation-Scripts
 
 #### 驱动 下载
 - 对应硬件官网的技术支持服务下载中心
