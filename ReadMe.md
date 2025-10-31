@@ -145,6 +145,7 @@
 #### 输入法
 - 小狼毫输入法 https://rime.im/
 - 紫光华宇拼音输入法 https://pinyin.thunisoft.com/
+- 极点五笔输入法 http://www.freewb.org/
 - 搜狗输入法 https://shurufa.sogou.com/
 - 百度输入法 https://shurufa.baidu.com/
 - 讯飞输入法* https://srf.xunfei.cn/
