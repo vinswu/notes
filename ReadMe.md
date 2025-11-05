@@ -295,6 +295,7 @@
 | [宋永志博客](http://www.songyongzhi.com/)
 | [小众软件](https://www.appinn.com/)
 | [下1个好软件](https://xiaoyi.vc/win-app)
+| [软仓](https://www.ruancang.net/)
 | [异次元软件世界](https://www.iplaysoft.com/)
 | [sysin](https://sysin.org/)
 | [zd423](https://www.423down.com/)
