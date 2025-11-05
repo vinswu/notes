@@ -290,6 +290,7 @@
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
 
 ## 外链
+| [开源大世界](https://kydsj.vip/doku.php?id=wiki:网站目录)
 | [不忘初心系统博客](https://www.pc528.net/)
 | [宋永志博客](http://www.songyongzhi.com/)
 | [小众软件](https://www.appinn.com/)
