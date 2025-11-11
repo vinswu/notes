@@ -64,6 +64,7 @@
 - 360驱动大师 https://dm.weishi.360.cn/home.html
 - IT天空万能驱动 https://www.itsk.com/
 - 驱动总裁* https://www.sysceo.com/dc
+- Snappy Driver Installer https://sdi-tool.org/download/
 
 ## 二、制作PE启动盘
 
