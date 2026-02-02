@@ -245,6 +245,8 @@
 #### 修图
 - Adobe Photoshop* https://www.adobe.com/
 - GIMP https://www.gimp.org/
+- Canva https://www.canva.com/zh_cn/
+- 美图秀秀 https://pc.meitu.com/
 
 #### 听音乐
 - VLC https://www.videolan.org/vlc/
