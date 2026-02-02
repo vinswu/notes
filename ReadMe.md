@@ -228,6 +228,8 @@
 #### 看图
 - ImageGlass https://imageglass.org/
 - IrfanView* https://www.irfanview.com/
+- FastStone Image Viewer  https://www.faststone.org/
+- Honeyview https://cn.bandisoft.com/honeyview/
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
 
