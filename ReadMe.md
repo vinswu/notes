@@ -160,6 +160,7 @@
 - 微软电脑管家 https://pcmanager.microsoft.com/
 - 图吧工具箱 https://www.tbtool.cn/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
+- ZyperWin++ https://github.com/ZyperWave/ZyperWinOptimize *系统优化*
 - WPD* https://wpd.app/ *系统优化*
 - CCleaner https://www.ccleaner.com/zh-cn *垃圾清理*
 - Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
