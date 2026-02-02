@@ -259,7 +259,7 @@
 
 #### 看视频
 - VLC https://www.videolan.org/vlc/
-- Potplayer* https://potplayer.daum.net/
+- Potplayer* https://potplayer.tv/
 - Emby https://emby.media/
 
 #### 视频录制
