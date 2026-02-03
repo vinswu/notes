@@ -68,7 +68,7 @@
 
 ## 二、制作PE启动盘
 
-#### PE 下载
+#### [PE 下载](https://github.com/vinswu/notes?tab=readme-ov-file#pe-下载)
 - 微PE https://www.wepe.com.cn/
 > 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
 
