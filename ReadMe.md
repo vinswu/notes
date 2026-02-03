@@ -227,10 +227,10 @@
 - Sumatra PDF https://www.sumatrapdfreader.org/free-pdf-reader
 
 #### 看图
+- Honeyview* https://cn.bandisoft.com/honeyview/
+- ImageGlass https://imageglass.org/
 - IrfanView* https://www.irfanview.com/
 - FastStone Image Viewer  https://www.faststone.org/
-- ImageGlass https://imageglass.org/
-- Honeyview* https://cn.bandisoft.com/honeyview/  <停更>
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
 
@@ -250,9 +250,9 @@
 - 美图秀秀 https://pc.meitu.com/
 
 #### 听音乐
-- VLC https://www.videolan.org/vlc/
 - AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
+- VLC https://www.videolan.org/vlc/
 
 #### 音乐编辑
 - Mp3tag https://www.mp3tag.de/ *音乐标签编辑*
@@ -261,9 +261,9 @@
 - Sound Organizer https://www.sonystyle.com.cn/minisite/cross/app/sound_organizer.htm
 
 #### 看视频
-- VLC https://www.videolan.org/vlc/
+- QQ影音* https://player.qq.com/
 - Potplayer* https://potplayer.tv/
-- QQ影音 https://player.qq.com/  <停更>
+- VLC https://www.videolan.org/vlc/
 - Emby https://emby.media/
 
 #### 视频录制
