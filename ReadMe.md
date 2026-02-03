@@ -147,7 +147,7 @@
 - 极点五笔输入法 http://www.freewb.org/
 - 搜狗输入法 https://shurufa.sogou.com/
 - 百度输入法 https://shurufa.baidu.com/
-- 讯飞输入法 https://srf.xunfei.cn/
+- 讯飞输入法* https://srf.xunfei.cn/
 
 #### 系统维护辅助工具
 - 360杀毒 https://sd.360.cn/
@@ -162,9 +162,9 @@
 - WPD* https://wpd.app/ *系统优化*
 - CCleaner https://www.ccleaner.com/zh-cn *垃圾清理*
 - Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
-- ContextMenuManager https://github.com/BluePointLilac/ContextMenuManager *右键菜单管理*
+- ContextMenuManager* https://github.com/BluePointLilac/ContextMenuManager *右键菜单管理*
 - MyComputerManager https://github.com/1357310795/MyComputerManager *此电脑内快捷方式管理*
-- DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
+- DriveIconManager* https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
 
 #### 下载&网盘工具
 - Gopeed https://github.com/GopeedLab/gopeed
