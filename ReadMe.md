@@ -14,9 +14,8 @@
 - IT天空优启通 https://www.itsk.com/
 - 微PE（原：通用PE）* https://www.wepe.com.cn/
 - 金狐系统维护盘 http://www.jinhu.me/
-> 拓展：[FirPE](https://firpe.cn/)  
-> 拓展：[杏雨梨云启动维护系统](https://www.xyboot.com/)  
-> 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
+- 杏雨梨云启动维护系统 https://www.xyboot.com/
+- FirPE https://firpe.cn/
 
 ##### 镜像刻录工具 下载
 - Rufus https://rufus.ie/zh/
@@ -69,7 +68,6 @@
 ## 二、制作PE启动盘
 
 #### [PE 下载](https://github.com/vinswu/notes?tab=readme-ov-file#pe-下载)
-- 微PE https://www.wepe.com.cn/
 > 拓展：[无忧启动论坛](http://bbs.wuyou.net/forum.php)  
 
 #### PE 制作（提前准备的U盘、PE、镜像刻录工具UltraISO）
@@ -83,6 +81,7 @@
 ## 三、进WindowsPE，部署安装系统
 
 #### 快速分区：[DiskGenius](https://www.diskgenius.com/)（原PartitionGuru）
+> 拓展：[《DiskGenius软件帮助》](https://www.diskgenius.cn/help/)
 
 ###### 分区表类型选择
 - Windows7 及以下，MBR格式，Legacy启动模式
@@ -114,12 +113,11 @@
 #### 开启Administrator账户
 > 拓展：[《Win10怎么开启Administrator超级管理员账户》](https://answers.microsoft.com/zh-hans/windows/forum/all/win10%E6%80%8E%E4%B9%88%E5%BC%80%E5%90%AFadministr/b7576403-c6dc-4fe1-b55a-3803f8fae320)
 
-#### 激活系统（工具看“安装前的准备”）
-> 拓展：[《如何激活Windows10》](https://answers.microsoft.com/zh-hans/windows/forum/all/%e5%a6%82%e4%bd%95%e6%bf%80%e6%b4%bbwindows10/ccd2dae7-76f6-49ea-89bc-0b02d2244514)
+#### [激活](https://github.com/vinswu/notes?tab=readme-ov-file#激活工具-下载)系统
 
-#### 安装运行库（工具看“安装前的准备”）
+#### 安装[运行库](https://github.com/vinswu/notes?tab=readme-ov-file#运行库-下载)
 
-#### 安装驱动（工具看“安装前的准备”）
+#### 安装[驱动](https://github.com/vinswu/notes?tab=readme-ov-file#驱动-下载)
 
 ## 五、Windows装机软件精选
 
