@@ -162,7 +162,9 @@
 - WPD* https://wpd.app/ *系统优化*
 - CCleaner https://www.ccleaner.com/zh-cn *垃圾清理*
 - Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
-
+- ContextMenuManager https://github.com/BluePointLilac/ContextMenuManager *右键菜单管理*
+- MyComputerManager https://github.com/1357310795/MyComputerManager *此电脑内快捷方式管理*
+- DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
 
 #### 下载&网盘工具
 - Gopeed https://github.com/GopeedLab/gopeed
@@ -228,7 +230,7 @@
 - IrfanView* https://www.irfanview.com/
 - FastStone Image Viewer  https://www.faststone.org/
 - ImageGlass https://imageglass.org/
-- Honeyview* https://cn.bandisoft.com/honeyview/
+- Honeyview* https://cn.bandisoft.com/honeyview/  <停更>
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
 
@@ -261,6 +263,7 @@
 #### 看视频
 - VLC https://www.videolan.org/vlc/
 - Potplayer* https://potplayer.tv/
+- QQ影音 https://player.qq.com/  <停更>
 - Emby https://emby.media/
 
 #### 视频录制
@@ -286,9 +289,6 @@
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
 
 #### 小工具
-- ContextMenuManager https://github.com/BluePointLilac/ContextMenuManager *右键菜单管理*
-- MyComputerManager https://github.com/1357310795/MyComputerManager *此电脑内快捷方式管理*
-- DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
 - PdfInvoiceMerge https://github.com/hetaoos/PdfInvoiceMerge *PDF发票合并*
 - 增值税电子发票阅读器 https://inv-veri.chinatax.gov.cn/xgxz.html
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
