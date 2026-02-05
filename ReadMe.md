@@ -265,6 +265,7 @@
 - QQ影音* https://player.qq.com/
 - Potplayer* https://potplayer.tv/
 - Emby https://emby.media/
+> Potplayer插件 [LAVFilters](https://github.com/Nevcairiel/LAVFilters)
 
 #### 视频录制
 - QQ截图-屏幕录制
