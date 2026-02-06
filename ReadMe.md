@@ -143,15 +143,16 @@
 
 #### 输入法
 - 小狼毫输入法 https://rime.im/
-- 紫光华宇拼音输入法* https://pinyin.thunisoft.com/
-- 极点五笔输入法 http://www.freewb.org/
-- 搜狗输入法 https://shurufa.sogou.com/
+- 华宇拼音输入法* https://pinyin.thunisoft.com/
+- 极点五笔输入法* http://www.freewb.org/
+- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告*
 - 百度输入法 https://shurufa.baidu.com/
-- 讯飞输入法* https://srf.xunfei.cn/
+- 讯飞输入法 https://srf.xunfei.cn/
+- 豆包输入法 https://shurufa.doubao.com/pc
 
 #### 系统维护辅助工具
-- 360杀毒 https://sd.360.cn/
-- 360安全卫士 https://weishi.360.cn/ *建议下载使用极速版*
+- 360杀毒 https://sd.360.cn/  *用户基数大；软件有广告*
+- 360安全卫士 https://weishi.360.cn/ *建议下载使用“360安全卫视极速版”*
 - 火绒安全* https://www.huorong.cn/
 - 火绒应用商店* https://www.huorong.cn/app_store.html
 - 腾讯电脑管家 https://guanjia.qq.com/
@@ -170,7 +171,7 @@
 - Gopeed https://github.com/GopeedLab/gopeed
 - eMule(电骡) http://emule-project.net
 - BitComet(比特彗星) https://www.bitcomet.com/cn
-- 迅雷 https://www.xunlei.com/
+- 迅雷 https://www.xunlei.com/  *用户基数大；软件有广告*
 - 百度网盘 https://pan.baidu.com/
 - 阿里云盘 https://www.aliyundrive.com/
 - 夸克网盘 https://pan.quark.cn/
