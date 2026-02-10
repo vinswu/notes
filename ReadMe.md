@@ -238,8 +238,7 @@
 #### 截图/gif动图录屏
 - QQ截图*
 - Snipaste https://www.snipaste.com/
-- PixPin* https://pixpin.cn/
-- ShareX https://getsharex.com/
+- PixPin https://pixpin.cn/
 - 小旺AI截图 https://www.xiaowang.com/
 - ScreenToGif https://www.screentogif.com/
 - FastStone Capture https://www.faststone.org/
