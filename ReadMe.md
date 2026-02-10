@@ -147,7 +147,7 @@
 - 极点五笔输入法* http://www.freewb.org/
 - 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告*
 - 百度输入法 https://shurufa.baidu.com/
-- 讯飞输入法 https://srf.xunfei.cn/
+- 讯飞输入法* https://srf.xunfei.cn/
 - 豆包输入法 https://shurufa.doubao.com/pc
 
 #### 系统维护辅助工具
