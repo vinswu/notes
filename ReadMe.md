@@ -33,7 +33,7 @@
 - 7-zip* https://www.7-zip.org/
 - WinRAR https://www.rarlab.com/
 - Hash https://keir.net/hash.html
-- HashCheck Shell Extension 插件* https://code.kliu.org/hashcheck/
+- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 #### 激活工具 下载
 - 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
@@ -143,8 +143,8 @@
 
 #### 输入法
 - 小狼毫输入法 https://rime.im/
-- 华宇拼音输入法* https://pinyin.thunisoft.com/
-- 极点五笔输入法* http://www.freewb.org/
+- 华宇拼音输入法 https://pinyin.thunisoft.com/
+- 极点五笔输入法 http://www.freewb.org/
 - 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告*
 - 百度输入法 https://shurufa.baidu.com/
 - 讯飞输入法* https://srf.xunfei.cn/
@@ -179,11 +179,11 @@
 - Internet Download Manager https://www.internetdownloadmanager.com/
 
 #### 聊天工具
-- Telegram*[H] https://telegram.org/
+- Telegram[H] https://telegram.org/
 > 简体中文语言包 https://t.me/setlanguage/zh-hans-raw
 - QQ https://im.qq.com/
-- TIM* https://office.qq.com/
-- 微信* https://weixin.qq.com/
+- TIM https://office.qq.com/
+- 微信 https://weixin.qq.com/
 
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
@@ -201,7 +201,7 @@
 > 更新 [Acrobat Enterprise Release Notes](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)  
 > 破解 [@vposy](https://weibo.com/vposy "2023年8月11日起暂停更新") | [@m0nkrus](http://www.monkrus.ws)  
 > 插件 [WebPShop](https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html "在Photoshop中使用WebP文件")  
-- WPS Office* https://www.wps.cn/
+- WPS Office https://www.wps.cn/
 - WPS PDF https://www.wpspdf.cn/
 - FreeOffice https://www.freeoffice.com/
 - FreePDF https://www.getfreepdf.com/
@@ -230,10 +230,10 @@
 #### 看图
 - Honeyview* https://cn.bandisoft.com/honeyview/
 - ImageGlass https://imageglass.org/
-- IrfanView* https://www.irfanview.com/
+- IrfanView https://www.irfanview.com/
 - FastStone Image Viewer  https://www.faststone.org/
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
-- FastPreview 插件* https://github.com/nmaier/fastpreview *右键图片预览*
+- FastPreview 插件 https://github.com/nmaier/fastpreview *右键图片预览*
 
 #### 截图/gif动图录屏
 - QQ截图*
@@ -262,7 +262,7 @@
 
 #### 看视频
 - VLC https://www.videolan.org/vlc/
-- QQ影音* https://player.qq.com/
+- QQ影音 https://player.qq.com/
 - Potplayer* https://potplayer.tv/
 - Emby https://emby.media/
 > Potplayer插件 [LAVFilters](https://github.com/Nevcairiel/LAVFilters)
@@ -291,7 +291,7 @@
 
 #### 小工具
 - PdfInvoiceMerge https://github.com/hetaoos/PdfInvoiceMerge *PDF发票合并*
-- 增值税电子发票阅读器 https://inv-veri.chinatax.gov.cn/xgxz.html
+- 增值税电子发票阅读器* https://inv-veri.chinatax.gov.cn/xgxz.html
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
 
 ## 外链
