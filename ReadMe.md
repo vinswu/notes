@@ -290,7 +290,7 @@
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
 
 #### 小工具
-- Flow.Launcher https://github.com/Flow-Launcher/Flow.Launcher
+- Flow.Launcher https://github.com/Flow-Launcher/Flow.Launcher *效率神器，集成Everything SDK*
 - PdfInvoiceMerge https://github.com/hetaoos/PdfInvoiceMerge *PDF发票合并*
 - 增值税电子发票阅读器* https://inv-veri.chinatax.gov.cn/xgxz.html
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
