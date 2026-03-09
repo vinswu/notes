@@ -74,6 +74,8 @@ OneClick https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197
 
 Karing https://apps.apple.com/us/app/karing/id6472431552
 
+Clash Mi https://apps.apple.com/us/app/clash-mi/id6744321968
+
 sing-box https://apps.apple.com/us/app/sing-box-vt/id6673731168
 
 ## 其他
