@@ -142,8 +142,8 @@
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
 #### 浏览器插件
-- AdGuard https://adguard.com/
-- Bitwarden https://bitwarden.com/
+- AdGuard* https://adguard.com/
+- Bitwarden* https://bitwarden.com/
 - Ruffle https://ruffle.rs/
 
 #### 输入法
