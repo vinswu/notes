@@ -141,6 +141,11 @@
 - Google Chrome*[H] https://www.google.com/chrome/
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
+#### 浏览器插件
+- AdGuard https://adguard.com/
+- Bitwarden https://bitwarden.com/
+- Ruffle https://ruffle.rs/
+
 #### 输入法
 - 小狼毫输入法 https://rime.im/
 - 华宇拼音输入法 https://pinyin.thunisoft.com/
