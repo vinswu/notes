@@ -98,8 +98,11 @@ Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
 
 GetfreeCloud https://portal.getfree.cloud/ *通过每天签到，领取免费流量并延长到期时间。 邀请码：VXGO*
 
-Free Cloud https://bento.me/freecloud *通过每月白嫖优惠码，可0元购买白嫖套餐。 邀请码：yh5hSIwm*
-
 ## 订阅转换
 
 ACL4SSR 在线订阅转换 https://acl4ssr-sub.github.io/
+
+# 规则
+
+## SSR“更新PAC为GFWList”失败？
+手动下载pac文件 https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac ,将下载得到的gfwlist.pac改名为pac.txt,放入SSR的安装目录下替换pac.txt，之后选择SSR的代理模式为PAC模式.
