@@ -112,4 +112,6 @@ ACL4SSR 在线订阅转换 https://acl4ssr-sub.github.io/
 
 https://github.com/hezhijie0327/GFWList2PAC
 
+https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
+
 https://github.com/LOWERTOP/Shadowrocket
