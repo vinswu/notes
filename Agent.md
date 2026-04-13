@@ -102,7 +102,14 @@ GetfreeCloud https://portal.getfree.cloud/ *通过每天签到，领取免费流
 
 ACL4SSR 在线订阅转换 https://acl4ssr-sub.github.io/
 
-# 规则
+# 规则 GFWList2PAC
 
-## SSR“更新PAC为GFWList”失败？
+## ShadowsocksR“更新PAC为GFWList”失败？
+
 手动下载pac文件 https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac ,将下载得到的gfwlist.pac改名为pac.txt,放入SSR的安装目录下替换pac.txt，之后选择SSR的代理模式为PAC模式.
+
+## Shadowrocket
+
+https://github.com/hezhijie0327/GFWList2PAC
+
+https://github.com/LOWERTOP/Shadowrocket
