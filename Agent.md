@@ -8,15 +8,13 @@ ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
 
 v2rayN https://github.com/2dust/v2rayN
 
+Clash for Windows https://github.com/Z-Siqi/Clash-for-Windows_Chinese
+
 Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
-
-Clash Nyanpasu https://github.com/libnyanpasu/clash-nyanpasu
-
-Mihomo Party https://github.com/mihomo-party-org/mihomo-party
 
 FlClash https://github.com/chen08209/FlClash
 
-NekoBox https://github.com/MatsuriDayo/nekoray
+Karing https://github.com/KaringX/karing
 
 Hiddify https://github.com/hiddify/hiddify-next
 
@@ -28,11 +26,9 @@ V2rayU https://github.com/yanue/V2rayU
 
 Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
 
-Clash Nyanpasu https://github.com/libnyanpasu/clash-nyanpasu
-
-Mihomo Party https://github.com/mihomo-party-org/mihomo-party
-
 FlClash https://github.com/chen08209/FlClash
+
+Karing https://github.com/KaringX/karing
 
 Hiddify https://github.com/hiddify/hiddify-next
 
@@ -78,6 +74,8 @@ Clash Mi https://apps.apple.com/us/app/clash-mi/id6744321968
 
 sing-box https://apps.apple.com/us/app/sing-box-vt/id6673731168
 
+Hiddify https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532
+
 ## 其他
 
 OpenClash https://github.com/vernesong/OpenClash
@@ -90,7 +88,7 @@ Merlinclash https://t.me/merlinclashfile
 
 ## 节点
 
-Alvin9999-自由上网方法 https://github.com/Alvin9999/new-pac/wiki
+Alvin9999-自由上网方法 https://github.com/Alvin9999-newpac/fanqiang/wiki
 
 Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
 
