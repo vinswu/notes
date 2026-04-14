@@ -88,7 +88,7 @@ Merlinclash https://t.me/merlinclashfile
 
 ## 节点
 
-Alvin9999-自由上网方法 https://github.com/Alvin9999-newpac/fanqiang/wiki
+Alvin9999-Free-Air https://github.com/Alvin9999-newpac/fanqiang/wiki
 
 Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
 
