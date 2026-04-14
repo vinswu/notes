@@ -104,6 +104,8 @@ ACL4SSR 在线订阅转换 https://acl4ssr-sub.github.io/
 
 ## ShadowsocksR“更新PAC为GFWList”失败？
 
+https://github.com/petronny/gfwlist2pac
+
 手动下载pac文件 https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac ,将下载得到的gfwlist.pac改名为pac.txt,放入SSR的安装目录下替换pac.txt，之后选择SSR的代理模式为PAC模式.
 
 ## Shadowrocket
