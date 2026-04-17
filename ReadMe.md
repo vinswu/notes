@@ -225,8 +225,8 @@
 - OneNote https://www.onenote.com/
 - Joplin https://joplinapp.org/cn/
 - Notion https://www.notion.so/zh-cn
-- Effie* https://www.effie.co/
 - Xmind https://www.xmind.cn/
+- Effie* https://www.effie.co/
 
 #### 电子书阅读器
 - calibre https://calibre-ebook.com
