@@ -223,9 +223,10 @@
 #### 笔记清单/思维导图
 - 日历清单*（原：桌面日历） https://www.xdiarys.com/
 - OneNote https://www.onenote.com/
+- Joplin https://joplinapp.org/cn/
 - Notion https://www.notion.so/zh-cn
 - Effie* https://www.effie.co/
-- Xmind* https://www.xmind.cn/
+- Xmind https://www.xmind.cn/
 
 #### 电子书阅读器
 - calibre https://calibre-ebook.com
