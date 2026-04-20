@@ -227,7 +227,8 @@
 - Joplin https://joplinapp.org/cn/
 - 思源笔记 https://github.com/siyuan-note/siyuan
 - Xmind https://www.xmind.cn/
-- Effie* https://www.effie.co/
+- 幕布* https://mubu.com/home
+- Effie https://www.effie.co/
 
 #### 电子书阅读器
 - calibre https://calibre-ebook.com
