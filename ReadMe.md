@@ -222,8 +222,8 @@
 - 日历清单*（原：桌面日历） https://www.xdiarys.com/
 - OneNote https://www.onenote.com/
 - Notion https://www.notion.so/zh-cn
-- Obsidian https://obsidian.md/zh/
 - Xmind https://www.xmind.cn/
+- Obsidian https://obsidian.md/zh/
 - 幕布 https://mubu.com/home
 - Effie https://www.effie.co/
 
