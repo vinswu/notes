@@ -225,9 +225,8 @@
 - OneNote https://www.onenote.com/
 - Notion https://www.notion.so/zh-cn
 - Joplin https://joplinapp.org/cn/
-- 思源笔记 https://github.com/siyuan-note/siyuan
 - Xmind https://www.xmind.cn/
-- 幕布* https://mubu.com/home
+- 幕布 https://mubu.com/home
 - Effie https://www.effie.co/
 
 #### 电子书阅读器
