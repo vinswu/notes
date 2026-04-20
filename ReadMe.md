@@ -178,8 +178,6 @@
 - BitComet(比特彗星) https://www.bitcomet.com/cn
 - 迅雷 https://www.xunlei.com/  *用户基数大；软件有广告*
 - 百度网盘 https://pan.baidu.com/
-- 阿里云盘 https://www.aliyundrive.com/
-- 夸克网盘 https://pan.quark.cn/
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
 
