@@ -36,7 +36,7 @@ Hiddify https://github.com/hiddify/hiddify-next
 
 Shadowsocks https://github.com/shadowsocks/shadowsocks-android
 
-ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Android
+ShadowsocksR https://github.com/shadowsocksr/shadowsocksr-android/ [SSRR](https://github.com/shadowsocksrr/shadowsocksr-android) [SSR-HMBSbige](https://github.com/HMBSbige/ShadowsocksR-Android)
 
 v2rayNG https://github.com/2dust/v2rayNG
 
