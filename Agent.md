@@ -84,7 +84,7 @@ ShellCrash https://github.com/juewuy/ShellCrash
 
 Merlinclash https://t.me/merlinclashfile
 
-# 免费节点/机场
+# 免费节点/机场/服务器
 
 ## 节点
 
@@ -95,6 +95,9 @@ Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
 ## 机场
 
 GetfreeCloud https://portal.getfree.cloud/ *通过每天签到，领取免费流量并延长到期时间。 邀请码：VXGO*
+
+## 服务器
+Cloudflare https://www.cloudflare.com/
 
 ## 订阅转换
 
