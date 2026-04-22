@@ -97,7 +97,7 @@ Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
 GetfreeCloud https://portal.getfree.cloud/ *通过每天签到，领取免费流量并延长到期时间。 邀请码：VXGO*
 
 ## 服务器
-Cloudflare https://www.cloudflare.com/
+Cloudflare https://www.cloudflare.com/  *edgetunnel https://github.com/cmliu/edgetunnel* 
 
 ## 订阅转换
 
