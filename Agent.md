@@ -4,11 +4,11 @@
 
 Shadowsocks https://github.com/shadowsocks/shadowsocks-windows
 
-ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
+ShadowsocksR https://github.com/shadowsocksr/shadowsocksr-csharp/ [SSRR](https://github.com/shadowsocksrr/shadowsocksr-csharp) [SSR-HMBSbige](https://github.com/HMBSbige/ShadowsocksR-Windows)
 
 v2rayN https://github.com/2dust/v2rayN
 
-Clash for Windows https://github.com/Z-Siqi/Clash-for-Windows_Chinese
+Clash for Windows https://github.com/Fndroid/clash_for_windows_pkg  [汉化版](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
 
 Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
 
