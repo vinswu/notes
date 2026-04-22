@@ -88,11 +88,11 @@ Merlinclash https://t.me/merlinclashfile
 
 ## 节点
 
-Alvin9999-Free-Air https://github.com/Alvin9999-newpac/fanqiang/wiki
-
-Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
+Free Air 免费翻墙网 https://alvin9999.com/ [Github](https://github.com/Alvin9999-newpac/fanqiang/wiki) [Gitlab](https://gitlab.com/zhifan999/fq/-/wikis/home)
 
 放牧的风 https://www.youneed.win/category/nodeshare
+
+Pawdroid-Free-servers https://github.com/Pawdroid/Free-servers
 
 ## 机场
 
@@ -102,8 +102,12 @@ FSCloud https://fscloud.vip/ *邀请码：K8hMqvVq*
 
 一分机场 https://一分机场.com/ *邀请码：UXmIyJXS*
 
+Just My Socks https://justmysocks3.net/
+
 ## 服务器
 Cloudflare https://www.cloudflare.com/  *自建 edgetunnel https://github.com/cmliu/edgetunnel* 
+
+BandwagonHost https://bandwagonhost.com/
 
 ## 订阅转换
 
