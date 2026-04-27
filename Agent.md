@@ -10,6 +10,8 @@ v2rayN https://github.com/2dust/v2rayN
 
 Clash for Windows https://github.com/Fndroid/clash_for_windows_pkg  [汉化版](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
 
+Clash Verge https://github.com/zzzgydi/clash-verge
+
 Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
 
 FlClash https://github.com/chen08209/FlClash
