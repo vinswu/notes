@@ -152,6 +152,7 @@
 - 极点五笔输入法 http://www.freewb.org/
 - 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告。可以尝试用“QQ输入法”替代*
 - 讯飞输入法* https://srf.xunfei.cn/
+- 百度输入法 https://srf.baidu.com/
 - 微信输入法 https://z.weixin.qq.com/
 - 豆包输入法 https://shurufa.doubao.com/pc
 
