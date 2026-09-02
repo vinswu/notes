@@ -150,7 +150,7 @@
 - 小狼毫输入法 https://rime.im/
 - 华宇拼音输入法 https://pinyin.thunisoft.com/
 - 极点五笔输入法 http://www.freewb.org/
-- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告*
+- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告。可以尝试用“QQ输入法”替代*
 - 讯飞输入法* https://srf.xunfei.cn/
 - 豆包输入法 https://shurufa.doubao.com/pc
 
