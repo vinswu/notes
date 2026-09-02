@@ -148,10 +148,10 @@
 
 #### 输入法
 - 小狼毫输入法 https://rime.im/
-- 华宇拼音输入法 https://pinyin.thunisoft.com/
-- 极点五笔输入法 http://www.freewb.org/
-- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告。可以尝试用“[QQ输入法*](https://qq.pinyin.cn/)”替代*
-- 讯飞输入法 https://srf.xunfei.cn/
+- 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
+- 极点五笔输入法 http://www.freewb.org/ *老牌*
+- 搜狗输入法* https://shurufa.sogou.com/  *用户基数大；但有广告。可尝试用“[QQ输入法*](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得推荐”*
+- 讯飞输入法 https://srf.xunfei.cn/ *移动端还行，pc端差强人意。AI语音输入时代，优势不足*
 - 百度输入法 https://srf.baidu.com/
 - 微信输入法 https://z.weixin.qq.com/
 - 豆包输入法 https://shurufa.doubao.com/pc
@@ -177,7 +177,7 @@
 - Gopeed https://github.com/GopeedLab/gopeed
 - eMule(电骡) http://emule-project.net
 - BitComet(比特彗星) https://www.bitcomet.com/cn
-- 迅雷 https://www.xunlei.com/  *用户基数大；软件有广告*
+- 迅雷 https://www.xunlei.com/  *用户基数大；但有广告*
 - 百度网盘 https://pan.baidu.com/
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
