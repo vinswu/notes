@@ -150,13 +150,14 @@
 - 小狼毫输入法 https://rime.im/
 - 华宇拼音输入法 https://pinyin.thunisoft.com/
 - 极点五笔输入法 http://www.freewb.org/
-- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告。可以尝试用“QQ输入法”替代*
+- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；软件有广告。可以尝试用“QQ输入法*”替代*
 - 讯飞输入法* https://srf.xunfei.cn/
+- 微信输入法 https://z.weixin.qq.com/
 - 豆包输入法 https://shurufa.doubao.com/pc
 
 #### 系统维护辅助工具
 - 360杀毒 https://sd.360.cn/  *用户基数大；软件有广告*
-- 360安全卫士 https://weishi.360.cn/ *建议下载使用“360安全卫视极速版”*
+- 360安全卫士 https://weishi.360.cn/ *建议下载使用“360安全卫视极速版*”*
 - 火绒安全* https://www.huorong.cn/
 - 火绒应用商店* https://www.huorong.cn/app_store.html
 - 腾讯电脑管家 https://guanjia.qq.com/
