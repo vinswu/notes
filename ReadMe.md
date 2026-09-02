@@ -157,7 +157,7 @@
 
 #### 系统维护辅助工具
 - 360杀毒 https://sd.360.cn/  *用户基数大；软件有广告*
-- 360安全卫士 https://weishi.360.cn/ *建议下载使用“360安全卫视极速版*”*
+- 360安全卫士 https://weishi.360.cn/ *建议下载使用“360安全卫视极速版”*
 - 火绒安全* https://www.huorong.cn/
 - 火绒应用商店* https://www.huorong.cn/app_store.html
 - 腾讯电脑管家 https://guanjia.qq.com/
