@@ -150,7 +150,7 @@
 - 小狼毫输入法 https://rime.im/
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 极点五笔输入法 http://www.freewb.org/ *老牌*
-- 搜狗输入法* https://shurufa.sogou.com/  *用户基数大；但有广告。可尝试用“[QQ输入法*](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得推荐”*
+- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；但有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得推荐”*
 - 讯飞输入法 https://srf.xunfei.cn/ *移动端还行，pc端差强人意。AI语音输入时代，优势不足*
 - 百度输入法 https://srf.baidu.com/
 - 微信输入法 https://z.weixin.qq.com/
