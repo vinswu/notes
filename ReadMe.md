@@ -177,7 +177,7 @@
 - Gopeed https://github.com/GopeedLab/gopeed
 - eMule(电骡) http://emule-project.net
 - BitComet(比特彗星) https://www.bitcomet.com/cn
-- 迅雷 https://www.xunlei.com/  *用户基数大；但有广告*
+- 迅雷 https://www.xunlei.com/  *用户基数大；但有广告。可以试试“迅雷精简版”无账号体系*
 - 百度网盘 https://pan.baidu.com/
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
@@ -185,8 +185,7 @@
 #### 聊天工具
 - Telegram[H] https://telegram.org/
 > 简体中文语言包 https://t.me/setlanguage/zh-hans-raw
-- QQ https://im.qq.com/
-- TIM https://office.qq.com/
+- QQ https://im.qq.com/ *追求轻量化的，可以试试“[TIM](https://office.qq.com/)”，希望不要步“TM”的后尘*
 - 微信 https://weixin.qq.com/
 
 #### OA办公自动化
