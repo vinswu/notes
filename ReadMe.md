@@ -147,13 +147,13 @@
 - Ruffle https://ruffle.rs/
 
 #### 输入法
-- 小狼毫输入法 https://rime.im/
-- 华宇拼音输入法* https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
-- 极点五笔输入法* http://www.freewb.org/ *老牌*
+- 小狼毫输入法* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/fkxxyz/rime-cloverpinyin)、[深蓝词库转换](https://github.com/studyzy/imewlconverter)、[搜狗细胞词库](https://pinyin.sogou.com/dict/)*
+- 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
+- 极点五笔输入法 http://www.freewb.org/ *老牌*
 - 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；但有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
-- 讯飞输入法 https://srf.xunfei.cn/ *移动端还行，pc端差强人意。AI语音输入时代，优势不足*
+- 讯飞输入法 https://srf.xunfei.cn/
 - 百度输入法 https://srf.baidu.com/
-- 微信输入法 https://z.weixin.qq.com/
+- 微信输入法* https://z.weixin.qq.com/
 - 豆包输入法 https://shurufa.doubao.com/pc
 
 #### 系统维护辅助工具
