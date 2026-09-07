@@ -301,6 +301,7 @@
 
 #### 小工具
 - Flow.Launcher https://github.com/Flow-Launcher/Flow.Launcher *效率神器，集成[Everything](https://www.voidtools.com/) SDK*
+- Desktopcal 桌面日历 https://chs.desktopcal.com/chs/
 - PdfInvoiceMerge https://github.com/hetaoos/PdfInvoiceMerge *PDF发票合并*
 - 增值税电子发票阅读器* https://inv-veri.chinatax.gov.cn/xgxz.html
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
