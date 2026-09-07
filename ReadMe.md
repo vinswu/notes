@@ -147,7 +147,7 @@
 - Ruffle https://ruffle.rs/
 
 #### 输入法
-- 小狼毫输入法* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/fkxxyz/rime-cloverpinyin)、[白霜拼音方案](https://github.com/gaboolic/rime-frost)、[深蓝词库转换](https://github.com/studyzy/imewlconverter)、[搜狗细胞词库](https://pinyin.sogou.com/dict/)*
+- 小狼毫输入法* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)、[深蓝词库转换](https://github.com/studyzy/imewlconverter)、[搜狗细胞词库](https://pinyin.sogou.com/dict/)*
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 小鹤音形输入法 https://flypy.cc/ *用户基数最大的双拼方案之一*
 - 极点五笔输入法 http://www.freewb.org/ *老牌*
