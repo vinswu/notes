@@ -154,7 +154,7 @@
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
 - 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；但有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
-- 讯飞输入法* https://srf.xunfei.cn/
+- 讯飞输入法 https://srf.xunfei.cn/
 - 百度输入法 https://srf.baidu.com/
 - 微信输入法 https://z.weixin.qq.com/
 - 豆包输入法 https://shurufa.doubao.com/pc
