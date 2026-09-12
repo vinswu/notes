@@ -14,6 +14,9 @@
 
 ## 配置方案
 
+#### 薄荷拼音
+  https://github.com/Mintimate/oh-my-rime
+
 #### 雾凇拼音
   https://github.com/iDvel/rime-ice
 
