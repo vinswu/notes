@@ -1,4 +1,6 @@
 ## 输入法
+#### Linux平台 中州韻输入法
+  https://github.com/rime/ibus-rime
 
 #### Windows平台 小狼毫输入法 
   https://github.com/rime/weasel
