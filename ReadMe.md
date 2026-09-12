@@ -148,7 +148,7 @@
 - Ruffle https://ruffle.rs/
 
 #### 输入法
-- 小狼毫输入法* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)、[深蓝词库转换](https://github.com/studyzy/imewlconverter)、[搜狗细胞词库](https://pinyin.sogou.com/dict/)*
+- 小狼毫输入法* https://rime.im/ *搭配方案：[雾凇拼音](https://github.com/iDvel/rime-ice)、[万象拼音](https://github.com/amzxyz/rime-wanxiang)*
 - 极点五笔输入法 http://www.freewb.org/ *老牌.五笔拼音混合输入法*
 - 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[魔然 Rime 輸入方案](https://github.com/rimeinn/rime-moran)*  
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
@@ -158,6 +158,8 @@
 - 百度输入法 https://srf.baidu.com/
 - 微信输入法 https://z.weixin.qq.com/
 - 豆包输入法 https://shurufa.doubao.com/pc
+> 深蓝词库转换 https://github.com/studyzy/imewlconverter
+> 搜狗细胞词库 https://pinyin.sogou.com/dict/
 
 #### 系统维护辅助工具
 - 360杀毒 https://sd.360.cn/  *用户基数大；软件有广告*
