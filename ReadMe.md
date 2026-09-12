@@ -158,7 +158,7 @@
 - 百度输入法 https://srf.baidu.com/
 - 微信输入法 https://z.weixin.qq.com/
 - 豆包输入法 https://shurufa.doubao.com/pc
-> 深蓝词库转换 https://github.com/studyzy/imewlconverter
+> 深蓝词库转换 https://github.com/studyzy/imewlconverter  
 > 搜狗细胞词库 https://pinyin.sogou.com/dict/
 
 #### 系统维护辅助工具
