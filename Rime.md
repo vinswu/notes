@@ -12,6 +12,10 @@
 #### iOS平台 仓输入法 
   https://github.com/imfuxiao/hamster
 
+#### HarmonyOS平台 超越输入法
+  https://github.com/Beyond-Input-Method
+
+
 ## 配置方案
 
 #### 薄荷拼音
