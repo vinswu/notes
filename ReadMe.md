@@ -312,7 +312,7 @@
 | [sysin](https://sysin.org/)
 | [zd423](https://www.423down.com/)
 | [大眼仔~旭](https://www.dayanzai.me/)
-| [果壳剥壳]https://www.ghxi.com/
+| [果壳剥壳](https://www.ghxi.com/)
 | [开源大世界](https://kydsj.vip/doku.php?id=wiki:网站目录)
 | [软仓](https://www.ruancang.net/)
 | [宋永志博客](http://www.songyongzhi.com/)
