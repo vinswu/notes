@@ -1,4 +1,4 @@
-# 【Windows 系统安装套餐】
+# 【Windows 系统装机】
 
 ## 一、安装前的准备
 
@@ -308,13 +308,14 @@
 - 增值税电子发票阅读器* https://inv-veri.chinatax.gov.cn/xgxz.html
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
 
-## 外链
-| [开源大世界](https://kydsj.vip/doku.php?id=wiki:网站目录)
-| [不忘初心系统博客](https://www.pc528.net/)
-| [宋永志博客](http://www.songyongzhi.com/)
-| [小众软件](https://www.appinn.com/)
-| [下1个好软件](https://xiaoyi.vc/win-app)
-| [软仓](https://www.ruancang.net/)
-| [异次元软件世界](https://www.iplaysoft.com/)
+## 外链（按首字母排序）
 | [sysin](https://sysin.org/)
 | [zd423](https://www.423down.com/)
+| [大眼仔~旭](https://www.dayanzai.me/)
+| [果壳剥壳]https://www.ghxi.com/
+| [开源大世界](https://kydsj.vip/doku.php?id=wiki:网站目录)
+| [软仓](https://www.ruancang.net/)
+| [宋永志博客](http://www.songyongzhi.com/)
+| [下1个好软件](https://xiaoyi.vc/win-app)
+| [小众软件](https://www.appinn.com/)
+| [异次元软件世界](https://www.iplaysoft.com/)
