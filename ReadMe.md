@@ -120,7 +120,7 @@
 
 #### 安装[驱动](https://github.com/vinswu/notes?tab=readme-ov-file#驱动-下载)
 
-## 五、Windows装机软件精选
+## 五、Windows装机软件精选 - 使用开源软件！支持开源软件！
 
 #### 解压缩&文件校验工具
 - 7-zip* https://www.7-zip.org/
@@ -178,10 +178,11 @@
 - MyComputerManager* https://github.com/1357310795/MyComputerManager *此电脑内快捷方式管理*
 - DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
 
-#### 下载&网盘工具
+#### 网络传输工具
 - Gopeed https://github.com/GopeedLab/gopeed
 - eMule(电骡) http://emule-project.net
-- BitComet(比特彗星) https://www.bitcomet.com/cn
+- qBittorrent https://www.qbittorrent.org/
+- Motrix https://github.com/agalwood/Motrix
 - 迅雷 https://www.xunlei.com/  *用户基数大；但有广告。可以试试“迅雷精简版”无账号体系*
 - 百度网盘 https://pan.baidu.com/
 - 坚果云 https://www.jianguoyun.com/
@@ -216,8 +217,8 @@
 > 插件 [WebPShop](https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html "在Photoshop中使用WebP文件")  
 - WPS Office https://www.wps.cn/
 - WPS PDF https://www.wpspdf.cn/
-- FreeOffice https://www.freeoffice.com/
-- FreePDF https://www.getfreepdf.com/
+- LibreOffice https://www.libreoffice.org/
+- OnlyOffice https://www.onlyoffice.com/
 - 数科OFD https://www.ofd.cn/
 
 #### 办公增强工具
@@ -261,11 +262,11 @@
 #### 修图
 - Adobe Photoshop* https://www.adobe.com/
 - GIMP https://www.gimp.org/
-- Canva https://www.canva.com/zh_cn/
 - 美图秀秀 https://pc.meitu.com/
 
 #### 听音乐
-- VLC https://www.videolan.org/vlc/
+- VLC Media Player https://www.videolan.org/vlc/
+- Strawberry Music Player https://www.strawberrymusicplayer.org/
 - AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
 
@@ -276,7 +277,7 @@
 - Sound Organizer https://www.sonystyle.com.cn/minisite/cross/app/sound_organizer.htm
 
 #### 看视频
-- VLC https://www.videolan.org/vlc/
+- VLC Media Player https://www.videolan.org/vlc/
 - QQ影音 https://player.qq.com/
 - Potplayer* https://potplayer.tv/
 - Emby https://emby.media/
@@ -289,12 +290,12 @@
 - oCam https://ohsoft.net/
 > 注册 [@大眼仔~旭](https://www.dayanzai.me/ocam.html)
 
-#### 视频编辑
+#### 视频剪辑
 - Adobe Premiere Pro* https://www.adobe.com/
 - Kdenlive https://kdenlive.org/
 - Shotcut https://www.shotcut.org/
+- HandBrake https://handbrake.fr/
 - 剪映 https://www.capcut.cn/
-- 格式工厂 http://www.pcgeshi.com/index.html
 
 #### 个性化
 - Fliqlo https://fliqlo.com/ *时钟屏保*
