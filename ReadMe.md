@@ -60,11 +60,11 @@
 
 #### 驱动 下载
 - 对应硬件官网的技术支持服务下载中心
+- Snappy Driver Installer Origin (SDIO) https://www.glenn.delahoy.com/snappy-driver-installer-origin/
 - 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
 - 360驱动大师 https://dm.weishi.360.cn/home.html
 - IT天空万能驱动 https://www.itsk.com/
 - 驱动总裁* https://www.sysceo.com/dc
-- Snappy Driver Installer https://sdi-tool.org/download/
 
 ## 二、制作PE启动盘
 
