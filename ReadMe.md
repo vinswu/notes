@@ -223,7 +223,7 @@
 - 数科OFD https://www.ofd.cn/
 
 #### 办公增强工具
-- 万彩办公大师 http://www.wofficebox.com/
+- 万彩办公大师 http://www.wofficebox.com/ *停更，最后版本3.1.2*
 - NotepadNext* https://github.com/dail8859/NotepadNext *替代记事本*
 - Qalculate! https://github.com/Qalculate/libqalculate *替代计算器*
 - DeepL https://github.com/DeepLcom/deepl-python *翻译*
@@ -266,7 +266,7 @@
 - 美图秀秀 https://pc.meitu.com/
 
 #### 听音乐
-- VLC Media Player https://www.videolan.org/vlc/
+- VLC Media Player* https://www.videolan.org/vlc/
 - Strawberry Music Player https://www.strawberrymusicplayer.org/
 - AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
@@ -278,7 +278,7 @@
 - Sound Organizer https://www.sonystyle.com.cn/minisite/cross/app/sound_organizer.htm
 
 #### 看视频
-- VLC Media Player https://www.videolan.org/vlc/
+- VLC Media Player* https://www.videolan.org/vlc/
 - QQ影音 https://player.qq.com/
 - Potplayer* https://potplayer.tv/
 - Emby https://emby.media/
@@ -305,7 +305,7 @@
 - noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI/releases *Windows系统字体修改*
 
 #### 小工具
-- Flow.Launcher https://github.com/Flow-Launcher/Flow.Launcher *效率神器，集成[Everything](https://www.voidtools.com/) SDK*
+- Flow.Launcher https://github.com/Flow-Launcher/Flow.Launcher *效率神器，集成[Everything*](https://www.voidtools.com/) SDK*
 - PdfInvoiceMerge https://github.com/hetaoos/PdfInvoiceMerge *PDF发票合并*
 - 增值税电子发票阅读器* https://inv-veri.chinatax.gov.cn/xgxz.html
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
