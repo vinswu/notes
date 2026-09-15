@@ -150,7 +150,7 @@
 #### 输入法
 - 小狼毫输入法* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)* *了解：[Rime坊](https://rime.yougaoji.com/)*  
 - 极点五笔输入法 http://www.freewb.org/ *老牌.五笔拼音混合输入法*
-- 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[万象双拼辅助码增强版 (Pro)](https://github.com/amzxyz/rime-wanxiang)*  
+- 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[万象拼音-双拼辅助码增强版 (Pro)](https://github.com/amzxyz/rime-wanxiang)*  
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
 - 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；但有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
