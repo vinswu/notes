@@ -60,9 +60,9 @@
 
 #### 驱动 下载
 - 对应硬件官网的技术支持服务下载中心
-- Snappy Driver Installer Origin (SDIO) https://www.glenn.delahoy.com/snappy-driver-installer-origin/
+- Snappy Driver Installer Origin (SDIO)* https://www.glenn.delahoy.com/snappy-driver-installer-origin/
 - 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
-- 360驱动大师 https://dm.weishi.360.cn/home.html
+- 360驱动大师* https://dm.weishi.360.cn/home.html
 - IT天空万能驱动 https://www.itsk.com/
 - 驱动总裁* https://www.sysceo.com/dc
 
@@ -137,15 +137,15 @@
 - Clash Verge https://github.com/clash-verge-rev/clash-verge-rev
 
 #### 浏览器
-- Mozilla Firefox https://www.mozilla.org/zh-CN/firefox/browsers/
+- Mozilla Firefox* https://www.mozilla.org/zh-CN/firefox/browsers/
 - Tor Browser[H] https://www.torproject.org/zh-CN/download/
 - Google Chrome*[H] https://www.google.com/chrome/
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
 #### 浏览器插件
-- AdGuard* https://adguard.com/
-- Bitwarden* https://bitwarden.com/
-- Ruffle https://ruffle.rs/
+- AdGuard* https://adguard.com/ *去广告*
+- Bitwarden* https://bitwarden.com/ *密码管理*
+- Ruffle https://ruffle.rs/ *flash播放器*
 
 #### 输入法
 - 小狼毫输入法* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)* *了解：[Rime坊](https://rime.yougaoji.com/)*  
@@ -153,7 +153,7 @@
 - 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[万象拼音-双拼辅助码增强版 (Pro)](https://github.com/amzxyz/rime-wanxiang)*  
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
-- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；但有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
+- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
 - 讯飞输入法 https://srf.xunfei.cn/
 - 百度输入法 https://srf.baidu.com/
 - 微信输入法 https://z.weixin.qq.com/
@@ -162,8 +162,8 @@
 > 搜狗细胞词库 https://pinyin.sogou.com/dict/
 
 #### 系统维护辅助工具
-- 360杀毒 https://sd.360.cn/  *用户基数大；软件有广告*
-- 360安全卫士 https://weishi.360.cn/ *建议下载使用“360安全卫视极速版”*
+- 360杀毒 https://sd.360.cn/  *用户基数大；容易全家桶*
+- 360安全卫士 https://weishi.360.cn/ *建议下载使用“[360安全卫视极速版](https://weishi.360.cn/jisu/)”*
 - 火绒安全* https://www.huorong.cn/
 - 火绒应用商店* https://www.huorong.cn/app_store.html
 - 腾讯电脑管家 https://guanjia.qq.com/
@@ -184,15 +184,15 @@
 - qBittorrent https://www.qbittorrent.org/
 - Motrix https://github.com/agalwood/Motrix
 - 迅雷 https://www.xunlei.com/  *用户基数大；但有广告。可以试试“迅雷精简版”无账号体系*
-- 百度网盘 https://pan.baidu.com/
+- 百度网盘 https://pan.baidu.com/ *资源丰富；下载龟速*
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
 
 #### 聊天工具
-- Telegram[H] https://telegram.org/
-> 简体中文语言包 https://t.me/setlanguage/zh-hans-raw
+- Telegram[H] https://telegram.org/ *语言包:[简体中文](https://t.me/setlanguage/zh-hans-raw)*
 - QQ https://im.qq.com/ *追求轻量化的，可以试试“[TIM](https://office.qq.com/)”，希望不要步“TM”的后尘*
 - 微信 https://weixin.qq.com/
+- 腾讯会议 https://meeting.tencent.com/
 
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
@@ -217,7 +217,7 @@
 > 插件 [WebPShop](https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html "在Photoshop中使用WebP文件")  
 - WPS Office https://www.wps.cn/
 - WPS PDF https://www.wpspdf.cn/
-- LibreOffice https://www.libreoffice.org/
+- LibreOffice https://www.libreoffice.org/ *不联网，纯本地*
 - OnlyOffice https://www.onlyoffice.com/
 - PDF24 Creator https://tools.pdf24.org/zh/creator
 - 数科OFD https://www.ofd.cn/
