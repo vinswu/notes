@@ -12,11 +12,10 @@
 - 远景Windows论坛* https://bbs.pcbeta.com/
 
 ##### PE 下载
-- IT天空优启通 https://www.itsk.com/
-- 微PE（原：通用PE）* https://www.wepe.com.cn/
-- 金狐系统维护盘 http://www.jinhu.me/
-- 杏雨梨云启动维护系统 https://www.xyboot.com/
-- FirPE https://firpe.cn/
+- IT天空-优启通 https://www.itsk.com/
+- 系统总裁-U盘魔术师 https://www.sysceo.com/usm
+- 微PE（原：通用PE）* https://www.wepe.com.cn/ *其他推荐：[杏雨梨云启动维护系统](https://www.xyboot.com/);[金狐系统维护盘](http://www.jinhu.me/);[FirPE](https://firpe.cn/)*
+- 无忧启动论坛 https://bbs.wuyou.net/
 
 ##### 镜像刻录工具 下载
 - Rufus https://rufus.ie/zh/
@@ -37,8 +36,8 @@
 - HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 #### 激活工具 下载
-- 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
 - Microsoft Activation Scripts (MAS)* https://github.com/massgravel/Microsoft-Activation-Scripts
+- 知彼而知己HEU_KMS_Activator https://github.com/zbezj/HEU_KMS_Activator
 
 ##### 运行库 下载
 - VC++
