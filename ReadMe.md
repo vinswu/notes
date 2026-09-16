@@ -155,8 +155,8 @@
 - 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[万象拼音-双拼辅助码增强版 (Pro)](https://github.com/amzxyz/rime-wanxiang)*  
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
-- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
-- 讯飞输入法* https://srf.xunfei.cn/
+- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法*](https://www.xinshuru.com/)也值得一试”*
+- 讯飞输入法 https://srf.xunfei.cn/
 - 百度输入法 https://srf.baidu.com/
 - 豆包输入法 https://shurufa.doubao.com/pc *腾讯系：[微信输入法](https://z.weixin.qq.com/)；阿里系：[千问输入法](https://ime.qianwen.com/)*
 > 深蓝词库转换 https://github.com/studyzy/imewlconverter  
@@ -170,7 +170,7 @@
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
 #### 浏览器插件
-- uBlock Origin https://ublockorigin.com/ *广告拦截。付费推荐：[AdGuard*](https://adguard.com/ "浏览器插件免费")*
+- uBlock Origin* https://ublockorigin.com/ *广告拦截。付费推荐：[AdGuard*](https://adguard.com/ "浏览器插件免费")*
 - Bitwarden* https://bitwarden.com/ *密码管理*
 - Ruffle https://ruffle.rs/ *flash播放器*
 
@@ -217,7 +217,7 @@
 > 插件 [WebPShop](https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html "在Photoshop中使用WebP文件")  
 - WPS Office https://www.wps.cn/
 - WPS PDF https://www.wpspdf.cn/
-- LibreOffice https://www.libreoffice.org/ *不联网，纯本地*
+- LibreOffice* https://www.libreoffice.org/ *不联网，纯本地*
 - OnlyOffice https://www.onlyoffice.com/
 - PDF24 Creator https://tools.pdf24.org/zh/creator
 - 数科OFD https://www.ofd.cn/
@@ -225,7 +225,7 @@
 #### 办公增强工具
 - 万彩办公大师 http://www.wofficebox.com/ *停更，最后版本3.1.2*
 - NotepadNext* https://github.com/dail8859/NotepadNext *替代记事本*
-- Qalculate! https://github.com/Qalculate/libqalculate *替代计算器*
+- Qalculate!* https://github.com/Qalculate/libqalculate *替代计算器*
 - DeepL https://github.com/DeepLcom/deepl-python *翻译*
 - Stickies https://www.zhornsoftware.co.uk/stickies/ *桌面便签提醒*
 > [Classic Apps](https://win7games.com/)
@@ -256,7 +256,6 @@
 - QQ截图*
 - Snipaste https://www.snipaste.com/
 - PixPin https://pixpin.cn/
-- 小旺AI截图 https://www.xiaowang.com/
 - ScreenToGif https://www.screentogif.com/
 - FastStone Capture https://www.faststone.org/
 
