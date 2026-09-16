@@ -156,16 +156,16 @@
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
 - 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
-- 讯飞输入法 https://srf.xunfei.cn/
+- 讯飞输入法* https://srf.xunfei.cn/
 - 百度输入法 https://srf.baidu.com/
-- 微信输入法 https://z.weixin.qq.com/
-- 豆包输入法 https://shurufa.doubao.com/pc
+- 豆包输入法 https://shurufa.doubao.com/pc *腾讯系：[微信输入法](https://z.weixin.qq.com/)；阿里系：[千问输入法](https://ime.qianwen.com/)*
 > 深蓝词库转换 https://github.com/studyzy/imewlconverter  
 > 搜狗细胞词库 https://pinyin.sogou.com/dict/
 
 #### 浏览器
 - Mozilla Firefox* https://www.mozilla.org/zh-CN/firefox/browsers/
 - Tor Browser[H] https://www.torproject.org/zh-CN/download/
+- Chromium https://www.chromium.org/chromium-projects/
 - Google Chrome*[H] https://www.google.com/chrome/
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge
 
