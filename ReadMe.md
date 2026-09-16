@@ -14,11 +14,12 @@
 ##### PE 下载
 - IT天空-优启通 https://www.itsk.com/
 - 系统总裁-U盘魔术师 https://www.sysceo.com/usm
-- 微PE（原：通用PE）* https://www.wepe.com.cn/ *其他推荐：[杏雨梨云启动维护系统](https://www.xyboot.com/);[金狐系统维护盘](http://www.jinhu.me/);[FirPE](https://firpe.cn/)*
-- 无忧启动论坛 https://bbs.wuyou.net/
+- 微PE（原：通用PE） https://www.wepe.com.cn/ *其他推荐：[杏雨梨云启动维护系统](https://www.xyboot.com/)；[金狐系统维护盘](http://www.jinhu.me/)；[FirPE](https://firpe.cn/)*
+- 无忧启动论坛* https://bbs.wuyou.net/
 
 ##### 镜像刻录工具 下载
-- Rufus https://rufus.ie/zh/
+- Rufus* https://rufus.ie/zh/
+- balenaEtcher https://etcher.balena.io/
 - UltraISO软碟通* https://cn.ezbsystems.com/ultraiso/download.htm  
 > UltraISO软碟通 简体中文版 注册信息  
 
@@ -41,29 +42,33 @@
 
 ##### 运行库 下载
 - VC++
+  - VisualCppRedist AIO* https://github.com/abbodi1406/vcredist
   - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
   - 微软常用运行库合集-Dreamcast http://dreamcast2.ysepan.com/
-  - VisualCppRedist AIO* https://github.com/abbodi1406/vcredist
+ 
 - .NET
-  - 微软.NET运行库合集-果壳剥壳 https://www.ghxi.com/nethj.html
   - Microsoft .NET Framework 修复工具 https://support.microsoft.com/zh-cn/topic/microsoft-net-framework-修复工具可用-942a01e3-5b8b-7abb-c166-c34a2f4b612a
+  - 微软.NET运行库合集-果壳剥壳 https://www.ghxi.com/nethj.html
+
 - DirectX
   - DirectX修复工具 https://blog.csdn.net/VBcom/article/details/6962388
-- Flash
-  - Adobe Flash Player https://www.flash.cn/
+
+- Flash 请放弃吧
   - Clean Flash Player https://github.com/darktohka/clean-flash-builds
+  - Adobe Flash Player https://www.flash.cn/
+
 - JDK
   - Java Development Kit* https://www.oracle.com/java/technologies/downloads/
 > 拓展：[《Windows常用运行库（VC++、DirectX、.NET）》](https://blog.csdn.net/cbing2002/article/details/121263687)  
 > 拓展：[《windows 10 配置Java 环境变量》](https://www.jianshu.com/p/9fc41ea941aa)
 
 #### 驱动 下载
-- 对应硬件官网的技术支持服务下载中心
+- 对应硬件官网的技术支持服务中心下载*
 - Snappy Driver Installer Origin (SDIO)* https://www.glenn.delahoy.com/snappy-driver-installer-origin/
 - 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
 - 360驱动大师* https://dm.weishi.360.cn/home.html
-- IT天空万能驱动 https://www.itsk.com/
-- 驱动总裁* https://www.sysceo.com/dc
+- IT天空-万能驱动 https://www.itsk.com/
+- 系统总裁-驱动总裁 https://www.sysceo.com/dc
 
 ## 二、制作PE启动盘
 
@@ -121,45 +126,6 @@
 
 ## 五、Windows装机软件精选 - 使用开源软件！支持开源软件！
 
-#### 解压缩&文件校验工具
-- 7-zip* https://www.7-zip.org/
-- WinRAR https://www.rarlab.com/
-- Hash https://keir.net/hash.html
-- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
-
-#### [科学上网工具](https://github.com/vinswu/notes/blob/master/Agent.md)
-- XX-Net https://github.com/XX-net/XX-Net
-- Shadowsocks https://github.com/shadowsocks/shadowsocks-windows
-- ShadowsocksR https://github.com/HMBSbige/ShadowsocksR-Windows
-- v2rayN* https://github.com/2dust/v2rayN
-- Clash for Windows https://github.com/Z-Siqi/Clash-for-Windows_Chinese
-- Clash Verge https://github.com/clash-verge-rev/clash-verge-rev
-
-#### 浏览器
-- Mozilla Firefox* https://www.mozilla.org/zh-CN/firefox/browsers/
-- Tor Browser[H] https://www.torproject.org/zh-CN/download/
-- Google Chrome*[H] https://www.google.com/chrome/
-- Microsoft Edge https://www.microsoft.com/zh-cn/edge
-
-#### 浏览器插件
-- AdGuard* https://adguard.com/ *去广告*
-- Bitwarden* https://bitwarden.com/ *密码管理*
-- Ruffle https://ruffle.rs/ *flash播放器*
-
-#### 输入法
-- 小狼毫输入法* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)* *了解：[Rime坊](https://rime.yougaoji.com/)*  
-- 极点五笔输入法 http://www.freewb.org/ *老牌.五笔拼音混合输入法*
-- 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[万象拼音-双拼辅助码增强版 (Pro)](https://github.com/amzxyz/rime-wanxiang)*  
-- 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
-- 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
-- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
-- 讯飞输入法 https://srf.xunfei.cn/
-- 百度输入法 https://srf.baidu.com/
-- 微信输入法 https://z.weixin.qq.com/
-- 豆包输入法 https://shurufa.doubao.com/pc
-> 深蓝词库转换 https://github.com/studyzy/imewlconverter  
-> 搜狗细胞词库 https://pinyin.sogou.com/dict/
-
 #### 系统维护辅助工具
 - 360杀毒 https://sd.360.cn/  *用户基数大；容易全家桶*
 - 360安全卫士 https://weishi.360.cn/ *建议下载使用“[360安全卫视极速版](https://weishi.360.cn/jisu/)”*
@@ -177,11 +143,46 @@
 - MyComputerManager* https://github.com/1357310795/MyComputerManager *此电脑内快捷方式管理*
 - DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
 
+#### 解压缩&文件校验工具
+- 7-zip* https://www.7-zip.org/
+- WinRAR https://www.rarlab.com/
+- Hash https://keir.net/hash.html
+- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
+
+#### 输入法
+- 小狼毫输入法* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)* *了解：[Rime坊](https://rime.yougaoji.com/)*  
+- 极点五笔输入法 http://www.freewb.org/ *老牌.五笔拼音混合输入法*
+- 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[万象拼音-双拼辅助码增强版 (Pro)](https://github.com/amzxyz/rime-wanxiang)*  
+- 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
+- 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
+- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法](https://www.xinshuru.com/)也值得一试”*
+- 讯飞输入法 https://srf.xunfei.cn/
+- 百度输入法 https://srf.baidu.com/
+- 微信输入法 https://z.weixin.qq.com/
+- 豆包输入法 https://shurufa.doubao.com/pc
+> 深蓝词库转换 https://github.com/studyzy/imewlconverter  
+> 搜狗细胞词库 https://pinyin.sogou.com/dict/
+
+#### 浏览器
+- Mozilla Firefox* https://www.mozilla.org/zh-CN/firefox/browsers/
+- Tor Browser[H] https://www.torproject.org/zh-CN/download/
+- Google Chrome*[H] https://www.google.com/chrome/
+- Microsoft Edge https://www.microsoft.com/zh-cn/edge
+
+#### 浏览器插件
+- uBlock Origin https://ublockorigin.com/ *广告拦截。付费推荐：[AdGuard*](https://adguard.com/ "浏览器插件免费")*
+- Bitwarden* https://bitwarden.com/ *密码管理*
+- Ruffle https://ruffle.rs/ *flash播放器*
+
+#### [科学上网工具](https://github.com/vinswu/notes/blob/master/Agent.md)
+- v2rayN* https://github.com/2dust/v2rayN
+- Clash Verge https://github.com/clash-verge-rev/clash-verge-rev
+
 #### 网络传输工具
 - Gopeed https://github.com/GopeedLab/gopeed
+- Motrix https://github.com/agalwood/Motrix
 - eMule(电骡) http://emule-project.net
 - qBittorrent https://www.qbittorrent.org/
-- Motrix https://github.com/agalwood/Motrix
 - 迅雷 https://www.xunlei.com/  *用户基数大；但有广告。可以试试“迅雷精简版”无账号体系*
 - 百度网盘 https://pan.baidu.com/ *资源丰富；下载龟速*
 - 坚果云 https://www.jianguoyun.com/
@@ -244,9 +245,9 @@
 - Sumatra PDF https://www.sumatrapdfreader.org/free-pdf-reader
 
 #### 看图
-- Honeyview* https://cn.bandisoft.com/honeyview/
+- Honeyview* https://cn.bandisoft.com/honeyview/ *停更，最后版本5.53*
 - ImageGlass https://imageglass.org/
-- IrfanView https://www.irfanview.com/
+- IrfanView* https://www.irfanview.com/
 - FastStone Image Viewer  https://www.faststone.org/
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
 - FastPreview 插件 https://github.com/nmaier/fastpreview *右键图片预览*
