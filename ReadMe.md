@@ -133,7 +133,7 @@
 #### 系统维护辅助工具
 - 360杀毒 https://sd.360.cn/  *用户基数大；容易全家桶*
 - 360安全卫士 https://weishi.360.cn/ *用户基数大；建议下载使用“[360安全卫视极速版](https://weishi.360.cn/jisu/)”*
-- 火绒安全* https://www.huorong.cn/ [火绒应用商店](https://www.huorong.cn/app_store.html)
+- 火绒安全* https://www.huorong.cn/ 搭配：[火绒应用商店](https://www.huorong.cn/app_store.html)
 - 腾讯电脑管家 https://guanjia.qq.com/
 - 微软电脑管家 https://pcmanager.microsoft.com/
 - 图吧工具箱 https://www.tbtool.cn/
