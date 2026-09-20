@@ -180,6 +180,7 @@
 - qBittorrent https://www.qbittorrent.org/
 - 迅雷 https://www.xunlei.com/  *用户基数大；但有广告。可以试试“迅雷精简版”无账号体系*
 - 百度网盘 https://pan.baidu.com/ *用户基数大；下载龟速*
+- 中国移动云盘 https://yun.139.com/
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
 
