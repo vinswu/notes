@@ -36,6 +36,8 @@ Hiddify https://github.com/hiddify/hiddify-next
 
 Karing https://github.com/KaringX/karing
 
+Clash https://apps.apple.com/us/app/clash-rule-based-proxy/id6794257189
+
 ## Android 平台
 
 Shadowsocks https://github.com/shadowsocks/shadowsocks-android
@@ -79,6 +81,8 @@ Hiddify https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532
 Karing https://apps.apple.com/us/app/karing/id6472431552
 
 Clash Mi https://apps.apple.com/us/app/clash-mi/id6744321968
+
+Clash https://apps.apple.com/us/app/clash-rule-based-proxy/id6794257189
 
 ## 其他
 
