@@ -132,7 +132,7 @@
 
 #### 系统维护辅助工具
 - 360杀毒 https://sd.360.cn/  *用户基数大；容易全家桶*
-- 360安全卫士 https://weishi.360.cn/ *建议下载使用“[360安全卫视极速版](https://weishi.360.cn/jisu/)”*
+- 360安全卫士 https://weishi.360.cn/ *用户基数大；建议下载使用“[360安全卫视极速版](https://weishi.360.cn/jisu/)”*
 - 火绒安全* https://www.huorong.cn/
 - 火绒应用商店* https://www.huorong.cn/app_store.html
 - 腾讯电脑管家 https://guanjia.qq.com/
@@ -165,7 +165,7 @@
 - Tor Browser[H] https://www.torproject.org/zh-CN/download/
 - Chromium https://www.chromium.org/chromium-projects/
 - Google Chrome*[H] https://www.google.com/chrome/
-- Microsoft Edge https://www.microsoft.com/zh-cn/edge
+- Microsoft Edge https://www.microsoft.com/zh-cn/edge *Windows自带*
 
 #### 浏览器插件
 - uBlock Origin* https://ublockorigin.com/ *广告拦截。付费推荐：[AdGuard*](https://adguard.com/ "浏览器插件免费")*
@@ -182,13 +182,13 @@
 - eMule(电骡) http://emule-project.net
 - qBittorrent https://www.qbittorrent.org/
 - 迅雷 https://www.xunlei.com/  *用户基数大；但有广告。可以试试“迅雷精简版”无账号体系*
-- 百度网盘 https://pan.baidu.com/ *资源丰富；下载龟速*
+- 百度网盘 https://pan.baidu.com/ *用户基数大；下载龟速*
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
 
 #### 解压缩&文件校验工具
 - 7-zip* https://www.7-zip.org/
-- WinRAR https://www.rarlab.com/
+- WinRAR https://www.rarlab.com/ *[国内代理商](https://www.winrar.com.cn/)，从5.40版本之后，开始免费，但加入了广告*
 - Hash https://keir.net/hash.html
 - HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
