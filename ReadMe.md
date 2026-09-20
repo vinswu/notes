@@ -157,8 +157,6 @@
 - 讯飞输入法 https://srf.xunfei.cn/
 - 百度输入法 https://srf.baidu.com/
 - 豆包输入法 https://shurufa.doubao.com/pc *腾讯系：[微信输入法](https://z.weixin.qq.com/)；阿里系：[千问输入法](https://ime.qianwen.com/)*
-> 深蓝词库转换 https://github.com/studyzy/imewlconverter  
-> 搜狗细胞词库 https://pinyin.sogou.com/dict/
 
 #### 浏览器
 - Mozilla Firefox* https://www.mozilla.org/zh-CN/firefox/browsers/
