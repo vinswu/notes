@@ -156,7 +156,7 @@
 - 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法*](https://www.xinshuru.com/)也值得一试”*
 - 讯飞输入法 https://srf.xunfei.cn/
 - 百度输入法 https://srf.baidu.com/
-- 豆包输入法 https://shurufa.doubao.com/pc *腾讯系：[微信输入法](https://z.weixin.qq.com/)；阿里系：[千问输入法](https://ime.qianwen.com/)*
+- 豆包输入法 https://shurufa.doubao.com/pc
 
 #### 浏览器
 - Mozilla Firefox* https://www.mozilla.org/zh-CN/firefox/browsers/
