@@ -197,6 +197,10 @@
 - 微信 https://weixin.qq.com/
 - 腾讯会议 https://meeting.tencent.com/
 
+#### 远程控制软件
+- RustDesk https://rustdesk.com/zh-cn/
+- 向日葵远程控制 https://sunlogin.oray.com/
+
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
 - 钉钉 https://www.dingtalk.com/
