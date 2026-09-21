@@ -45,6 +45,7 @@
   - VisualCppRedist AIO* https://github.com/abbodi1406/vcredist
   - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
   - 微软常用运行库合集-Dreamcast http://dreamcast2.ysepan.com/
+  - 游戏加加 https://gamepp.com/ *没错，它可以扫描并修复缺失的系统运行库*
  
 - .NET
   - Microsoft .NET Framework 修复工具 https://support.microsoft.com/zh-cn/topic/microsoft-net-framework-修复工具可用-942a01e3-5b8b-7abb-c166-c34a2f4b612a
