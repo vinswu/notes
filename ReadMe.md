@@ -136,7 +136,6 @@
 - 火绒安全* https://www.huorong.cn/ 搭配：[火绒应用商店](https://www.huorong.cn/app_store.html)  *其他：[腾讯电脑管家](https://guanjia.qq.com/ "从3Q大战后，到出火绒前，我一直用它")*
 - Atlas https://github.com/Atlas-OS/Atlas *系统优化*
 - ReviOS https://revi.cc/ *系统优化*
-- 图吧工具箱 https://www.tbtool.cn/
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
 - ZyperWin++ https://github.com/ZyperWave/ZyperWinOptimize *系统优化*
 - WPD* https://wpd.app/ *系统优化*
@@ -145,6 +144,7 @@
 - ContextMenuManager* https://github.com/BluePointLilac/ContextMenuManager *右键菜单管理*
 - MyComputerManager* https://github.com/1357310795/MyComputerManager *此电脑内快捷方式管理*
 - DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
+- 图吧工具箱 https://www.tbtool.cn/
 
 #### 输入法
 - 小狼毫Weasel* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)* *了解：[Rime坊](https://rime.yougaoji.com/)*  
