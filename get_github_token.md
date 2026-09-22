@@ -142,8 +142,4 @@ git config --global credential.helper store
 - ✅ 使用 GitHub API
 - ✅ 集成第三方工具
 
-**需要更详细的说明？查看 [完整版指南](./github-token-complete-guide.md)**
-
----
-
-**创建日期：** 2026-02-14
+**需要更详细的说明？查看 [完整版指南](https://github.com/Y1fe1-Yang)**
