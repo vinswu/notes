@@ -138,10 +138,10 @@
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases *系统优化*
 - ZyperWin++ https://github.com/ZyperWave/ZyperWinOptimize *系统优化*
 - optimizerDuck https://github.com/itsfatduck/optimizerDuck *系统优化*
-- WPD* https://wpd.app/ *系统优化*
 - Windows10Debloater https://github.com/Sycnex/Windows10Debloater *系统优化*
 - Win11Debloat https://github.com/Raphire/Win11Debloat *系统优化*
-- PyDebloatX https://github.com/Teraskull/PyDebloatX *卸载预装应用*
+- WPD* https://wpd.app/ *系统优化*
+- PyDebloatX* https://github.com/Teraskull/PyDebloatX *卸载预装应用*
 - CCleaner https://www.ccleaner.com/zh-cn *垃圾清理*
 - Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
 - ContextMenuManager* https://github.com/BluePointLilac/ContextMenuManager *右键菜单管理*
