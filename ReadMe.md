@@ -68,7 +68,7 @@
   - 笔记本：[联想](https://newsupport.lenovo.com.cn/driveDownloads_index.html)；[惠普](https://support.hp.com/cn-zh/drivers)；[戴尔](https://www.dell.com/support/home/zh-cn)……
   - 组装机（主板）：[华硕](https://www.asus.com.cn/support/download-center/)；[微星](https://www.msi.cn/support/download)；[技嘉](https://www.gigabyte.cn/Support/Consumer/Download)……
   - 显卡：[英伟达](https://www.nvidia.cn/drivers/)；[AMD](https://www.amd.com/zh-cn/support/download/drivers.html)；[英特尔](https://www.intel.cn/content/www/cn/zh/download-center/home.html)
-  - 外设：[罗技](https://support.logi.com/hc/zh-cn)；[雷蛇](https://mysupport-chsi.razer.com/app/home)；[樱桃](https://www.cherry.cn/software.html)
+  - 外设：[罗技](https://support.logi.com/hc/zh-cn)；[雷蛇](https://mysupport-chsi.razer.com/app/home)；[樱桃](https://www.cherry.cn/software.html)；[双飞燕](http://www.a4tech.cn/)
 - Snappy Driver Installer Origin (SDIO)* https://www.glenn.delahoy.com/snappy-driver-installer-origin/
 - 联想驱动管理 https://newsupport.lenovo.com.cn/driveDownloads_index.html
 - 360驱动大师* https://dm.weishi.360.cn/home.html
