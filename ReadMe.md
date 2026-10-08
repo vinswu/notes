@@ -168,9 +168,10 @@
 - Microsoft Edge https://www.microsoft.com/zh-cn/edge *Windows自带*
 
 #### 浏览器插件
-- uBlock Origin* https://ublockorigin.com/ *广告拦截。付费推荐：[AdGuard*](https://adguard.com/ "浏览器插件免费")*
+- uBlock Origin* https://ublockorigin.com/ *广告拦截。商业软件推荐：[AdGuard*](https://adguard.com/ "浏览器插件免费")*
 - Bitwarden* https://bitwarden.com/ *密码管理*
 - Ruffle https://ruffle.rs/ *flash播放器*
+- IEability https://ieability.com/ *ie兼容模式*
 
 #### [科学上网工具](https://github.com/vinswu/notes/blob/master/Agent.md)
 - v2rayN* https://github.com/2dust/v2rayN
