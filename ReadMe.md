@@ -289,8 +289,10 @@
 
 #### 看视频
 - VLC Media Player* https://www.videolan.org/vlc/
+- MPV https://github.com/mpv-player/mpv
 - QQ影音 https://player.qq.com/
 - Potplayer* https://potplayer.tv/
+- Kodi https://kodi.tv/download/
 - Emby https://emby.media/
 > Potplayer插件 [LAVFilters](https://github.com/Nevcairiel/LAVFilters)
 
