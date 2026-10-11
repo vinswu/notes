@@ -43,12 +43,14 @@
 
 ##### 运行库 下载
 - VC++
+  - 微软官网  https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist
   - VisualCppRedist AIO* https://github.com/abbodi1406/vcredist
   - 微软常用运行库合集-果壳剥壳 https://www.ghxi.com/yxkhj.html
   - 微软常用运行库合集-Dreamcast http://dreamcast2.ysepan.com/
-  - 游戏加加 https://gamepp.com/ *没错，它可以扫描并修复缺失的系统运行库*
+  - Game Runtime Libraries Package* (GRLPackage-mefcl) https://www.mefcl.com/srlpackage.html
  
 - .NET
+  - 微软官网 https://dotnet.microsoft.com/zh-cn/download/dotnet
   - Microsoft .NET Framework 修复工具 https://support.microsoft.com/zh-cn/topic/microsoft-net-framework-修复工具可用-942a01e3-5b8b-7abb-c166-c34a2f4b612a
   - 微软.NET运行库合集-果壳剥壳 https://www.ghxi.com/nethj.html
 
@@ -206,6 +208,7 @@
 - RustDesk https://rustdesk.com/zh-cn/
 - BilldDesk https://desk.hsslive.cn/
 - 向日葵远程控制 https://sunlogin.oray.com/
+- 网易UU远程 https://uuyc.163.com/
 
 #### OA办公自动化
 - 企业微信 https://work.weixin.qq.com/
@@ -232,7 +235,9 @@
 - WPS PDF https://www.wpspdf.cn/
 - LibreOffice* https://www.libreoffice.org/ *不联网，纯本地*
 - OnlyOffice https://www.onlyoffice.com/
-- PDF24 Creator https://tools.pdf24.org/zh/creator
+- PDFgear https://www.pdfgear.com/zh/
+- PDF24 Creator https://tools.pdf24.org/zh/
+- PDF 补丁丁（PDFPatcher） https://github.com/wmjordan/PDFPatcher
 - 数科OFD https://www.ofd.cn/
 
 #### 办公增强工具
