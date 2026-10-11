@@ -152,6 +152,12 @@
 - DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
 - 图吧工具箱 https://www.tbtool.cn/
 
+#### 解压缩&文件校验工具
+- 7-zip* https://www.7-zip.org/
+- WinRAR https://www.rarlab.com/ *[国内代理商](https://www.winrar.com.cn/)，从5.40版本之后，开始免费，但加入了广告*
+- Hash https://keir.net/hash.html
+- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
+
 #### 输入法
 - 小狼毫Weasel* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)* *了解：[Rime坊](https://rime.yougaoji.com/)*  
 - 极点五笔输入法 http://www.freewb.org/ *老牌.五笔拼音混合输入法*
@@ -181,6 +187,7 @@
 - Clash Verge https://github.com/clash-verge-rev/clash-verge-rev
 
 #### 网络传输工具
+- LocalSend https://localsend.org/
 - Gopeed https://github.com/GopeedLab/gopeed
 - Motrix https://github.com/agalwood/Motrix
 - eMule(电骡) http://emule-project.net
@@ -191,12 +198,6 @@
 - Dropbox https://www.dropbox.com/
 - 坚果云 https://www.jianguoyun.com/
 - Internet Download Manager https://www.internetdownloadmanager.com/
-
-#### 解压缩&文件校验工具
-- 7-zip* https://www.7-zip.org/
-- WinRAR https://www.rarlab.com/ *[国内代理商](https://www.winrar.com.cn/)，从5.40版本之后，开始免费，但加入了广告*
-- Hash https://keir.net/hash.html
-- HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 #### 聊天工具
 - Telegram[H] https://telegram.org/ *语言包:[简体中文](https://t.me/setlanguage/zh-hans-raw)*
