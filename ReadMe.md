@@ -278,7 +278,6 @@
 
 #### 听音乐
 - VLC Media Player* https://www.videolan.org/vlc/
-- Strawberry Music Player https://www.strawberrymusicplayer.org/
 - AIMP* https://www.aimp.ru/
 - foobar2000 https://www.foobar2000.org/
 
