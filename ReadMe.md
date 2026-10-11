@@ -203,6 +203,7 @@
 
 #### 远程控制软件
 - RustDesk https://rustdesk.com/zh-cn/
+- BilldDesk https://desk.hsslive.cn/
 - 向日葵远程控制 https://sunlogin.oray.com/
 
 #### OA办公自动化
@@ -323,6 +324,7 @@
 - 全国资格考试网报平台证件照片审核处理系统 http://www.cpta.com.cn/tooldown.html
 
 ## 外链（按首字母排序）
+| [HapNext](https://hapnext.cn/)
 | [sysin](https://sysin.org/)
 | [zd423](https://www.423down.com/)
 | [大眼仔~旭](https://www.dayanzai.me/)
