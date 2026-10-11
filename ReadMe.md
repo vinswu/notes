@@ -236,7 +236,7 @@
 - WPS PDF https://www.wpspdf.cn/
 - LibreOffice* https://www.libreoffice.org/ *不联网，纯本地*
 - OnlyOffice https://www.onlyoffice.com/
-- PDFgear https://www.pdfgear.com/zh/
+- PDFgear* https://www.pdfgear.com/zh/
 - PDF24 Creator https://tools.pdf24.org/zh/
 - PDF 补丁丁（PDFPatcher） https://github.com/wmjordan/PDFPatcher
 - 数科OFD https://www.ofd.cn/
