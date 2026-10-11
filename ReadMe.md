@@ -208,7 +208,7 @@
 #### 远程控制软件
 - RustDesk https://rustdesk.com/zh-cn/
 - BilldDesk https://desk.hsslive.cn/
-- 向日葵远程控制 https://sunlogin.oray.com/
+- 向日葵远程控制 https://sunlogin.oray.com/ *用户基数大*
 - 网易UU远程 https://uuyc.163.com/
 
 #### OA办公自动化
