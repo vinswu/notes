@@ -18,6 +18,7 @@
 - 无忧启动论坛* https://bbs.wuyou.net/
 
 ##### 镜像刻录工具 下载
+- Ventoy* https://www.ventoy.net/
 - Rufus* https://rufus.ie/zh/
 - balenaEtcher https://etcher.balena.io/
 - UltraISO软碟通* https://cn.ezbsystems.com/ultraiso/download.htm  
