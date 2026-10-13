@@ -148,7 +148,9 @@
 - WPD* https://wpd.app/ *系统优化*
 - PyDebloatX* https://github.com/Teraskull/PyDebloatX *卸载预装应用*
 - CCleaner https://www.ccleaner.com/zh-cn *垃圾清理*
+- FluentCleaner https://github.com/builtbybel/FluentCleaner
 - Geek Uninstaller https://geekuninstaller.com/ *软件卸载*
+- Bulk Crap Uninstaller https://github.com/BCUninstaller/Bulk-Crap-Uninstaller
 - ContextMenuManager* https://github.com/BluePointLilac/ContextMenuManager *右键菜单管理*
 - MyComputerManager* https://github.com/1357310795/MyComputerManager *此电脑内快捷方式管理*
 - DriveIconManager https://github.com/Return-Log/Drive-Icon-Manager *网盘图标删除器*
@@ -168,7 +170,7 @@
 - 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[魔然-魔改自然码](https://github.com/rimeinn/rime-moran)*  
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
-- 搜狗输入法 https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法*](https://www.xinshuru.com/)也值得一试”*
+- 搜狗输入法* https://shurufa.sogou.com/  *用户基数大；臃肿，有广告。可尝试用“[QQ输入法](https://qq.pinyin.cn/)”替代。另，“[手心输入法*](https://www.xinshuru.com/)也值得一试”*
 - 百度输入法 https://srf.baidu.com/
 - 讯飞输入法 https://srf.xunfei.cn/
 - 豆包输入法 https://shurufa.doubao.com/pc
@@ -188,7 +190,7 @@
 
 #### [科学上网工具](https://github.com/vinswu/notes/blob/master/Agent.md)
 - v2rayN* https://github.com/2dust/v2rayN
-- Clash Verge https://github.com/clash-verge-rev/clash-verge-rev
+- Clash Verge* https://github.com/clash-verge-rev/clash-verge-rev
 
 #### 网络传输工具
 - LocalSend https://localsend.org/
@@ -196,7 +198,7 @@
 - Motrix https://github.com/agalwood/Motrix
 - eMule(电骡) http://emule-project.net
 - qBittorrent https://www.qbittorrent.org/
-- 迅雷 https://www.xunlei.com/  *用户基数大；但有广告。可以试试“迅雷精简版”无账号体系*
+- 迅雷* https://www.xunlei.com/  *用户基数大；但有广告。可以试试“迅雷精简版”无账号体系*
 - 百度网盘 https://pan.baidu.com/ *用户基数大；下载龟速*
 - 中国移动云盘 https://yun.139.com/
 - Dropbox https://www.dropbox.com/
@@ -248,12 +250,11 @@
 #### 办公增强工具
 - 万彩办公大师 http://www.wofficebox.com/ *停更，最后版本3.1.2*
 - Notepad--*（Ndd）https://github.com/cxasm/notepad-- *替代记事本*
-- NotepadNext https://github.com/dail8859/NotepadNext 
 - Qalculate!* https://github.com/Qalculate/libqalculate *替代计算器*
 > [Classic Apps](https://win7games.com/)
 
 #### 笔记清单/思维导图
-- 日历清单*（原：桌面日历） https://www.xdiarys.com/
+- 日历清单（原：桌面日历） https://www.xdiarys.com/
 - OneNote https://www.onenote.com/
 - Notion https://www.notion.so/zh-cn
 - Xmind https://www.xmind.cn/
@@ -273,12 +274,12 @@
 - IrfanView* https://www.irfanview.com/
 - FastStone Image Viewer  https://www.faststone.org/
 - XnView Shell Extension 插件 https://www.xnview.com/en/xnshell/ *右键图片预览、格式转换、调整大小、等*
-- FastPreview 插件 https://github.com/nmaier/fastpreview *右键图片预览*
+- FastPreview* 插件 https://github.com/nmaier/fastpreview *右键图片预览*
 
 #### 截图/gif动图录屏
 - QQ截图*
 - Snipaste https://www.snipaste.com/
-- PixPin https://pixpin.cn/
+- PixPin* https://pixpin.cn/
 - ScreenToGif https://www.screentogif.com/
 - FastStone Capture https://www.faststone.org/
 
@@ -300,7 +301,7 @@
 
 #### 看视频
 - VLC Media Player* https://www.videolan.org/vlc/
-- MPV https://github.com/mpv-player/mpv
+- MPV* https://github.com/mpv-player/mpv
 - QQ影音 https://player.qq.com/
 - Potplayer* https://potplayer.tv/
 - Kodi https://kodi.tv/download/
@@ -308,10 +309,10 @@
 > Potplayer插件 [LAVFilters](https://github.com/Nevcairiel/LAVFilters)
 
 #### 视频录制
-- QQ截图-屏幕录制
+- QQ截图*-屏幕录制
 - Captura https://github.com/MathewSachin/Captura
 - OBS https://obsproject.com/zh-cn
-- oCam https://ohsoft.net/
+- oCam* https://ohsoft.net/
 > 注册 [@大眼仔~旭](https://www.dayanzai.me/ocam.html)
 
 #### 视频剪辑
