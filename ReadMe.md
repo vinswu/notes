@@ -135,6 +135,8 @@
 ## 五、Windows装机软件精选 - 使用开源软件！支持开源软件！
 
 #### 系统维护辅助工具
+- 微软电脑管家 https://pcmanager.microsoft.com/zh-CN
+- PowerToys https://github.com/microsoft/PowerToys
 - 360杀毒 https://sd.360.cn/  *用户基数大；容易全家桶*
 - 360安全卫士 https://weishi.360.cn/ *用户基数大；建议下载使用“[360安全卫视极速版](https://weishi.360.cn/jisu/)”*
 - 火绒安全* https://www.huorong.cn/ 搭配：[火绒应用商店](https://www.huorong.cn/app_store.html)  *其他：[腾讯电脑管家](https://guanjia.qq.com/ "从3Q大战后，到出火绒前，我一直用它")*
