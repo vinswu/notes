@@ -36,6 +36,7 @@
 - 7-zip* https://www.7-zip.org/
 - WinRAR https://www.rarlab.com/
 - Hash https://keir.net/hash.html
+- OpenHashTab 插件 https://github.com/namazso/OpenHashTab
 - HashCheck Shell Extension 插件 https://code.kliu.org/hashcheck/
 
 #### 激活工具 下载
