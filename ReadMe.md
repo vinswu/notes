@@ -244,10 +244,9 @@
 
 #### 办公增强工具
 - 万彩办公大师 http://www.wofficebox.com/ *停更，最后版本3.1.2*
-- NotepadNext* https://github.com/dail8859/NotepadNext *替代记事本*
+- Notepad--*（Ndd）https://github.com/cxasm/notepad-- *替代记事本*
+- NotepadNext https://github.com/dail8859/NotepadNext 
 - Qalculate!* https://github.com/Qalculate/libqalculate *替代计算器*
-- DeepL https://github.com/DeepLcom/deepl-python *翻译*
-- Stickies https://www.zhornsoftware.co.uk/stickies/ *桌面便签提醒*
 > [Classic Apps](https://win7games.com/)
 
 #### 笔记清单/思维导图
