@@ -164,9 +164,10 @@
 
 #### 输入法
 - Microsoft 拼音/五笔 https://support.microsoft.com/zh-cn/windows/hardware/input-devices/microsoft-simplified-chinese-ime *系统自带*
-- 小狼毫Weasel https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)、[万象拼音方案](https://github.com/amzxyz/rime-wanxiang)* *了解：[Rime坊](https://rime.yougaoji.com/)*
-- 小小输入法* https://yong.dgod.net/ *永码:一个双拼加形类的编码方案，双拼部分采用自然码双拼方案，辅助码*
-- - 小鹤音形输入法 https://flypy.cc/ *生态好。[自然码](https://www.ziranma.com.cn/)推荐：[魔然-魔改自然码](https://github.com/rimeinn/rime-moran)*  
+- 小狼毫Weasel* https://rime.im/ *搭配：[雾凇拼音方案](https://github.com/iDvel/rime-ice)、[万象拼音方案](https://github.com/amzxyz/rime-wanxiang)* *了解：[Rime坊](https://rime.yougaoji.com/)*
+- 自然码 https://www.ziranma.com.cn/ *推荐：[Rime+魔然（魔改自然码）](https://github.com/rimeinn/rime-moran)*  
+- 小小输入法 https://yong.dgod.net/ *永码:一个双拼加形类的编码方案，双拼部分采用自然码双拼方案，辅助码* 
+- 小鹤音形输入法 https://flypy.cc/ *生态好*
 - 极点五笔输入法 http://www.freewb.org/ *老牌.五笔拼音混合输入法*
 - 华宇拼音输入法 https://pinyin.thunisoft.com/ *老牌。最早的智能拼音输入法*
 - 逍遥笔手写输入法 http://shurufa.ihanzi.cn/
