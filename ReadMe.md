@@ -255,6 +255,7 @@
 - Notion https://www.notion.so/zh-cn
 - Xmind https://www.xmind.cn/
 - Obsidian https://obsidian.md/zh/
+- Joplin https://joplinapp.org/cn/
 - 幕布 https://mubu.com/home
 - Effie https://www.effie.co/
 
