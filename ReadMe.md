@@ -281,8 +281,8 @@
 
 #### 截图/gif动图录屏
 - QQ截图*
-- Snipaste https://www.snipaste.com/
-- PixPin* https://pixpin.cn/
+- Snipaste* https://www.snipaste.com/
+- PixPin https://pixpin.cn/
 - ScreenToGif https://www.screentogif.com/
 - FastStone Capture https://www.faststone.org/
 
