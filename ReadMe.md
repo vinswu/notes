@@ -6,6 +6,7 @@
 #### 软件：系统、PE、镜像刻录工具、解压缩工具、激活工具、运行库、驱动
 
 ##### 系统 下载
+- Microsoft Windows 下载 https://www.microsoft.com/zh-cn/software-download
 - MSDN,我告诉你 https://msdn.itellyou.cn/
 - HelloWindows https://hellowindows.cn/
 - List of files by Microsoft https://files.rg-adguard.net/
@@ -224,7 +225,7 @@
 - 飞书 https://www.feishu.cn/
 
 #### 办公基础套件
-- Microsoft Office* / Project* / Visio* https://www.office.com/
+- Microsoft Office 部署工具(ODT) https://learn.microsoft.com/zh-cn/officeupdates/odt-release-history
 > 安装 [Office Tool Plus](https://otp.landian.vip/zh-cn/) | [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)  
 > 激活 [Ohook](https://github.com/asdcorp/ohook)  
 > 插件 [OfficePLUS](https://www.officeplus.cn/addin/OPCN/)  
