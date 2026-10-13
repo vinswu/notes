@@ -310,7 +310,7 @@
 
 #### 视频录制
 - QQ截图*-屏幕录制
-- Captura https://github.com/MathewSachin/Captura
+- Captura* https://github.com/MathewSachin/Captura
 - OBS https://obsproject.com/zh-cn
 - oCam* https://ohsoft.net/
 > 注册 [@大眼仔~旭](https://www.dayanzai.me/ocam.html)
