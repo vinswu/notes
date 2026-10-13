@@ -29,7 +29,7 @@
 #### 万象拼音
   https://github.com/amzxyz/rime-wanxiang
 
-#### 魔然双拼（自然码）
+#### 魔然（自然码）
   https://github.com/rimeinn/rime-moran
 
 #### 86五笔
