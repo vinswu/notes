@@ -1,4 +1,4 @@
-# 红米Note7(lavender)玩机记录
+# RedmiNote7(lavender)玩机记录
 
 ## 基础
 
