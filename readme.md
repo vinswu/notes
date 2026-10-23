@@ -1,1 +1,1 @@
-live and learn
+学无止境
