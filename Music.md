@@ -27,6 +27,8 @@
 
 - ZY Player  https://github.com/Hunlongyu/ZY-Player
 
+- uz 影视 https://github.com/YYDS678/uzVideo
+
 # For Android
 
 ## 音乐
