@@ -252,7 +252,7 @@
 
 #### 办公增强工具
 - 万彩办公大师 http://www.wofficebox.com/ *停更，最后版本3.1.2*
-- Notepad--*（Ndd）https://github.com/cxasm/notepad-- *替代记事本*
+- Notepad++* https://github.com/notepad-plus-plus/notepad-plus-plus *替代记事本*
 - Qalculate!* https://github.com/Qalculate/libqalculate *替代计算器*
 > [Classic Apps](https://win7games.com/)
 
