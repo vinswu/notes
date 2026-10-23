@@ -1,5 +1,13 @@
 ## 音乐
 
+#### Spotify(声破天) https://open.spotify.com/
+
+#### KKBOX https://play.kkbox.com/
+
+#### QQ音乐 https://y.qq.com/
+
+#### MixerBox https://www.mbplayer.com/
+
 #### 洛雪LX Music https://github.com/lyswhut/lx-music-desktop
 
 - 音源
