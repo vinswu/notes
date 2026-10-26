@@ -2,7 +2,7 @@
 
 ## 启动桌面+应用商店
 [ATV Launcher Pro](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro)  
-[AndroidTVLauncher Launcher(猫桌面)](https://github.com/JackyAndroid/AndroidTVLauncher)  
+[AndroidTVLauncher(猫桌面)](https://github.com/JackyAndroid/AndroidTVLauncher)  
 [Clean Your TV](https://github.com/Gathin23/cleanyourtv)  
 [Aerial](https://github.com/pengchujin/aerial-tv)  
 [One](https://github.com/MrJelly/OneTV/releases)  
