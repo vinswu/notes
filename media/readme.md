@@ -53,7 +53,7 @@ DongYuTvWeb（我的电视） https://app.jdynb.xyz/ 或 https://github.com/Yu20
 羽禾直播（与星火电视同包名）  
 ……  
 
-## 直播壳子[+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
+## 直播壳子
 
 Stream Player https://player.hicairo.com/  
 TiviMate https://tivimate.com/  支持M3U格式  
@@ -75,7 +75,7 @@ DIYP影音 https://www.right.com.cn/forum/thread-8280295-1-1.html 支持TXT格�
 一起看 https://yqk.app  
 瓜子影视 https://gzys.app
 
-## 点播壳子[+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
+## 点播壳子
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC  
 TVBox(Jun) https://github.com/q215613905/TVBoxOSCRelease  
