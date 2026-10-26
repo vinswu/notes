@@ -20,7 +20,10 @@
 ## 应用安装助手
 [欢视助手](https://zhushou.huan.tv/)  
 [野草助手](https://www.yecao.net/)  
+
 [应用管家](https://pd.qq.com/s/fvauombf8?b=9)  
+[PushTV](https://github.com/ZhhHugoChang/PushTV)  
+
 [甲壳虫ADB助手（Android手机用）](https://github.com/didjdk/adbhelper)  
 [开心电视助手（Windows电脑用）](https://www.kaixindianshi.com/)  
 
