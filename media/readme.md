@@ -1,11 +1,11 @@
 # AndroidTV应用精选
 
 ## 启动桌面+应用商店
-[One](https://github.com/MrJelly/OneTV/releases)  
+[ATV Launcher Pro](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro)  
+[AndroidTVLauncher Launcher(猫桌面)](https://github.com/JackyAndroid/AndroidTVLauncher)  
 [Clean Your TV](https://github.com/Gathin23/cleanyourtv)  
 [Aerial](https://github.com/pengchujin/aerial-tv)  
-[AndroidTVLauncher Launcher(猫桌面)](https://github.com/JackyAndroid/AndroidTVLauncher)  
-[ATV Launcher Pro](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro)  
+[One](https://github.com/MrJelly/OneTV/releases)  
 
 [Emotn UI](https://app.emotn.com/ui/) + [Emotn Store](https://app.emotn.com/)  
 [当贝桌面](https://www.dangbei.com/zhuomian/) + [当贝市场](https://www.dangbei.com/apps/)  
