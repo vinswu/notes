@@ -34,6 +34,8 @@ Clash Verge Rev https://github.com/clash-verge-rev/clash-verge-rev
 
 FlClash https://github.com/chen08209/FlClash
 
+Clash Mi https://apps.apple.com/us/app/clash-mi/id6744321968
+
 Hiddify https://github.com/hiddify/hiddify-next
 
 Karing https://github.com/KaringX/karing
