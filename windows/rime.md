@@ -34,3 +34,7 @@
 
 #### 86五笔
   https://github.com/KyleBing/rime-wubi86-jidian
+
+
+## 码圈 - 中文输入法
+  https://dieken.gitlab.io/posts/chinese-input-methods/
