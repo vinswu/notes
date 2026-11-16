@@ -49,6 +49,10 @@ https://bitwarden.com/
 
 https://duckduckgo.com/app
 
+### KISS Translator - 网页翻译
+
+https://kiss-translator.rayjar.com/
+
 ### Ruffle - Flash 播放
 
 https://ruffle.rs/
